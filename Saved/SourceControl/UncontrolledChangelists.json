@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Unreal/TP2_PrograMotores_1/Spyrou/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Unreal/TP2_PrograMotores_1/Spyrou/Content/Levels/MAP_Spyro.umap",
 				"H:/Proyectos Unity/Spyrou/Content/ThirdPerson/Maps/MAP_Spyro.umap",
 				"H:/Proyectos Unity/Spyrou/Content/Levels/MAP_Spyro.umap",
 				"H:/Proyectos Unity/Spyrou/Content/Levels/ThirdPersonMap_BuiltData.uasset",
@@ -212,8 +214,7 @@
 				"H:/Proyectos Unity/Spyrou/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/4/VW/TY7TSUER9KKGHX2BMKSL0L.uasset",
 				"H:/Proyectos Unity/Spyrou/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/43/HYQWORMY4JDQ5X3OKZXFLC.uasset",
 				"H:/Proyectos Unity/Spyrou/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
-				"H:/Proyectos Unity/Spyrou/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uasset",
-				"D:/Unreal/TP2_PrograMotores_1/Spyrou/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"H:/Proyectos Unity/Spyrou/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uasset"
 			]
 		}
 	]
