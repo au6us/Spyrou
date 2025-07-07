@@ -5884,3 +5884,812 @@ Scale3D: 1.000000 1.000000 1.000000
 [2025.07.07-22.25.01:932][616]AssetCheck: New page: Asset Save: BS_Crouch
 [2025.07.07-22.25.01:932][616]LogContentValidation: Display: Validating /Script/Engine.BlendSpace /Game/SPYRO_ANIM/BS_Crouch.BS_Crouch
 [2025.07.07-22.25.04:257][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2025.07.07-22.25.40:471][897]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8894.928711
+[2025.07.07-22.25.41:522][900]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.07-22.25.41:522][900]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8895.596680, Update Interval: 334.463318
+[2025.07.07-22.25.44:212][997]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/SPYRO_ANIM/BS_Crouch.BS_Crouch
+[2025.07.07-22.26.15:038][481]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.07-22.26.15:093][481]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SPYRO_ANIM/BS_Crouch" FILE="H:/Proyectos Unity/Spyrou/Content/SPYRO_ANIM/BS_Crouch.uasset" SILENT=true
+[2025.07.07-22.26.15:094][481]LogSavePackage: Moving output files for package: /Game/SPYRO_ANIM/BS_Crouch
+[2025.07.07-22.26.15:095][481]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/BS_Crouch2646AD194D8490A460DA689FC72AD68D.tmp' to 'H:/Proyectos Unity/Spyrou/Content/SPYRO_ANIM/BS_Crouch.uasset'
+[2025.07.07-22.26.15:106][481]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 19.8 sec)
+[2025.07.07-22.26.15:107][481]AssetCheck: New page: Asset Save: BS_Crouch
+[2025.07.07-22.26.15:107][481]LogContentValidation: Display: Validating /Script/Engine.BlendSpace /Game/SPYRO_ANIM/BS_Crouch.BS_Crouch
+[2025.07.07-22.26.15:953][509]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.07-22.26.16:008][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SPYRO_ANIM/BS_Crouch" FILE="H:/Proyectos Unity/Spyrou/Content/SPYRO_ANIM/BS_Crouch.uasset" SILENT=true
+[2025.07.07-22.26.16:009][509]LogSavePackage: Moving output files for package: /Game/SPYRO_ANIM/BS_Crouch
+[2025.07.07-22.26.16:010][509]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/BS_Crouch11DF353E48E290DE76C2EE9AEC234244.tmp' to 'H:/Proyectos Unity/Spyrou/Content/SPYRO_ANIM/BS_Crouch.uasset'
+[2025.07.07-22.26.16:021][509]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 19.9 sec)
+[2025.07.07-22.26.16:022][509]AssetCheck: New page: Asset Save: BS_Crouch
+[2025.07.07-22.26.16:022][509]LogContentValidation: Display: Validating /Script/Engine.BlendSpace /Game/SPYRO_ANIM/BS_Crouch.BS_Crouch
+[2025.07.07-22.26.16:524][526]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.07-22.26.16:622][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SPYRO_ANIM/BS_Crouch" FILE="H:/Proyectos Unity/Spyrou/Content/SPYRO_ANIM/BS_Crouch.uasset" SILENT=true
+[2025.07.07-22.26.16:633][526]LogSavePackage: Moving output files for package: /Game/SPYRO_ANIM/BS_Crouch
+[2025.07.07-22.26.16:633][526]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/BS_Crouch9323B76B4208D75A3036B6BA5A3245A6.tmp' to 'H:/Proyectos Unity/Spyrou/Content/SPYRO_ANIM/BS_Crouch.uasset'
+[2025.07.07-22.26.16:646][526]LogFileHelpers: InternalPromptForCheckoutAndSave took 122 ms (total: 20.0 sec)
+[2025.07.07-22.26.16:646][526]AssetCheck: New page: Asset Save: BS_Crouch
+[2025.07.07-22.26.16:646][526]LogContentValidation: Display: Validating /Script/Engine.BlendSpace /Game/SPYRO_ANIM/BS_Crouch.BS_Crouch
+[2025.07.07-22.26.17:825][572]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.07.07-22.26.29:534][752]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.07-22.26.29:598][752]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SPYRO_ANIM/BS_Crouch" FILE="H:/Proyectos Unity/Spyrou/Content/SPYRO_ANIM/BS_Crouch.uasset" SILENT=true
+[2025.07.07-22.26.29:599][752]LogSavePackage: Moving output files for package: /Game/SPYRO_ANIM/BS_Crouch
+[2025.07.07-22.26.29:599][752]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/BS_Crouch55EEA12C454A6E24A6CB8785854A8BCF.tmp' to 'H:/Proyectos Unity/Spyrou/Content/SPYRO_ANIM/BS_Crouch.uasset'
+[2025.07.07-22.26.29:610][752]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 20.0 sec)
+[2025.07.07-22.26.29:611][752]AssetCheck: New page: Asset Save: BS_Crouch
+[2025.07.07-22.26.29:611][752]LogContentValidation: Display: Validating /Script/Engine.BlendSpace /Game/SPYRO_ANIM/BS_Crouch.BS_Crouch
+[2025.07.07-22.26.34:857][809]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2025.07.07-22.27.01:525][157]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.07-22.27.01:655][157]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SPYRO_ANIM/BS_Crouch" FILE="H:/Proyectos Unity/Spyrou/Content/SPYRO_ANIM/BS_Crouch.uasset" SILENT=true
+[2025.07.07-22.27.01:656][157]LogSavePackage: Moving output files for package: /Game/SPYRO_ANIM/BS_Crouch
+[2025.07.07-22.27.01:657][157]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/BS_Crouch3272FA89424E4E3031955FB47D3F2A51.tmp' to 'H:/Proyectos Unity/Spyrou/Content/SPYRO_ANIM/BS_Crouch.uasset'
+[2025.07.07-22.27.01:668][157]LogFileHelpers: InternalPromptForCheckoutAndSave took 142 ms (total: 20.2 sec)
+[2025.07.07-22.27.01:668][157]AssetCheck: New page: Asset Save: BS_Crouch
+[2025.07.07-22.27.01:668][157]LogContentValidation: Display: Validating /Script/Engine.BlendSpace /Game/SPYRO_ANIM/BS_Crouch.BS_Crouch
+[2025.07.07-22.27.30:106][973]BlueprintLog: New page: Compile ABP_Spyro
+[2025.07.07-22.27.30:114][973]LogBlueprint: Warning: [AssetLog] H:\Proyectos Unity\Spyrou\Content\SPYRO_ANIM\ABP_Spyro.uasset: [Compiler] CROUCH to BS_Crouch  will never be taken, please connect something to  Can Enter Transition
+[2025.07.07-22.27.30:153][973]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.07.07-22.27.30:565][986]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.07-22.27.30:643][986]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SPYRO_ANIM/ABP_Spyro" FILE="H:/Proyectos Unity/Spyrou/Content/SPYRO_ANIM/ABP_Spyro.uasset" SILENT=true
+[2025.07.07-22.27.30:666][986]LogSavePackage: Moving output files for package: /Game/SPYRO_ANIM/ABP_Spyro
+[2025.07.07-22.27.30:667][986]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/ABP_Spyro62446F9C4E4DA7B650557698C0858DB2.tmp' to 'H:/Proyectos Unity/Spyrou/Content/SPYRO_ANIM/ABP_Spyro.uasset'
+[2025.07.07-22.27.30:681][986]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 20.3 sec)
+[2025.07.07-22.27.30:682][986]AssetCheck: New page: Asset Save: ABP_Spyro
+[2025.07.07-22.27.30:682][986]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/SPYRO_ANIM/ABP_Spyro.ABP_Spyro
+[2025.07.07-22.27.43:699][212]BlueprintLog: New page: Compile ABP_Spyro
+[2025.07.07-22.27.43:738][212]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.07.07-22.27.44:163][226]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.07-22.27.44:256][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SPYRO_ANIM/ABP_Spyro" FILE="H:/Proyectos Unity/Spyrou/Content/SPYRO_ANIM/ABP_Spyro.uasset" SILENT=true
+[2025.07.07-22.27.44:279][226]LogSavePackage: Moving output files for package: /Game/SPYRO_ANIM/ABP_Spyro
+[2025.07.07-22.27.44:280][226]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/ABP_Spyro00D5F0ED40E707308BA85F8739AC9B26.tmp' to 'H:/Proyectos Unity/Spyrou/Content/SPYRO_ANIM/ABP_Spyro.uasset'
+[2025.07.07-22.27.44:290][226]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 20.4 sec)
+[2025.07.07-22.27.44:291][226]AssetCheck: New page: Asset Save: ABP_Spyro
+[2025.07.07-22.27.44:291][226]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/SPYRO_ANIM/ABP_Spyro.ABP_Spyro
+[2025.07.07-22.28.47:694][946]BlueprintLog: New page: Compile ABP_Spyro
+[2025.07.07-22.28.47:742][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.07.07-22.28.48:273][964]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.07-22.28.48:373][964]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SPYRO_ANIM/ABP_Spyro" FILE="H:/Proyectos Unity/Spyrou/Content/SPYRO_ANIM/ABP_Spyro.uasset" SILENT=true
+[2025.07.07-22.28.48:396][964]LogSavePackage: Moving output files for package: /Game/SPYRO_ANIM/ABP_Spyro
+[2025.07.07-22.28.48:397][964]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/ABP_SpyroE6E1354D4728226D74E235B2DDDE51DB.tmp' to 'H:/Proyectos Unity/Spyrou/Content/SPYRO_ANIM/ABP_Spyro.uasset'
+[2025.07.07-22.28.48:408][964]LogFileHelpers: InternalPromptForCheckoutAndSave took 134 ms (total: 20.6 sec)
+[2025.07.07-22.28.48:409][964]AssetCheck: New page: Asset Save: ABP_Spyro
+[2025.07.07-22.28.48:409][964]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/SPYRO_ANIM/ABP_Spyro.ABP_Spyro
+[2025.07.07-22.29.01:543][140]BlueprintLog: New page: Compile ABP_Spyro
+[2025.07.07-22.29.01:551][140]LogBlueprint: Warning: [AssetLog] H:\Proyectos Unity\Spyrou\Content\SPYRO_ANIM\ABP_Spyro.uasset: [Compiler] BS_Crouch to StopCrouch  will never be taken, please connect something to  Can Enter Transition
+[2025.07.07-22.29.01:589][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.07.07-22.29.02:060][156]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.07-22.29.02:153][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SPYRO_ANIM/ABP_Spyro" FILE="H:/Proyectos Unity/Spyrou/Content/SPYRO_ANIM/ABP_Spyro.uasset" SILENT=true
+[2025.07.07-22.29.02:179][156]LogSavePackage: Moving output files for package: /Game/SPYRO_ANIM/ABP_Spyro
+[2025.07.07-22.29.02:180][156]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/ABP_SpyroC14A6F524D3CD13EF3B027A3338D7383.tmp' to 'H:/Proyectos Unity/Spyrou/Content/SPYRO_ANIM/ABP_Spyro.uasset'
+[2025.07.07-22.29.02:191][156]LogFileHelpers: InternalPromptForCheckoutAndSave took 130 ms (total: 20.7 sec)
+[2025.07.07-22.29.02:193][156]AssetCheck: New page: Asset Save: ABP_Spyro
+[2025.07.07-22.29.02:193][156]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/SPYRO_ANIM/ABP_Spyro.ABP_Spyro
+[2025.07.07-22.29.05:350][234]BlueprintLog: New page: Compile ABP_Spyro
+[2025.07.07-22.29.05:358][234]LogBlueprint: Warning: [AssetLog] H:\Proyectos Unity\Spyrou\Content\SPYRO_ANIM\ABP_Spyro.uasset: [Compiler] BS_Crouch to StopCrouch  will never be taken, please connect something to  Can Enter Transition
+[2025.07.07-22.29.05:396][234]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.07.07-22.29.35:729][939]BlueprintLog: New page: Compile ABP_Spyro
+[2025.07.07-22.29.35:777][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.07.07-22.29.36:259][954]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.07-22.29.36:370][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SPYRO_ANIM/ABP_Spyro" FILE="H:/Proyectos Unity/Spyrou/Content/SPYRO_ANIM/ABP_Spyro.uasset" SILENT=true
+[2025.07.07-22.29.36:396][954]LogSavePackage: Moving output files for package: /Game/SPYRO_ANIM/ABP_Spyro
+[2025.07.07-22.29.36:397][954]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/ABP_SpyroF85FB2224DB8E2B1D1622F80243ACA85.tmp' to 'H:/Proyectos Unity/Spyrou/Content/SPYRO_ANIM/ABP_Spyro.uasset'
+[2025.07.07-22.29.36:407][954]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 20.8 sec)
+[2025.07.07-22.29.36:409][954]AssetCheck: New page: Asset Save: ABP_Spyro
+[2025.07.07-22.29.36:409][954]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/SPYRO_ANIM/ABP_Spyro.ABP_Spyro
+[2025.07.07-22.29.53:761][342]BlueprintLog: New page: Compile ABP_Spyro
+[2025.07.07-22.29.53:806][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.07.07-22.29.54:267][355]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.07-22.29.54:382][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SPYRO_ANIM/ABP_Spyro" FILE="H:/Proyectos Unity/Spyrou/Content/SPYRO_ANIM/ABP_Spyro.uasset" SILENT=true
+[2025.07.07-22.29.54:408][355]LogSavePackage: Moving output files for package: /Game/SPYRO_ANIM/ABP_Spyro
+[2025.07.07-22.29.54:408][355]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/ABP_Spyro67BE03D74B22E6364A4226BE612738F5.tmp' to 'H:/Proyectos Unity/Spyrou/Content/SPYRO_ANIM/ABP_Spyro.uasset'
+[2025.07.07-22.29.54:420][355]LogFileHelpers: InternalPromptForCheckoutAndSave took 152 ms (total: 21.0 sec)
+[2025.07.07-22.29.54:422][355]AssetCheck: New page: Asset Save: ABP_Spyro
+[2025.07.07-22.29.54:422][355]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/SPYRO_ANIM/ABP_Spyro.ABP_Spyro
+[2025.07.07-22.29.55:603][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.07.07-22.30.16:710][ 29]BlueprintLog: New page: Compile ABP_Spyro
+[2025.07.07-22.30.16:758][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2025.07.07-22.30.17:272][ 46]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.07-22.30.17:390][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SPYRO_ANIM/ABP_Spyro" FILE="H:/Proyectos Unity/Spyrou/Content/SPYRO_ANIM/ABP_Spyro.uasset" SILENT=true
+[2025.07.07-22.30.17:417][ 46]LogSavePackage: Moving output files for package: /Game/SPYRO_ANIM/ABP_Spyro
+[2025.07.07-22.30.17:418][ 46]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/ABP_Spyro15EBB16C4F57011A07E672A928B8B272.tmp' to 'H:/Proyectos Unity/Spyrou/Content/SPYRO_ANIM/ABP_Spyro.uasset'
+[2025.07.07-22.30.17:429][ 46]LogFileHelpers: InternalPromptForCheckoutAndSave took 156 ms (total: 21.2 sec)
+[2025.07.07-22.30.17:430][ 46]AssetCheck: New page: Asset Save: ABP_Spyro
+[2025.07.07-22.30.17:430][ 46]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/SPYRO_ANIM/ABP_Spyro.ABP_Spyro
+[2025.07.07-22.30.30:712][145]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.07-22.30.30:720][145]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.07-22.30.30:720][145]PIE: New page: PIE session: MAP_SpyroLevel2 (7 jul. 2025 16:30:30)
+[2025.07.07-22.30.30:720][145]LogPlayLevel: Display: Creating online subsystem for client :Context_139
+[2025.07.07-22.30.30:723][145]LogOnline: OSS: Created online subsystem instance for: :Context_139
+[2025.07.07-22.30.30:770][146]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MAP_SpyroLevel2
+[2025.07.07-22.30.31:192][146]LogPlayLevel: PIE: StaticDuplicateObject took: (0.422325s)
+[2025.07.07-22.30.31:192][146]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MAP_SpyroLevel2.MAP_SpyroLevel2 to /Game/Levels/UEDPIE_0_MAP_SpyroLevel2.MAP_SpyroLevel2 (0.422448s)
+[2025.07.07-22.30.31:208][146]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.07.07-22.30.31:214][146]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.07.07-22.30.31:215][146]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.07.07-22.30.31:215][146]LogAIModule: Creating AISystem for world MAP_SpyroLevel2
+[2025.07.07-22.30.31:217][146]LogPlayLevel: PIE: World Init took: (0.002449s)
+[2025.07.07-22.30.31:217][146]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2025.07.07-22.30.31:217][146]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.07-22.30.31:217][146]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.07-22.30.31:217][146]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.07-22.30.31:218][146]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.07-22.30.31:218][146]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.07-22.30.31:218][146]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.07-22.30.31:218][146]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.07-22.30.31:218][146]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.07-22.30.31:218][146]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.07-22.30.31:218][146]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.07-22.30.31:218][146]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.07-22.30.31:220][146]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.07-22.30.31:248][146]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2025.07.07-22.30.31:248][146]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.07-22.30.31:248][146]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.07-22.30.31:248][146]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.07-22.30.31:250][146]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=43
+[2025.07.07-22.30.31:250][146]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=43
+[2025.07.07-22.30.31:251][146]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=43
+[2025.07.07-22.30.31:251][146]LogInit: FAudioDevice initialized with ID 43.
+[2025.07.07-22.30.31:251][146]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=43
+[2025.07.07-22.30.31:252][146]LogAudio: Display: Audio Device (ID: 43) registered with world 'MAP_SpyroLevel2'.
+[2025.07.07-22.30.31:252][146]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 43
+[2025.07.07-22.30.31:255][146]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.07.07-22.30.31:369][146]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MAP_SpyroLevel2.MAP_SpyroLevel2 up for play (max tick rate 0) at 2025.07.07-19.30.31
+[2025.07.07-22.30.31:373][146]LogWorld: Bringing up level for play took: 0.117386
+[2025.07.07-22.30.31:380][146]PIE: Server logged in
+[2025.07.07-22.30.31:381][146]PIE: Play in editor total start time 0,662 seconds.
+[2025.07.07-22.30.45:459][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.07-22.30.45:459][315]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MAP_SpyroLevel2
+[2025.07.07-22.30.45:463][315]LogWorld: UWorld::CleanupWorld for MAP_SpyroLevel2, bSessionEnded=true, bCleanupResources=true
+[2025.07.07-22.30.45:478][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.07-22.30.45:483][315]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.07-22.30.45:494][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.07-22.30.45:555][315]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.07.07-22.30.45:555][315]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 43
+[2025.07.07-22.30.45:556][315]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2025.07.07-22.30.45:557][315]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2025.07.07-22.30.45:563][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.07-22.30.45:583][315]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2025.07.07-22.30.45:742][316]LogPlayLevel: Display: Destroying online subsystem :Context_139
+[2025.07.07-22.31.02:436][868]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.07-22.31.02:534][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SPYRO_ANIM/BS_Crouch" FILE="H:/Proyectos Unity/Spyrou/Content/SPYRO_ANIM/BS_Crouch.uasset" SILENT=true
+[2025.07.07-22.31.02:535][868]LogSavePackage: Moving output files for package: /Game/SPYRO_ANIM/BS_Crouch
+[2025.07.07-22.31.02:536][868]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/BS_Crouch6D66E4B24A07AFE5D53FBC8BE75AC1FD.tmp' to 'H:/Proyectos Unity/Spyrou/Content/SPYRO_ANIM/BS_Crouch.uasset'
+[2025.07.07-22.31.02:546][868]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 21.3 sec)
+[2025.07.07-22.31.02:547][868]AssetCheck: New page: Asset Save: BS_Crouch
+[2025.07.07-22.31.02:547][868]LogContentValidation: Display: Validating /Script/Engine.BlendSpace /Game/SPYRO_ANIM/BS_Crouch.BS_Crouch
+[2025.07.07-22.31.38:609][189]BlueprintLog: New page: Compile ABP_Spyro
+[2025.07.07-22.31.38:655][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.07.07-22.31.39:054][201]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.07-22.31.39:155][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SPYRO_ANIM/ABP_Spyro" FILE="H:/Proyectos Unity/Spyrou/Content/SPYRO_ANIM/ABP_Spyro.uasset" SILENT=true
+[2025.07.07-22.31.39:182][201]LogSavePackage: Moving output files for package: /Game/SPYRO_ANIM/ABP_Spyro
+[2025.07.07-22.31.39:182][201]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/ABP_Spyro1F724882497109BECD6556BB295D10E4.tmp' to 'H:/Proyectos Unity/Spyrou/Content/SPYRO_ANIM/ABP_Spyro.uasset'
+[2025.07.07-22.31.39:193][201]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 21.4 sec)
+[2025.07.07-22.31.39:195][201]AssetCheck: New page: Asset Save: ABP_Spyro
+[2025.07.07-22.31.39:195][201]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/SPYRO_ANIM/ABP_Spyro.ABP_Spyro
+[2025.07.07-22.31.40:994][264]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.07-22.31.41:003][264]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.07-22.31.41:003][264]PIE: New page: PIE session: MAP_SpyroLevel2 (7 jul. 2025 16:31:41)
+[2025.07.07-22.31.41:004][264]LogPlayLevel: Display: Creating online subsystem for client :Context_140
+[2025.07.07-22.31.41:006][264]LogOnline: OSS: Created online subsystem instance for: :Context_140
+[2025.07.07-22.31.41:055][265]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MAP_SpyroLevel2
+[2025.07.07-22.31.41:492][265]LogPlayLevel: PIE: StaticDuplicateObject took: (0.436960s)
+[2025.07.07-22.31.41:492][265]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MAP_SpyroLevel2.MAP_SpyroLevel2 to /Game/Levels/UEDPIE_0_MAP_SpyroLevel2.MAP_SpyroLevel2 (0.437072s)
+[2025.07.07-22.31.41:509][265]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.07.07-22.31.41:514][265]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.07.07-22.31.41:514][265]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.07.07-22.31.41:514][265]LogAIModule: Creating AISystem for world MAP_SpyroLevel2
+[2025.07.07-22.31.41:515][265]LogPlayLevel: PIE: World Init took: (0.001856s)
+[2025.07.07-22.31.41:516][265]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2025.07.07-22.31.41:516][265]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.07-22.31.41:516][265]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.07-22.31.41:516][265]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.07-22.31.41:516][265]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.07-22.31.41:516][265]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.07-22.31.41:516][265]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.07-22.31.41:516][265]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.07-22.31.41:516][265]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.07-22.31.41:516][265]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.07-22.31.41:516][265]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.07-22.31.41:516][265]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.07-22.31.41:518][265]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.07-22.31.41:543][265]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2025.07.07-22.31.41:543][265]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.07-22.31.41:543][265]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.07-22.31.41:543][265]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.07-22.31.41:544][265]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=44
+[2025.07.07-22.31.41:544][265]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=44
+[2025.07.07-22.31.41:546][265]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=44
+[2025.07.07-22.31.41:546][265]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=44
+[2025.07.07-22.31.41:546][265]LogInit: FAudioDevice initialized with ID 44.
+[2025.07.07-22.31.41:546][265]LogAudio: Display: Audio Device (ID: 44) registered with world 'MAP_SpyroLevel2'.
+[2025.07.07-22.31.41:546][265]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 44
+[2025.07.07-22.31.41:550][265]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.07.07-22.31.41:657][265]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MAP_SpyroLevel2.MAP_SpyroLevel2 up for play (max tick rate 0) at 2025.07.07-19.31.41
+[2025.07.07-22.31.41:661][265]LogWorld: Bringing up level for play took: 0.110387
+[2025.07.07-22.31.41:668][265]PIE: Server logged in
+[2025.07.07-22.31.41:670][265]PIE: Play in editor total start time 0,667 seconds.
+[2025.07.07-22.31.52:791][184]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.07-22.31.52:791][184]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MAP_SpyroLevel2
+[2025.07.07-22.31.52:794][184]LogWorld: UWorld::CleanupWorld for MAP_SpyroLevel2, bSessionEnded=true, bCleanupResources=true
+[2025.07.07-22.31.52:808][184]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.07-22.31.52:813][184]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.07-22.31.52:824][184]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.07-22.31.52:884][184]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.07.07-22.31.52:885][184]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 44
+[2025.07.07-22.31.52:885][184]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2025.07.07-22.31.52:887][184]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2025.07.07-22.31.52:892][184]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.07-22.31.52:913][184]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.07.07-22.31.53:063][185]LogPlayLevel: Display: Destroying online subsystem :Context_140
+[2025.07.07-22.32.01:481][623]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.07-22.32.01:488][623]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.07-22.32.01:488][623]PIE: New page: PIE session: MAP_SpyroLevel2 (7 jul. 2025 16:32:01)
+[2025.07.07-22.32.01:512][623]LogPlayLevel: Display: Creating online subsystem for client :Context_141
+[2025.07.07-22.32.01:514][623]LogOnline: OSS: Created online subsystem instance for: :Context_141
+[2025.07.07-22.32.01:557][624]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MAP_SpyroLevel2
+[2025.07.07-22.32.01:981][624]LogPlayLevel: PIE: StaticDuplicateObject took: (0.424022s)
+[2025.07.07-22.32.01:982][624]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MAP_SpyroLevel2.MAP_SpyroLevel2 to /Game/Levels/UEDPIE_0_MAP_SpyroLevel2.MAP_SpyroLevel2 (0.424080s)
+[2025.07.07-22.32.01:998][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.07.07-22.32.02:002][624]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.07.07-22.32.02:002][624]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.07.07-22.32.02:003][624]LogAIModule: Creating AISystem for world MAP_SpyroLevel2
+[2025.07.07-22.32.02:004][624]LogPlayLevel: PIE: World Init took: (0.002215s)
+[2025.07.07-22.32.02:005][624]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2025.07.07-22.32.02:005][624]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.07-22.32.02:005][624]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.07-22.32.02:005][624]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.07-22.32.02:005][624]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.07-22.32.02:005][624]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.07-22.32.02:005][624]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.07-22.32.02:005][624]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.07-22.32.02:005][624]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.07-22.32.02:005][624]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.07-22.32.02:005][624]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.07-22.32.02:005][624]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.07-22.32.02:007][624]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.07-22.32.02:032][624]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2025.07.07-22.32.02:032][624]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.07-22.32.02:032][624]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.07-22.32.02:032][624]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.07-22.32.02:033][624]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=45
+[2025.07.07-22.32.02:033][624]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=45
+[2025.07.07-22.32.02:035][624]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=45
+[2025.07.07-22.32.02:035][624]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=45
+[2025.07.07-22.32.02:035][624]LogInit: FAudioDevice initialized with ID 45.
+[2025.07.07-22.32.02:035][624]LogAudio: Display: Audio Device (ID: 45) registered with world 'MAP_SpyroLevel2'.
+[2025.07.07-22.32.02:036][624]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 45
+[2025.07.07-22.32.02:039][624]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.07.07-22.32.02:139][624]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MAP_SpyroLevel2.MAP_SpyroLevel2 up for play (max tick rate 0) at 2025.07.07-19.32.02
+[2025.07.07-22.32.02:144][624]LogWorld: Bringing up level for play took: 0.104693
+[2025.07.07-22.32.02:151][624]PIE: Server logged in
+[2025.07.07-22.32.02:152][624]PIE: Play in editor total start time 0,665 seconds.
+[2025.07.07-22.32.04:501][809]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9278.998047
+[2025.07.07-22.32.04:730][829]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.07-22.32.04:730][829]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9279.215820, Update Interval: 320.014038
+[2025.07.07-22.32.26:463][716]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.07-22.32.26:463][716]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MAP_SpyroLevel2
+[2025.07.07-22.32.26:466][716]LogWorld: UWorld::CleanupWorld for MAP_SpyroLevel2, bSessionEnded=true, bCleanupResources=true
+[2025.07.07-22.32.26:480][716]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.07-22.32.26:485][716]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.07-22.32.26:496][716]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.07-22.32.26:512][716]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.07-22.32.26:545][716]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 45
+[2025.07.07-22.32.26:545][716]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2025.07.07-22.32.26:547][716]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2025.07.07-22.32.26:584][716]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2025.07.07-22.32.26:742][717]LogPlayLevel: Display: Destroying online subsystem :Context_141
+[2025.07.07-22.32.36:817][ 35]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.07-22.32.36:888][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SPYRO_ANIM/BS_Crouch" FILE="H:/Proyectos Unity/Spyrou/Content/SPYRO_ANIM/BS_Crouch.uasset" SILENT=true
+[2025.07.07-22.32.36:889][ 35]LogSavePackage: Moving output files for package: /Game/SPYRO_ANIM/BS_Crouch
+[2025.07.07-22.32.36:890][ 35]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/BS_Crouch5029EC2440F8C7BCDFE5DD9F20ED1689.tmp' to 'H:/Proyectos Unity/Spyrou/Content/SPYRO_ANIM/BS_Crouch.uasset'
+[2025.07.07-22.32.36:899][ 35]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 21.5 sec)
+[2025.07.07-22.32.36:900][ 35]AssetCheck: New page: Asset Save: BS_Crouch
+[2025.07.07-22.32.36:900][ 35]LogContentValidation: Display: Validating /Script/Engine.BlendSpace /Game/SPYRO_ANIM/BS_Crouch.BS_Crouch
+[2025.07.07-22.32.38:806][104]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.07-22.32.38:871][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SPYRO_ANIM/BS_Crouch" FILE="H:/Proyectos Unity/Spyrou/Content/SPYRO_ANIM/BS_Crouch.uasset" SILENT=true
+[2025.07.07-22.32.38:873][104]LogSavePackage: Moving output files for package: /Game/SPYRO_ANIM/BS_Crouch
+[2025.07.07-22.32.38:874][104]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/BS_CrouchC5E9D0DD438E80A5F3B654980601BF2A.tmp' to 'H:/Proyectos Unity/Spyrou/Content/SPYRO_ANIM/BS_Crouch.uasset'
+[2025.07.07-22.32.38:893][104]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 21.6 sec)
+[2025.07.07-22.32.38:894][104]AssetCheck: New page: Asset Save: BS_Crouch
+[2025.07.07-22.32.38:894][104]LogContentValidation: Display: Validating /Script/Engine.BlendSpace /Game/SPYRO_ANIM/BS_Crouch.BS_Crouch
+[2025.07.07-22.32.40:335][162]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.07-22.32.40:342][162]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.07-22.32.40:342][162]PIE: New page: PIE session: MAP_SpyroLevel2 (7 jul. 2025 16:32:40)
+[2025.07.07-22.32.40:363][162]LogPlayLevel: Display: Creating online subsystem for client :Context_142
+[2025.07.07-22.32.40:365][162]LogOnline: OSS: Created online subsystem instance for: :Context_142
+[2025.07.07-22.32.40:411][163]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MAP_SpyroLevel2
+[2025.07.07-22.32.40:840][163]LogPlayLevel: PIE: StaticDuplicateObject took: (0.428739s)
+[2025.07.07-22.32.40:840][163]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MAP_SpyroLevel2.MAP_SpyroLevel2 to /Game/Levels/UEDPIE_0_MAP_SpyroLevel2.MAP_SpyroLevel2 (0.428792s)
+[2025.07.07-22.32.40:855][163]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.07.07-22.32.40:860][163]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.07.07-22.32.40:860][163]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.07.07-22.32.40:860][163]LogAIModule: Creating AISystem for world MAP_SpyroLevel2
+[2025.07.07-22.32.40:862][163]LogPlayLevel: PIE: World Init took: (0.002449s)
+[2025.07.07-22.32.40:862][163]LogAudio: Display: Creating Audio Device:                 Id: 46, Scope: Unique, Realtime: True
+[2025.07.07-22.32.40:862][163]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.07-22.32.40:862][163]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.07-22.32.40:862][163]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.07-22.32.40:863][163]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.07-22.32.40:863][163]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.07-22.32.40:863][163]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.07-22.32.40:863][163]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.07-22.32.40:863][163]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.07-22.32.40:863][163]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.07-22.32.40:863][163]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.07-22.32.40:863][163]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.07-22.32.40:865][163]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.07-22.32.40:890][163]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2025.07.07-22.32.40:890][163]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.07-22.32.40:890][163]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.07-22.32.40:890][163]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.07-22.32.40:891][163]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=46
+[2025.07.07-22.32.40:891][163]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=46
+[2025.07.07-22.32.40:893][163]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=46
+[2025.07.07-22.32.40:893][163]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=46
+[2025.07.07-22.32.40:893][163]LogInit: FAudioDevice initialized with ID 46.
+[2025.07.07-22.32.40:893][163]LogAudio: Display: Audio Device (ID: 46) registered with world 'MAP_SpyroLevel2'.
+[2025.07.07-22.32.40:893][163]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 46
+[2025.07.07-22.32.40:897][163]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.07.07-22.32.40:997][163]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MAP_SpyroLevel2.MAP_SpyroLevel2 up for play (max tick rate 0) at 2025.07.07-19.32.40
+[2025.07.07-22.32.41:001][163]LogWorld: Bringing up level for play took: 0.104779
+[2025.07.07-22.32.41:008][163]PIE: Server logged in
+[2025.07.07-22.32.41:009][163]PIE: Play in editor total start time 0,667 seconds.
+[2025.07.07-22.32.41:078][164]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.078523 > MaxSimulationTimeStep (0.050) for 'BP_ThirdPersonCharacter_C_0', movement 'Walking'
+[2025.07.07-22.32.45:024][482]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.07-22.32.45:024][482]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MAP_SpyroLevel2
+[2025.07.07-22.32.45:027][482]LogWorld: UWorld::CleanupWorld for MAP_SpyroLevel2, bSessionEnded=true, bCleanupResources=true
+[2025.07.07-22.32.45:041][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.07-22.32.45:047][482]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.07-22.32.45:057][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.07-22.32.45:072][482]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.07-22.32.45:116][482]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 46
+[2025.07.07-22.32.45:116][482]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46
+[2025.07.07-22.32.45:118][482]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46
+[2025.07.07-22.32.45:143][482]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.07.07-22.32.45:280][483]LogPlayLevel: Display: Destroying online subsystem :Context_142
+[2025.07.07-22.33.00:769][  2]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.07-22.33.00:893][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SPYRO_ANIM/BS_Crouch" FILE="H:/Proyectos Unity/Spyrou/Content/SPYRO_ANIM/BS_Crouch.uasset" SILENT=true
+[2025.07.07-22.33.00:895][  2]LogSavePackage: Moving output files for package: /Game/SPYRO_ANIM/BS_Crouch
+[2025.07.07-22.33.00:896][  2]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/BS_Crouch51C5E16A45D0647F6C563C833D96EAB6.tmp' to 'H:/Proyectos Unity/Spyrou/Content/SPYRO_ANIM/BS_Crouch.uasset'
+[2025.07.07-22.33.00:906][  2]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 21.7 sec)
+[2025.07.07-22.33.00:907][  2]AssetCheck: New page: Asset Save: BS_Crouch
+[2025.07.07-22.33.00:907][  2]LogContentValidation: Display: Validating /Script/Engine.BlendSpace /Game/SPYRO_ANIM/BS_Crouch.BS_Crouch
+[2025.07.07-22.33.05:809][174]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.07-22.33.05:882][174]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SPYRO_ANIM/BS_Crouch" FILE="H:/Proyectos Unity/Spyrou/Content/SPYRO_ANIM/BS_Crouch.uasset" SILENT=true
+[2025.07.07-22.33.05:883][174]LogSavePackage: Moving output files for package: /Game/SPYRO_ANIM/BS_Crouch
+[2025.07.07-22.33.05:884][174]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/BS_Crouch887697C7499AE7FB841D49937597E81C.tmp' to 'H:/Proyectos Unity/Spyrou/Content/SPYRO_ANIM/BS_Crouch.uasset'
+[2025.07.07-22.33.05:893][174]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 21.8 sec)
+[2025.07.07-22.33.05:895][174]AssetCheck: New page: Asset Save: BS_Crouch
+[2025.07.07-22.33.05:895][174]LogContentValidation: Display: Validating /Script/Engine.BlendSpace /Game/SPYRO_ANIM/BS_Crouch.BS_Crouch
+[2025.07.07-22.33.09:159][306]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.07-22.33.09:166][306]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.07-22.33.09:167][306]PIE: New page: PIE session: MAP_SpyroLevel2 (7 jul. 2025 16:33:09)
+[2025.07.07-22.33.09:204][306]LogPlayLevel: Display: Creating online subsystem for client :Context_143
+[2025.07.07-22.33.09:207][306]LogOnline: OSS: Created online subsystem instance for: :Context_143
+[2025.07.07-22.33.09:252][307]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MAP_SpyroLevel2
+[2025.07.07-22.33.09:678][307]LogPlayLevel: PIE: StaticDuplicateObject took: (0.425835s)
+[2025.07.07-22.33.09:678][307]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MAP_SpyroLevel2.MAP_SpyroLevel2 to /Game/Levels/UEDPIE_0_MAP_SpyroLevel2.MAP_SpyroLevel2 (0.425893s)
+[2025.07.07-22.33.09:693][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.07.07-22.33.09:698][307]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.07.07-22.33.09:698][307]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.07.07-22.33.09:699][307]LogAIModule: Creating AISystem for world MAP_SpyroLevel2
+[2025.07.07-22.33.09:700][307]LogPlayLevel: PIE: World Init took: (0.002149s)
+[2025.07.07-22.33.09:701][307]LogAudio: Display: Creating Audio Device:                 Id: 47, Scope: Unique, Realtime: True
+[2025.07.07-22.33.09:701][307]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.07-22.33.09:701][307]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.07-22.33.09:701][307]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.07-22.33.09:701][307]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.07-22.33.09:701][307]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.07-22.33.09:701][307]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.07-22.33.09:701][307]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.07-22.33.09:701][307]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.07-22.33.09:701][307]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.07-22.33.09:701][307]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.07-22.33.09:701][307]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.07-22.33.09:703][307]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.07-22.33.09:728][307]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2025.07.07-22.33.09:728][307]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.07-22.33.09:728][307]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.07-22.33.09:728][307]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.07-22.33.09:729][307]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=47
+[2025.07.07-22.33.09:729][307]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=47
+[2025.07.07-22.33.09:731][307]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=47
+[2025.07.07-22.33.09:731][307]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=47
+[2025.07.07-22.33.09:731][307]LogInit: FAudioDevice initialized with ID 47.
+[2025.07.07-22.33.09:731][307]LogAudio: Display: Audio Device (ID: 47) registered with world 'MAP_SpyroLevel2'.
+[2025.07.07-22.33.09:731][307]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 47
+[2025.07.07-22.33.09:735][307]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.07.07-22.33.09:841][307]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MAP_SpyroLevel2.MAP_SpyroLevel2 up for play (max tick rate 0) at 2025.07.07-19.33.09
+[2025.07.07-22.33.09:845][307]LogWorld: Bringing up level for play took: 0.110188
+[2025.07.07-22.33.09:852][307]PIE: Server logged in
+[2025.07.07-22.33.09:853][307]PIE: Play in editor total start time 0,687 seconds.
+[2025.07.07-22.33.24:065][498]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.07-22.33.24:066][498]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MAP_SpyroLevel2
+[2025.07.07-22.33.24:069][498]LogWorld: UWorld::CleanupWorld for MAP_SpyroLevel2, bSessionEnded=true, bCleanupResources=true
+[2025.07.07-22.33.24:083][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.07-22.33.24:088][498]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.07-22.33.24:099][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.07-22.33.24:116][498]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.07-22.33.24:142][498]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 47
+[2025.07.07-22.33.24:142][498]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47
+[2025.07.07-22.33.24:144][498]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47
+[2025.07.07-22.33.24:184][498]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.07.07-22.33.24:320][499]LogPlayLevel: Display: Destroying online subsystem :Context_143
+[2025.07.07-22.33.41:275][850]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.07-22.33.41:360][850]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SPYRO_ANIM/BS_Crouch" FILE="H:/Proyectos Unity/Spyrou/Content/SPYRO_ANIM/BS_Crouch.uasset" SILENT=true
+[2025.07.07-22.33.41:362][850]LogSavePackage: Moving output files for package: /Game/SPYRO_ANIM/BS_Crouch
+[2025.07.07-22.33.41:362][850]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/BS_CrouchB85CA25740A371189EDA72AEEE1B48EA.tmp' to 'H:/Proyectos Unity/Spyrou/Content/SPYRO_ANIM/BS_Crouch.uasset'
+[2025.07.07-22.33.41:373][850]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 21.9 sec)
+[2025.07.07-22.33.41:374][850]AssetCheck: New page: Asset Save: BS_Crouch
+[2025.07.07-22.33.41:374][850]LogContentValidation: Display: Validating /Script/Engine.BlendSpace /Game/SPYRO_ANIM/BS_Crouch.BS_Crouch
+[2025.07.07-22.33.45:642][ 20]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.07-22.33.45:690][ 20]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SPYRO_ANIM/BS_Crouch" FILE="H:/Proyectos Unity/Spyrou/Content/SPYRO_ANIM/BS_Crouch.uasset" SILENT=true
+[2025.07.07-22.33.45:806][ 20]LogSavePackage: Moving output files for package: /Game/SPYRO_ANIM/BS_Crouch
+[2025.07.07-22.33.45:806][ 20]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/BS_Crouch0D4CD18B4BD7873F3FA672AAB7234C47.tmp' to 'H:/Proyectos Unity/Spyrou/Content/SPYRO_ANIM/BS_Crouch.uasset'
+[2025.07.07-22.33.45:817][ 20]LogFileHelpers: InternalPromptForCheckoutAndSave took 174 ms (total: 22.1 sec)
+[2025.07.07-22.33.45:818][ 20]AssetCheck: New page: Asset Save: BS_Crouch
+[2025.07.07-22.33.45:818][ 20]LogContentValidation: Display: Validating /Script/Engine.BlendSpace /Game/SPYRO_ANIM/BS_Crouch.BS_Crouch
+[2025.07.07-22.33.47:491][103]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.07-22.33.47:500][103]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.07-22.33.47:500][103]PIE: New page: PIE session: MAP_SpyroLevel2 (7 jul. 2025 16:33:47)
+[2025.07.07-22.33.47:500][103]LogPlayLevel: Display: Creating online subsystem for client :Context_144
+[2025.07.07-22.33.47:503][103]LogOnline: OSS: Created online subsystem instance for: :Context_144
+[2025.07.07-22.33.47:547][104]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MAP_SpyroLevel2
+[2025.07.07-22.33.47:973][104]LogPlayLevel: PIE: StaticDuplicateObject took: (0.427019s)
+[2025.07.07-22.33.47:973][104]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MAP_SpyroLevel2.MAP_SpyroLevel2 to /Game/Levels/UEDPIE_0_MAP_SpyroLevel2.MAP_SpyroLevel2 (0.427216s)
+[2025.07.07-22.33.47:989][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.07.07-22.33.47:994][104]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.07.07-22.33.47:994][104]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.07.07-22.33.47:995][104]LogAIModule: Creating AISystem for world MAP_SpyroLevel2
+[2025.07.07-22.33.47:996][104]LogPlayLevel: PIE: World Init took: (0.002330s)
+[2025.07.07-22.33.47:997][104]LogAudio: Display: Creating Audio Device:                 Id: 48, Scope: Unique, Realtime: True
+[2025.07.07-22.33.47:997][104]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.07-22.33.47:997][104]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.07-22.33.47:997][104]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.07-22.33.47:997][104]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.07-22.33.47:997][104]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.07-22.33.47:997][104]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.07-22.33.47:997][104]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.07-22.33.47:997][104]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.07-22.33.47:998][104]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.07-22.33.47:998][104]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.07-22.33.47:998][104]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.07-22.33.48:000][104]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.07-22.33.48:026][104]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2025.07.07-22.33.48:027][104]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.07-22.33.48:027][104]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.07-22.33.48:027][104]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.07-22.33.48:027][104]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=48
+[2025.07.07-22.33.48:027][104]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=48
+[2025.07.07-22.33.48:030][104]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=48
+[2025.07.07-22.33.48:030][104]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=48
+[2025.07.07-22.33.48:030][104]LogInit: FAudioDevice initialized with ID 48.
+[2025.07.07-22.33.48:030][104]LogAudio: Display: Audio Device (ID: 48) registered with world 'MAP_SpyroLevel2'.
+[2025.07.07-22.33.48:030][104]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 48
+[2025.07.07-22.33.48:033][104]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.07.07-22.33.48:138][104]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MAP_SpyroLevel2.MAP_SpyroLevel2 up for play (max tick rate 0) at 2025.07.07-19.33.48
+[2025.07.07-22.33.48:143][104]LogWorld: Bringing up level for play took: 0.109355
+[2025.07.07-22.33.48:150][104]PIE: Server logged in
+[2025.07.07-22.33.48:151][104]PIE: Play in editor total start time 0,652 seconds.
+[2025.07.07-22.33.48:222][105]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.086972 > MaxSimulationTimeStep (0.050) for 'BP_ThirdPersonCharacter_C_0', movement 'Walking'
+[2025.07.07-22.34.31:228][708]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.07-22.34.31:228][708]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MAP_SpyroLevel2
+[2025.07.07-22.34.31:232][708]LogWorld: UWorld::CleanupWorld for MAP_SpyroLevel2, bSessionEnded=true, bCleanupResources=true
+[2025.07.07-22.34.31:247][708]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.07-22.34.31:252][708]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.07-22.34.31:263][708]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.07-22.34.31:278][708]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.07-22.34.31:320][708]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 48
+[2025.07.07-22.34.31:320][708]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48
+[2025.07.07-22.34.31:322][708]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48
+[2025.07.07-22.34.31:347][708]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.07.07-22.34.31:483][709]LogPlayLevel: Display: Destroying online subsystem :Context_144
+[2025.07.07-22.34.36:936][ 60]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.07-22.34.37:001][ 60]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MAP_SpyroLevel2" FILE="H:/Proyectos Unity/Spyrou/Content/Levels/MAP_SpyroLevel2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.07.07-22.34.37:051][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.07.07-22.34.38:654][ 60]LogSavePackage: Moving output files for package: /Game/Levels/MAP_SpyroLevel2
+[2025.07.07-22.34.38:654][ 60]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/MAP_SpyroLevel2C9C8CFB94B04838C255373A5D6BEB9CE.tmp' to 'H:/Proyectos Unity/Spyrou/Content/Levels/MAP_SpyroLevel2.umap'
+[2025.07.07-22.34.38:680][ 60]LogFileHelpers: Saving map 'MAP_SpyroLevel2' took 1.683
+[2025.07.07-22.34.38:689][ 60]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.75 sec (total: 23.8 sec)
+[2025.07.07-22.34.38:709][ 60]AssetCheck: New page: Asset Save: MAP_SpyroLevel2
+[2025.07.07-22.34.38:709][ 60]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/MAP_SpyroLevel2.MAP_SpyroLevel2
+[2025.07.07-22.35.04:295][140]BlueprintLog: New page: Compile ABP_Spyro
+[2025.07.07-22.35.04:336][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.07.07-22.35.05:020][164]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.07-22.35.05:099][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SPYRO_ANIM/ABP_Spyro" FILE="H:/Proyectos Unity/Spyrou/Content/SPYRO_ANIM/ABP_Spyro.uasset" SILENT=true
+[2025.07.07-22.35.05:125][164]LogSavePackage: Moving output files for package: /Game/SPYRO_ANIM/ABP_Spyro
+[2025.07.07-22.35.05:126][164]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/ABP_Spyro920C7993420D0B828F5670BF62DAAA17.tmp' to 'H:/Proyectos Unity/Spyrou/Content/SPYRO_ANIM/ABP_Spyro.uasset'
+[2025.07.07-22.35.05:138][164]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 23.9 sec)
+[2025.07.07-22.35.05:139][164]AssetCheck: New page: Asset Save: ABP_Spyro
+[2025.07.07-22.35.05:139][164]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/SPYRO_ANIM/ABP_Spyro.ABP_Spyro
+[2025.07.07-22.35.07:116][261]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.07-22.35.07:122][261]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.07-22.35.07:122][261]PIE: New page: PIE session: MAP_SpyroLevel2 (7 jul. 2025 16:35:07)
+[2025.07.07-22.35.07:159][261]LogPlayLevel: Display: Creating online subsystem for client :Context_145
+[2025.07.07-22.35.07:162][261]LogOnline: OSS: Created online subsystem instance for: :Context_145
+[2025.07.07-22.35.07:203][262]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MAP_SpyroLevel2
+[2025.07.07-22.35.07:631][262]LogPlayLevel: PIE: StaticDuplicateObject took: (0.427692s)
+[2025.07.07-22.35.07:631][262]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MAP_SpyroLevel2.MAP_SpyroLevel2 to /Game/Levels/UEDPIE_0_MAP_SpyroLevel2.MAP_SpyroLevel2 (0.427746s)
+[2025.07.07-22.35.07:647][262]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.07.07-22.35.07:652][262]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.07.07-22.35.07:652][262]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.07.07-22.35.07:653][262]LogAIModule: Creating AISystem for world MAP_SpyroLevel2
+[2025.07.07-22.35.07:654][262]LogPlayLevel: PIE: World Init took: (0.001995s)
+[2025.07.07-22.35.07:655][262]LogAudio: Display: Creating Audio Device:                 Id: 49, Scope: Unique, Realtime: True
+[2025.07.07-22.35.07:655][262]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.07-22.35.07:655][262]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.07-22.35.07:655][262]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.07-22.35.07:655][262]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.07-22.35.07:655][262]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.07-22.35.07:655][262]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.07-22.35.07:655][262]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.07-22.35.07:655][262]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.07-22.35.07:655][262]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.07-22.35.07:655][262]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.07-22.35.07:655][262]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.07-22.35.07:657][262]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.07-22.35.07:683][262]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2025.07.07-22.35.07:684][262]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.07-22.35.07:684][262]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.07-22.35.07:684][262]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.07-22.35.07:684][262]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=49
+[2025.07.07-22.35.07:684][262]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=49
+[2025.07.07-22.35.07:686][262]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=49
+[2025.07.07-22.35.07:686][262]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=49
+[2025.07.07-22.35.07:686][262]LogInit: FAudioDevice initialized with ID 49.
+[2025.07.07-22.35.07:686][262]LogAudio: Display: Audio Device (ID: 49) registered with world 'MAP_SpyroLevel2'.
+[2025.07.07-22.35.07:686][262]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 49
+[2025.07.07-22.35.07:690][262]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.07.07-22.35.07:797][262]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MAP_SpyroLevel2.MAP_SpyroLevel2 up for play (max tick rate 0) at 2025.07.07-19.35.07
+[2025.07.07-22.35.07:801][262]LogWorld: Bringing up level for play took: 0.111245
+[2025.07.07-22.35.07:808][262]PIE: Server logged in
+[2025.07.07-22.35.07:810][262]PIE: Play in editor total start time 0,687 seconds.
+[2025.07.07-22.35.26:466][808]LogBlueprintUserMessages: [BP_Coleccionable_C_10] 1
+[2025.07.07-22.35.48:146][597]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.99
+[2025.07.07-22.35.48:158][598]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.98
+[2025.07.07-22.35.48:170][599]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.97
+[2025.07.07-22.35.48:182][600]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.96
+[2025.07.07-22.35.48:195][601]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.95
+[2025.07.07-22.35.48:207][602]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.94
+[2025.07.07-22.35.48:220][603]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.93
+[2025.07.07-22.35.48:234][604]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.92
+[2025.07.07-22.35.48:246][605]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.91
+[2025.07.07-22.35.48:260][606]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.9
+[2025.07.07-22.35.48:274][607]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.89
+[2025.07.07-22.35.48:286][608]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.88
+[2025.07.07-22.35.48:301][609]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.87
+[2025.07.07-22.35.48:315][610]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.86
+[2025.07.07-22.35.48:331][611]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.85
+[2025.07.07-22.35.48:348][612]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.84
+[2025.07.07-22.35.48:366][613]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.83
+[2025.07.07-22.35.48:381][614]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.82
+[2025.07.07-22.35.48:396][615]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.81
+[2025.07.07-22.35.48:408][616]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.8
+[2025.07.07-22.35.48:419][617]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.79
+[2025.07.07-22.35.48:431][618]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.78
+[2025.07.07-22.35.48:441][619]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.77
+[2025.07.07-22.35.48:459][620]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.76
+[2025.07.07-22.35.48:471][621]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.75
+[2025.07.07-22.35.48:482][622]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.74
+[2025.07.07-22.35.48:493][623]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.73
+[2025.07.07-22.35.48:504][624]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.72
+[2025.07.07-22.35.48:514][625]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.71
+[2025.07.07-22.35.48:524][626]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.7
+[2025.07.07-22.35.48:536][627]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.69
+[2025.07.07-22.35.48:548][628]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.68
+[2025.07.07-22.35.48:557][629]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.67
+[2025.07.07-22.35.48:568][630]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.66
+[2025.07.07-22.35.48:579][631]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.65
+[2025.07.07-22.35.48:589][632]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.64
+[2025.07.07-22.35.48:599][633]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.63
+[2025.07.07-22.35.48:610][634]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.62
+[2025.07.07-22.35.48:619][635]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.61
+[2025.07.07-22.35.48:630][636]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.6
+[2025.07.07-22.35.48:640][637]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.59
+[2025.07.07-22.35.48:651][638]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.58
+[2025.07.07-22.35.48:660][639]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.57
+[2025.07.07-22.35.48:671][640]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.56
+[2025.07.07-22.35.48:682][641]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.55
+[2025.07.07-22.35.48:692][642]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.54
+[2025.07.07-22.35.48:702][643]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.53
+[2025.07.07-22.35.48:711][644]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.52
+[2025.07.07-22.35.48:722][645]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.51
+[2025.07.07-22.35.48:733][646]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.5
+[2025.07.07-22.35.48:744][647]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.49
+[2025.07.07-22.35.48:753][648]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.48
+[2025.07.07-22.35.48:763][649]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.47
+[2025.07.07-22.35.48:775][650]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.46
+[2025.07.07-22.35.48:786][651]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.45
+[2025.07.07-22.35.48:798][652]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.44
+[2025.07.07-22.35.48:808][653]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.43
+[2025.07.07-22.35.48:817][654]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.42
+[2025.07.07-22.35.48:827][655]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.41
+[2025.07.07-22.35.48:837][656]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.4
+[2025.07.07-22.35.48:846][657]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.39
+[2025.07.07-22.35.48:857][658]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.38
+[2025.07.07-22.35.48:868][659]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.37
+[2025.07.07-22.35.48:878][660]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.36
+[2025.07.07-22.35.48:888][661]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.35
+[2025.07.07-22.35.48:897][662]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.34
+[2025.07.07-22.35.48:908][663]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.33
+[2025.07.07-22.35.48:919][664]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.32
+[2025.07.07-22.35.48:930][665]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.31
+[2025.07.07-22.35.48:940][666]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.3
+[2025.07.07-22.35.48:949][667]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.29
+[2025.07.07-22.35.48:961][668]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.28
+[2025.07.07-22.35.48:971][669]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.27
+[2025.07.07-22.35.48:981][670]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.26
+[2025.07.07-22.35.48:992][671]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.25
+[2025.07.07-22.35.49:004][672]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.24
+[2025.07.07-22.35.49:014][673]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.23
+[2025.07.07-22.35.49:025][674]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.22
+[2025.07.07-22.35.49:037][675]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.21
+[2025.07.07-22.35.49:050][676]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.2
+[2025.07.07-22.35.49:060][677]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.19
+[2025.07.07-22.35.49:072][678]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.18
+[2025.07.07-22.35.49:083][679]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.17
+[2025.07.07-22.35.49:095][680]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.16
+[2025.07.07-22.35.49:105][681]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.15
+[2025.07.07-22.35.49:116][682]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.14
+[2025.07.07-22.35.49:126][683]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.13
+[2025.07.07-22.35.49:137][684]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.12
+[2025.07.07-22.35.49:149][685]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.11
+[2025.07.07-22.35.49:160][686]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.1
+[2025.07.07-22.35.49:171][687]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.09
+[2025.07.07-22.35.49:181][688]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.08
+[2025.07.07-22.35.49:192][689]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.07
+[2025.07.07-22.35.49:202][690]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.06
+[2025.07.07-22.35.49:214][691]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.05
+[2025.07.07-22.35.49:225][692]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.04
+[2025.07.07-22.35.49:234][693]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.03
+[2025.07.07-22.35.49:246][694]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.02
+[2025.07.07-22.35.49:256][695]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.01
+[2025.07.07-22.35.49:267][696]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99.0
+[2025.07.07-22.35.49:279][697]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.99
+[2025.07.07-22.35.49:289][698]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.98
+[2025.07.07-22.35.49:300][699]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.97
+[2025.07.07-22.35.49:314][700]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.96
+[2025.07.07-22.35.49:324][701]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.95
+[2025.07.07-22.35.49:336][702]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.94
+[2025.07.07-22.35.49:350][703]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.93
+[2025.07.07-22.35.49:363][704]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.92
+[2025.07.07-22.35.49:376][705]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.91
+[2025.07.07-22.35.49:390][706]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.9
+[2025.07.07-22.35.49:404][707]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.89
+[2025.07.07-22.35.49:416][708]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.88
+[2025.07.07-22.35.49:429][709]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.87
+[2025.07.07-22.35.49:440][710]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.86
+[2025.07.07-22.35.49:454][711]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.85
+[2025.07.07-22.35.49:466][712]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.84
+[2025.07.07-22.35.49:478][713]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.83
+[2025.07.07-22.35.49:490][714]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.82
+[2025.07.07-22.35.49:501][715]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.81
+[2025.07.07-22.35.49:513][716]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.8
+[2025.07.07-22.35.49:525][717]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.79
+[2025.07.07-22.35.49:536][718]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.78
+[2025.07.07-22.35.49:548][719]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.77
+[2025.07.07-22.35.49:558][720]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.76
+[2025.07.07-22.35.49:573][721]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.75
+[2025.07.07-22.35.49:587][722]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.74
+[2025.07.07-22.35.49:596][723]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.73
+[2025.07.07-22.35.49:611][724]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.72
+[2025.07.07-22.35.49:626][725]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.71
+[2025.07.07-22.35.49:643][726]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.7
+[2025.07.07-22.35.49:654][727]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.69
+[2025.07.07-22.35.49:668][728]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.68
+[2025.07.07-22.35.49:678][729]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.67
+[2025.07.07-22.35.49:689][730]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.66
+[2025.07.07-22.35.49:706][731]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.65
+[2025.07.07-22.35.49:721][732]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.64
+[2025.07.07-22.35.49:732][733]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.63
+[2025.07.07-22.35.49:744][734]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.62
+[2025.07.07-22.35.49:754][735]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.61
+[2025.07.07-22.35.49:764][736]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.6
+[2025.07.07-22.35.49:775][737]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.59
+[2025.07.07-22.35.49:785][738]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.58
+[2025.07.07-22.35.49:795][739]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.57
+[2025.07.07-22.35.49:806][740]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.56
+[2025.07.07-22.35.49:816][741]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.55
+[2025.07.07-22.35.49:828][742]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.54
+[2025.07.07-22.35.49:837][743]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.53
+[2025.07.07-22.35.49:847][744]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.52
+[2025.07.07-22.35.49:857][745]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.51
+[2025.07.07-22.35.49:868][746]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.5
+[2025.07.07-22.35.49:879][747]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.49
+[2025.07.07-22.35.49:890][748]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.48
+[2025.07.07-22.35.49:899][749]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.47
+[2025.07.07-22.35.49:910][750]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.46
+[2025.07.07-22.35.49:920][751]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.45
+[2025.07.07-22.35.49:931][752]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.44
+[2025.07.07-22.35.49:941][753]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.43
+[2025.07.07-22.35.49:951][754]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.42
+[2025.07.07-22.35.49:962][755]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.41
+[2025.07.07-22.35.49:973][756]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.4
+[2025.07.07-22.35.49:984][757]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.39
+[2025.07.07-22.35.49:994][758]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.38
+[2025.07.07-22.35.50:005][759]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.37
+[2025.07.07-22.35.50:015][760]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.36
+[2025.07.07-22.35.50:026][761]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.35
+[2025.07.07-22.35.50:036][762]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.34
+[2025.07.07-22.35.50:047][763]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.33
+[2025.07.07-22.35.50:057][764]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.32
+[2025.07.07-22.35.50:068][765]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.31
+[2025.07.07-22.35.50:078][766]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.3
+[2025.07.07-22.35.50:121][766]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.07-22.35.50:122][766]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MAP_SpyroLevel2
+[2025.07.07-22.35.50:125][766]LogWorld: UWorld::CleanupWorld for MAP_SpyroLevel2, bSessionEnded=true, bCleanupResources=true
+[2025.07.07-22.35.50:139][766]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.07-22.35.50:145][766]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.07-22.35.50:155][766]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.07-22.35.50:215][766]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.07.07-22.35.50:215][766]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 49
+[2025.07.07-22.35.50:215][766]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=49
+[2025.07.07-22.35.50:217][766]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=49
+[2025.07.07-22.35.50:222][766]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.07-22.35.50:243][766]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2025.07.07-22.35.50:380][767]LogPlayLevel: Display: Destroying online subsystem :Context_145
+[2025.07.07-22.35.55:613][ 69]Cmd: DUPLICATE
+[2025.07.07-22.35.55:613][ 69]Cmd: ACTOR DUPLICATE
+[2025.07.07-22.35.59:285][270]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.07-22.35.59:293][270]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.07-22.35.59:293][270]PIE: New page: PIE session: MAP_SpyroLevel2 (7 jul. 2025 16:35:59)
+[2025.07.07-22.35.59:293][270]LogPlayLevel: Display: Creating online subsystem for client :Context_146
+[2025.07.07-22.35.59:295][270]LogOnline: OSS: Created online subsystem instance for: :Context_146
+[2025.07.07-22.35.59:338][271]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MAP_SpyroLevel2
+[2025.07.07-22.35.59:781][271]LogPlayLevel: PIE: StaticDuplicateObject took: (0.442897s)
+[2025.07.07-22.35.59:781][271]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MAP_SpyroLevel2.MAP_SpyroLevel2 to /Game/Levels/UEDPIE_0_MAP_SpyroLevel2.MAP_SpyroLevel2 (0.442954s)
+[2025.07.07-22.35.59:797][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.07.07-22.35.59:801][271]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.07.07-22.35.59:801][271]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.07.07-22.35.59:802][271]LogAIModule: Creating AISystem for world MAP_SpyroLevel2
+[2025.07.07-22.35.59:803][271]LogPlayLevel: PIE: World Init took: (0.001959s)
+[2025.07.07-22.35.59:803][271]LogAudio: Display: Creating Audio Device:                 Id: 50, Scope: Unique, Realtime: True
+[2025.07.07-22.35.59:803][271]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.07-22.35.59:803][271]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.07-22.35.59:803][271]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.07-22.35.59:803][271]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.07-22.35.59:803][271]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.07-22.35.59:804][271]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.07-22.35.59:804][271]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.07-22.35.59:804][271]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.07-22.35.59:804][271]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.07-22.35.59:804][271]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.07-22.35.59:804][271]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.07-22.35.59:806][271]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.07-22.35.59:835][271]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2025.07.07-22.35.59:835][271]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.07-22.35.59:835][271]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.07-22.35.59:835][271]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.07-22.35.59:836][271]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=50
+[2025.07.07-22.35.59:836][271]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=50
+[2025.07.07-22.35.59:838][271]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=50
+[2025.07.07-22.35.59:838][271]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=50
+[2025.07.07-22.35.59:838][271]LogInit: FAudioDevice initialized with ID 50.
+[2025.07.07-22.35.59:838][271]LogAudio: Display: Audio Device (ID: 50) registered with world 'MAP_SpyroLevel2'.
+[2025.07.07-22.35.59:838][271]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 50
+[2025.07.07-22.35.59:841][271]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.07.07-22.35.59:947][271]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MAP_SpyroLevel2.MAP_SpyroLevel2 up for play (max tick rate 0) at 2025.07.07-19.35.59
+[2025.07.07-22.35.59:951][271]LogWorld: Bringing up level for play took: 0.109387
+[2025.07.07-22.35.59:958][271]PIE: Server logged in
+[2025.07.07-22.35.59:959][271]PIE: Play in editor total start time 0,667 seconds.
+[2025.07.07-22.36.42:023][880]LogBlueprintUserMessages: [BP_Coleccionable_C_10] 1
+[2025.07.07-22.37.33:645][170]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.07-22.37.33:646][170]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MAP_SpyroLevel2
+[2025.07.07-22.37.33:649][170]LogWorld: UWorld::CleanupWorld for MAP_SpyroLevel2, bSessionEnded=true, bCleanupResources=true
+[2025.07.07-22.37.33:665][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.07-22.37.33:670][170]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.07-22.37.33:681][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.07-22.37.33:702][170]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.07-22.37.33:744][170]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 50
+[2025.07.07-22.37.33:744][170]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=50
+[2025.07.07-22.37.33:746][170]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=50
+[2025.07.07-22.37.33:770][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.07.07-22.37.33:876][171]LogPlayLevel: Display: Destroying online subsystem :Context_146
+[2025.07.07-22.37.34:456][199]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.07-22.37.34:523][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MAP_SpyroLevel2" FILE="H:/Proyectos Unity/Spyrou/Content/Levels/MAP_SpyroLevel2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.07.07-22.37.34:573][199]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.07.07-22.37.36:176][199]LogSavePackage: Moving output files for package: /Game/Levels/MAP_SpyroLevel2
+[2025.07.07-22.37.36:177][199]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/MAP_SpyroLevel249B492B0469905D4BB1B01917AA9A1A0.tmp' to 'H:/Proyectos Unity/Spyrou/Content/Levels/MAP_SpyroLevel2.umap'
+[2025.07.07-22.37.36:201][199]LogFileHelpers: Saving map 'MAP_SpyroLevel2' took 1.682
+[2025.07.07-22.37.36:210][199]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.75 sec (total: 25.7 sec)
+[2025.07.07-22.37.36:230][199]AssetCheck: New page: Asset Save: MAP_SpyroLevel2
+[2025.07.07-22.37.36:230][199]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/MAP_SpyroLevel2.MAP_SpyroLevel2
