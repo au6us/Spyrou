@@ -6952,3 +6952,312 @@ Scale3D: 1.000000 1.000000 1.000000
  at D:\build\++UE5\Sync\Engine\Source\Runtime\D3D12RHI\Private\D3D12PoolAllocator.cpp:436 
  with error E_OUTOFMEMORY
 
+[2025.07.09-23.20.03:010][878]LogConsoleResponse:      3 = 524288 KB (2D[2] 16384x4096 PF_R32_UINT UAV) Shadow.Virtual.PhysicalPagePool
+[2025.07.09-23.20.03:011][878]LogConsoleResponse:    190 = 524288 KB (2D[2] 16384x4096 PF_R32_UINT UAV) Shadow.Virtual.PhysicalPagePool
+[2025.07.09-23.20.03:011][878]LogConsoleResponse:      4 = 87488 KB (2D 8192x2048 PF_R32_FLOAT UAV) Shadow.Virtual.HZBPhysicalPagePool
+[2025.07.09-23.20.03:011][878]LogConsoleResponse:    102 = 87488 KB (2D 8192x2048 PF_R32_FLOAT UAV) Shadow.Virtual.HZBPhysicalPagePool
+[2025.07.09-23.20.03:011][878]LogConsoleResponse:     87 = 87488 KB (2D 8192x2048 PF_R32_FLOAT UAV) Shadow.Virtual.HZBPhysicalPagePool
+[2025.07.09-23.20.03:011][878]LogConsoleResponse:     90 = 87488 KB (2D 8192x2048 PF_R32_FLOAT UAV) Shadow.Virtual.HZBPhysicalPagePool
+[2025.07.09-23.20.03:011][878]LogConsoleResponse:      7 = 87488 KB (2D 8192x2048 PF_R32_FLOAT UAV) Shadow.Virtual.HZBPhysicalPagePool
+[2025.07.09-23.20.03:011][878]LogConsoleResponse:    107 = 87488 KB (2D 8192x2048 PF_R32_FLOAT UAV) Shadow.Virtual.HZBPhysicalPagePool
+[2025.07.09-23.20.03:011][878]LogConsoleResponse:      9 = 87488 KB (2D 8192x2048 PF_R32_FLOAT UAV) Shadow.Virtual.HZBPhysicalPagePool
+[2025.07.09-23.20.03:011][878]LogConsoleResponse:     85 = 87488 KB (2D 8192x2048 PF_R32_FLOAT UAV) Shadow.Virtual.HZBPhysicalPagePool
+[2025.07.09-23.20.03:011][878]LogConsoleResponse:    125 = 87488 KB (2D 8192x2048 PF_R32_FLOAT UAV) Shadow.Virtual.HZBPhysicalPagePool
+[2025.07.09-23.20.03:011][878]LogConsoleResponse:     83 = 87488 KB (2D 8192x2048 PF_R32_FLOAT UAV) Shadow.Virtual.HZBPhysicalPagePool
+[2025.07.09-23.20.03:011][878]LogConsoleResponse:    157 = 87488 KB (2D 8192x2048 PF_R32_FLOAT UAV) Shadow.Virtual.HZBPhysicalPagePool
+[2025.07.09-23.20.03:011][878]LogConsoleResponse:     80 = 87488 KB (2D 8192x2048 PF_R32_FLOAT UAV) Shadow.Virtual.HZBPhysicalPagePool
+[2025.07.09-23.20.03:011][878]LogConsoleResponse:     63 = 87488 KB (2D 8192x2048 PF_R32_FLOAT UAV) Shadow.Virtual.HZBPhysicalPagePool
+[2025.07.09-23.20.03:011][878]LogConsoleResponse:    109 = 87488 KB (2D 8192x2048 PF_R32_FLOAT UAV) Shadow.Virtual.HZBPhysicalPagePool
+[2025.07.09-23.20.03:011][878]LogConsoleResponse:    117 = 87488 KB (2D 8192x2048 PF_R32_FLOAT UAV) Shadow.Virtual.HZBPhysicalPagePool
+[2025.07.09-23.20.03:011][878]LogConsoleResponse:    191 = 87488 KB (2D 8192x2048 PF_R32_FLOAT UAV) Shadow.Virtual.HZBPhysicalPagePool
+[2025.07.09-23.20.03:011][878]LogConsoleResponse:    127 = 87488 KB (2D 8192x2048 PF_R32_FLOAT UAV) Shadow.Virtual.HZBPhysicalPagePool
+[2025.07.09-23.20.03:011][878]LogConsoleResponse:    128 = 87488 KB (2D 8192x2048 PF_R32_FLOAT UAV) Shadow.Virtual.HZBPhysicalPagePool
+[2025.07.09-23.20.03:011][878]LogConsoleResponse:    111 = 87488 KB (2D 8192x2048 PF_R32_FLOAT UAV) Shadow.Virtual.HZBPhysicalPagePool
+[2025.07.09-23.20.03:011][878]LogConsoleResponse:     57 = 87488 KB (2D 8192x2048 PF_R32_FLOAT UAV) Shadow.Virtual.HZBPhysicalPagePool
+[2025.07.09-23.20.03:011][878]LogConsoleResponse:    123 = 87488 KB (2D 8192x2048 PF_R32_FLOAT UAV) Shadow.Virtual.HZBPhysicalPagePool
+[2025.07.09-23.20.03:011][878]LogConsoleResponse:    131 = 87488 KB (2D 8192x2048 PF_R32_FLOAT UAV) Shadow.Virtual.HZBPhysicalPagePool
+[2025.07.09-23.20.03:011][878]LogConsoleResponse:     99 = 87488 KB (2D 8192x2048 PF_R32_FLOAT UAV) Shadow.Virtual.HZBPhysicalPagePool
+[2025.07.09-23.20.03:011][878]LogConsoleResponse:    121 = 87488 KB (2D 8192x2048 PF_R32_FLOAT UAV) Shadow.Virtual.HZBPhysicalPagePool
+[2025.07.09-23.20.03:011][878]LogConsoleResponse:     29 = 87488 KB (2D 8192x2048 PF_R32_FLOAT UAV) Shadow.Virtual.HZBPhysicalPagePool
+[2025.07.09-23.20.03:011][878]LogConsoleResponse:     59 = 87488 KB (2D 8192x2048 PF_R32_FLOAT UAV) Shadow.Virtual.HZBPhysicalPagePool
+[2025.07.09-23.20.03:011][878]LogConsoleResponse:     48 = 87488 KB (2D 8192x2048 PF_R32_FLOAT UAV) Shadow.Virtual.HZBPhysicalPagePool
+[2025.07.09-23.20.03:011][878]LogConsoleResponse:     47 = 87488 KB (2D 8192x2048 PF_R32_FLOAT UAV) Shadow.Virtual.HZBPhysicalPagePool
+[2025.07.09-23.20.03:011][878]LogConsoleResponse:    152 = 87488 KB (2D 8192x2048 PF_R32_FLOAT UAV) Shadow.Virtual.HZBPhysicalPagePool
+[2025.07.09-23.20.03:011][878]LogConsoleResponse:    113 = 87488 KB (2D 8192x2048 PF_R32_FLOAT UAV) Shadow.Virtual.HZBPhysicalPagePool
+[2025.07.09-23.20.03:011][878]LogConsoleResponse:     27 = 87488 KB (2D 8192x2048 PF_R32_FLOAT UAV) Shadow.Virtual.HZBPhysicalPagePool
+[2025.07.09-23.20.03:011][878]LogConsoleResponse:    119 = 87488 KB (2D 8192x2048 PF_R32_FLOAT UAV) Shadow.Virtual.HZBPhysicalPagePool
+[2025.07.09-23.20.03:011][878]LogConsoleResponse:     37 = 87488 KB (2D 8192x2048 PF_R32_FLOAT UAV) Shadow.Virtual.HZBPhysicalPagePool
+[2025.07.09-23.20.03:011][878]LogConsoleResponse:    147 = 87488 KB (2D 8192x2048 PF_R32_FLOAT UAV) Shadow.Virtual.HZBPhysicalPagePool
+[2025.07.09-23.20.03:011][878]LogConsoleResponse:     79 = 87488 KB (2D 8192x2048 PF_R32_FLOAT UAV) Shadow.Virtual.HZBPhysicalPagePool
+[2025.07.09-23.20.03:011][878]LogConsoleResponse:     75 = 87488 KB (2D 8192x2048 PF_R32_FLOAT UAV) Shadow.Virtual.HZBPhysicalPagePool
+[2025.07.09-23.20.03:011][878]LogConsoleResponse:    208 = 73984 KB (2D 4352x4352 PF_FloatRGB UAV) Lumen.RadianceCache.FinalRadianceAtlas
+[2025.07.09-23.20.03:011][878]LogConsoleResponse:     20 = 73984 KB (2D 4352x4352 PF_FloatRGB UAV) Lumen.RadianceCache.FinalRadianceAtlas
+[2025.07.09-23.20.03:011][878]LogConsoleResponse:    227 = 65856 KB (2D 4096x4096 PF_FloatR11G11B10 RT UAV) Lumen.SceneDirectLighting
+[2025.07.09-23.20.03:011][878]LogConsoleResponse:     43 = 65856 KB (2D 4096x4096 PF_FloatR11G11B10 RT UAV) Lumen.SceneDirectLighting
+[2025.07.09-23.20.03:011][878]LogConsoleResponse:     46 = 65856 KB (2D 4096x4096 PF_FloatR11G11B10 RT UAV) Lumen.SceneFinalLighting
+[2025.07.09-23.20.03:011][878]LogConsoleResponse:    230 = 65856 KB (2D 4096x4096 PF_FloatR11G11B10 RT UAV) Lumen.SceneFinalLighting
+[2025.07.09-23.20.03:011][878]LogConsoleResponse:     44 = 65856 KB (2D 4096x4096 PF_FloatR11G11B10 RT UAV) Lumen.SceneIndirectLighting
+[2025.07.09-23.20.03:011][878]LogConsoleResponse:    228 = 65856 KB (2D 4096x4096 PF_FloatR11G11B10 RT UAV) Lumen.SceneIndirectLighting
+[2025.07.09-23.20.03:011][878]LogConsoleResponse:     19 = 65536 KB (2D 4096x4096 PF_FloatRGB UAV) Lumen.RadianceCache.RadianceProbeAtlasTextureSource
+[2025.07.09-23.20.03:011][878]LogConsoleResponse:    207 = 65536 KB (2D 4096x4096 PF_FloatRGB UAV) Lumen.RadianceCache.RadianceProbeAtlasTextureSource
+[2025.07.09-23.20.03:011][878]LogConsoleResponse:     54 = 65536 KB (2D 4096x4096 PF_FloatRGB UAV) Lumen.Radiosity.TraceRadianceAtlas
+[2025.07.09-23.20.03:011][878]LogConsoleResponse:    233 = 65536 KB (2D 4096x4096 PF_FloatRGB UAV) Lumen.Radiosity.TraceRadianceAtlas
+[2025.07.09-23.20.03:011][878]LogConsoleResponse:    193 = 65536 KB (3D 1024x1024x56 PF_R8 UAV) GlobalDistanceField.PageAtlas
+[2025.07.09-23.20.03:011][878]LogConsoleResponse:     64 = 65536 KB (3D 1024x1024x56 PF_R8 UAV) GlobalDistanceField.PageAtlas
+[2025.07.09-23.20.03:011][878]LogConsoleResponse:    222 = 32960 KB (2D 4096x4096 PF_G16 RT) Lumen.SceneDepth
+[2025.07.09-23.20.03:011][878]LogConsoleResponse:     38 = 32960 KB (2D 4096x4096 PF_G16 RT) Lumen.SceneDepth
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:     18 = 32768 KB (2D 4096x4096 PF_R16F UAV) Lumen.RadianceCache.DepthProbeAtlasTexture
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:    206 = 32768 KB (2D 4096x4096 PF_R16F UAV) Lumen.RadianceCache.DepthProbeAtlasTexture
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:     24 = 21504 KB (2D 2048x2048 PF_FloatRGB UAV) Lumen.RadianceCache.FinalRadianceAtlas
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:    211 = 21504 KB (2D 2048x2048 PF_FloatRGB UAV) Lumen.RadianceCache.FinalRadianceAtlas
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:    189 = 19328 KB (2D 2560x1880 PF_R32_FLOAT RT) Composite.PrimitivesDepthHistory unused(2)
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:     92 = 17280 KB (2D 2192x1880 PF_FloatR11G11B10 UAV) TSR.Output
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:    186 = 17280 KB (2D 2192x1880 PF_FloatR11G11B10 UAV) TSR.Output unused(2)
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:    224 = 16512 KB (2D 4096x4096 PF_G8 RT) Lumen.SceneOpacity
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:     40 = 16512 KB (2D 4096x4096 PF_G8 RT) Lumen.SceneOpacity
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:    229 = 16512 KB (2D 4096x4096 PF_R8 RT UAV) Lumen.SceneNumFramesAccumulatedAtlas
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:     45 = 16512 KB (2D 4096x4096 PF_R8 RT UAV) Lumen.SceneNumFramesAccumulatedAtlas
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:    225 = 16384 KB (2D 4096x4096 PF_BC5 UAV) Lumen.SceneNormal
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:     41 = 16384 KB (2D 4096x4096 PF_BC5 UAV) Lumen.SceneNormal
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:     42 = 16384 KB (2D 4096x4096 PF_BC6H UAV) Lumen.SceneEmissive
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:    226 = 16384 KB (2D 4096x4096 PF_BC6H UAV) Lumen.SceneEmissive
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:     39 = 16384 KB (2D 4096x4096 PF_BC7 UAV) Lumen.SceneAlbedo
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:    223 = 16384 KB (2D 4096x4096 PF_BC7 UAV) Lumen.SceneAlbedo
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:    134 = 16384 KB (3D 1024x1024x16 PF_R8 UAV) GlobalDistanceField.PageAtlas
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:     96 = 9664 KB (2D 1280x940 PF_FloatRGBA RT UAV) Lumen.Reflections.SpecularIndirect
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:    180 = 9664 KB (2D 1280x940 PF_FloatRGBA RT UAV) Lumen.Reflections.SpecularIndirect
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:    105 = 9664 KB (2D 1280x940 PF_FloatRGBA RT UAV) SceneColor
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:    173 = 9664 KB (2D 1280x940 PF_FloatRGBA RT UAV) SceneColor
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:    247 = 9664 KB (2D 1280x940 PF_FloatRGBA RT UAV) SceneColor
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:    104 = 9600 KB (2D 1280x940 PF_FloatRGBA UAV) Lumen.ScreenProbeGather.DiffuseIndirect
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:    174 = 9600 KB (2D 1280x940 PF_FloatRGBA UAV) Lumen.ScreenProbeGather.DiffuseIndirect
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:    248 = 9600 KB (2D 1280x940 PF_FloatRGBA UAV) Lumen.ScreenProbeGather.DiffuseIndirect
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:     51 = 9600 KB (2D 1280x940 PF_FloatRGBA UAV) SSR.TemporalAA
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:    236 = 8192 KB (2D 1024x1024 PF_FloatRGBA UAV) Lumen.Radiosity.ProbeSHBlueAtlas
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:     49 = 8192 KB (2D 1024x1024 PF_FloatRGBA UAV) Lumen.Radiosity.ProbeSHBlueAtlas
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:     50 = 8192 KB (2D 1024x1024 PF_FloatRGBA UAV) Lumen.Radiosity.ProbeSHGreenAtlas
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:    235 = 8192 KB (2D 1024x1024 PF_FloatRGBA UAV) Lumen.Radiosity.ProbeSHGreenAtlas
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:    234 = 8192 KB (2D 1024x1024 PF_FloatRGBA UAV) Lumen.Radiosity.ProbeSHRedAtlas
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:     52 = 8192 KB (2D 1024x1024 PF_FloatRGBA UAV) Lumen.Radiosity.ProbeSHRedAtlas
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:     56 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:     86 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:     91 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:     84 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:     82 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:     72 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:     58 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:     88 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:     26 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:     25 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:     21 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:     17 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:      8 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:      5 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:     53 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:    126 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:    136 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:    106 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:    129 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:    108 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:    130 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:    110 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:    120 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:    112 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:    158 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:    122 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:    143 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:    132 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:    116 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:    141 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:    135 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:    133 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:    118 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2025.07.09-23.20.03:012][878]LogConsoleResponse:    139 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:    192 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:    138 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:    194 = 8192 KB (3D 512x512x28 PF_R8 UAV) GlobalDistanceField.CoverageAtlas
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:     65 = 8192 KB (3D 512x512x28 PF_R8 UAV) GlobalDistanceField.CoverageAtlas
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:    148 = 6592 KB (2D 1280x940 PF_DepthStencil) SceneDepthZ
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:    221 = 6592 KB (2D 1280x940 PF_DepthStencil) SceneDepthZ
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:     77 = 5184 KB (2D 1280x940 PF_FloatR11G11B10 RT) PostDOFTranslucency.SceneColor
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:     76 = 5120 KB (2D 1280x940 PF_A2B10G10R10 UAV) TSR.History.Guide
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:    184 = 5120 KB (2D 1280x940 PF_A2B10G10R10 UAV) TSR.History.Guide unused(2)
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:    151 = 5120 KB (2D 1280x940 PF_FloatR11G11B10 UAV) TSR.Output
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:    188 = 5120 KB (2D 1280x940 PF_FloatR11G11B10 UAV) TSR.Output unused(2)
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:    175 = 5120 KB (2D 1280x940 PF_FloatRGB UAV) Lumen.ScreenProbeGather.BackfaceDiffuseIndirect
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:    101 = 5120 KB (2D 1280x940 PF_FloatRGB UAV) Lumen.ScreenProbeGather.BackfaceDiffuseIndirect
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:    249 = 5120 KB (2D 1280x940 PF_FloatRGB UAV) Lumen.ScreenProbeGather.BackfaceDiffuseIndirect
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:    103 = 5120 KB (2D 1280x940 PF_FloatRGB UAV) Lumen.ScreenProbeGather.RoughSpecularIndirect
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:    176 = 5120 KB (2D 1280x940 PF_FloatRGB UAV) Lumen.ScreenProbeGather.RoughSpecularIndirect
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:    183 = 5120 KB (2D 1280x940 PF_R32_FLOAT UAV) Lumen.DepthHistory
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:     93 = 5120 KB (2D 1280x940 PF_R32_FLOAT UAV) Lumen.DepthHistory
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:     61 = 5120 KB (2D 1280x940 PF_R32_UINT UAV) TSR.History.SubpixelDepth
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:    179 = 5120 KB (2D 1280x940 PF_R32_UINT UAV) TSR.History.SubpixelDepth unused(2)
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:     81 = 5120 KB (2D 1280x940 PF_R8G8B8A8 UAV) TSR.History.Moire
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:    185 = 5120 KB (2D 1280x940 PF_R8G8B8A8 UAV) TSR.History.Moire unused(2)
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:     97 = 4608 KB (2D 2192x1880 PF_R8 UAV) TSR.History.Metadata
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:    187 = 4608 KB (2D 2192x1880 PF_R8 UAV) TSR.History.Metadata unused(2)
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:    210 = 4096 KB (2D 1024x1024 PF_FloatRGB UAV) Lumen.RadianceCache.RadianceProbeAtlasTextureSource
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:     23 = 4096 KB (2D 1024x1024 PF_FloatRGB UAV) Lumen.RadianceCache.RadianceProbeAtlasTextureSource
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:    181 = 2624 KB (2D 1280x940 PF_R16F RT UAV) Lumen.Reflections.AccumulatedResolveVariance
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:     95 = 2624 KB (2D 1280x940 PF_R16F RT UAV) Lumen.Reflections.AccumulatedResolveVariance
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:     33 = 2624 KB (2D 524x449 PF_FloatRGBA RT) VolumetricRenderTarget.Reconstruct
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:     10 = 2624 KB (2D 524x449 PF_FloatRGBA RT) VolumetricRenderTarget.Reconstruct
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:    244 = 2624 KB (2D 548x470 PF_FloatRGBA RT) VolumetricRenderTarget.Reconstruct
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:    217 = 2624 KB (2D 548x470 PF_FloatRGBA RT) VolumetricRenderTarget.Reconstruct
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:    124 = 2624 KB (2D 640x470 PF_FloatRGBA RT UAV) DistanceFieldBentNormalAO
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:     78 = 2560 KB (2D 640x470 PF_FloatRGBA UAV) LightShaft.TemporalAA
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:    166 = 2304 KB (3D 192x48x48 PF_R32_UINT UAV) Lumen.RadianceCache.RadianceProbeIndirectionTexture
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:    145 = 2304 KB (3D 192x48x48 PF_R32_UINT UAV) Lumen.RadianceCache.RadianceProbeIndirectionTexture
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:    237 = 2304 KB (3D 192x48x48 PF_R32_UINT UAV) Lumen.RadianceCache.RadianceProbeIndirectionTexture
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:    209 = 2048 KB (2D 1024x1024 PF_R16F UAV) Lumen.RadianceCache.DepthProbeAtlasTexture
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:     22 = 2048 KB (2D 1024x1024 PF_R16F UAV) Lumen.RadianceCache.DepthProbeAtlasTexture
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:    220 = 2048 KB (3D 32x32x32 PF_A2B10G10R10 RT) CombineLUTs
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:     73 = 2048 KB (3D 32x32x32 PF_A2B10G10R10 RT) CombineLUTs
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:     36 = 2048 KB (3D 32x32x32 PF_A2B10G10R10 RT) CombineLUTs
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:    160 = 2048 KB (3D 32x32x32 PF_A2B10G10R10 RT) CombineLUTs
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:    239 = 1920 KB (2D 640x704 PF_FloatRGB UAV) Lumen.ScreenProbeGather.ScreenProbeFilteredRadiance
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:    142 = 1920 KB (2D 640x704 PF_FloatRGB UAV) Lumen.ScreenProbeGather.ScreenProbeFilteredRadiance
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:    168 = 1920 KB (2D 640x704 PF_FloatRGB UAV) Lumen.ScreenProbeGather.ScreenProbeFilteredRadiance
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:     74 = 1344 KB (2D 1280x940 PF_R8 RT) Final Luminance
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:    161 = 1344 KB (2D 1280x940 PF_R8 RT) Final Luminance
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:     70 = 1344 KB (2D 524x449 PF_G16R16F RT) VolumetricRenderTarget.ReconstructDepth
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:     34 = 1344 KB (2D 524x449 PF_G16R16F RT) VolumetricRenderTarget.ReconstructDepth
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:    245 = 1344 KB (2D 548x470 PF_G16R16F RT) VolumetricRenderTarget.ReconstructDepth
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:    218 = 1344 KB (2D 548x470 PF_G16R16F RT) VolumetricRenderTarget.ReconstructDepth
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:     94 = 1280 KB (2D 1280x940 PF_G8 UAV) Lumen.Reflections.NumHistoryFramesAccumulated
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:    182 = 1280 KB (2D 1280x940 PF_G8 UAV) Lumen.Reflections.NumHistoryFramesAccumulated
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:    178 = 1280 KB (2D 1280x940 PF_R8 UAV) Lumen.ScreenProbeGather.FastUpdateMode
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:    100 = 1280 KB (2D 1280x940 PF_R8 UAV) Lumen.ScreenProbeGather.FastUpdateMode unused(1)
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:    177 = 1280 KB (2D 1280x940 PF_R8 UAV) Lumen.ScreenProbeGather.NumHistoryFramesAccumulated
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:     98 = 1280 KB (2D 1280x940 PF_R8 UAV) Lumen.ScreenProbeGather.NumHistoryFramesAccumulated unused(1)
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:     66 = 1088 KB (3D 36x36x144 PF_R32_UINT UAV) GlobalDistanceField.PageTableCombined
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:    195 = 1088 KB (3D 36x36x144 PF_R32_UINT UAV) GlobalDistanceField.PageTableCombined
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:     69 = 1088 KB (3D 36x36x144 PF_R32_UINT UAV) GlobalDistanceField.PageTableMovableLayer
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:    198 = 1088 KB (3D 36x36x144 PF_R32_UINT UAV) GlobalDistanceField.PageTableMovableLayer
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:    197 = 1088 KB (3D 36x36x144 PF_R32_UINT UAV) GlobalDistanceField.PageTableStationaryLayer
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:     68 = 1088 KB (3D 36x36x144 PF_R32_UINT UAV) GlobalDistanceField.PageTableStationaryLayer
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:     67 = 1024 KB (3D 63x63x252 PF_R8 UAV) GlobalDistanceField.MipTexture
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:    196 = 1024 KB (3D 63x63x252 PF_R8 UAV) GlobalDistanceField.MipTexture
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:     32 = 832 KB (2D 262x225 PF_FloatRGBA RT UAV) VolumetricRenderTarget.SecondaryTracing
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:     30 = 832 KB (2D 262x225 PF_FloatRGBA RT UAV) VolumetricRenderTarget.Tracing
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:     31 = 832 KB (2D 262x225 PF_FloatRGBA RT UAV) VolumetricRenderTarget.TracingDepth
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:    216 = 832 KB (2D 274x235 PF_FloatRGBA RT UAV) VolumetricRenderTarget.SecondaryTracing
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:    214 = 832 KB (2D 274x235 PF_FloatRGBA RT UAV) VolumetricRenderTarget.Tracing
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:    215 = 832 KB (2D 274x235 PF_FloatRGBA RT UAV) VolumetricRenderTarget.TracingDepth
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:    204 = 832 KB (Cube 128 PF_FloatR11G11B10 RT UAV) SkyLight.CapturedSkyRenderTarget
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:     15 = 832 KB (Cube 128 PF_FloatR11G11B10 RT UAV) SkyLight.CapturedSkyRenderTarget
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:    203 = 832 KB (Cube 128 PF_FloatR11G11B10 RT UAV) SkyLight.ConvolvedSkyRenderTarget0
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:     14 = 832 KB (Cube 128 PF_FloatR11G11B10 RT UAV) SkyLight.ConvolvedSkyRenderTarget0
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:     16 = 832 KB (Cube 128 PF_FloatR11G11B10 RT UAV) SkyLight.ConvolvedSkyRenderTarget1
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:    205 = 832 KB (Cube 128 PF_FloatR11G11B10 RT UAV) SkyLight.ConvolvedSkyRenderTarget1
+[2025.07.09-23.20.03:013][878]LogConsoleResponse:     28 = 384 KB (3D 35x35x140 PF_R8 UAV) GlobalDistanceField.MipTexture
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:     13 = 320 KB (3D 20x20x80 PF_R32_UINT UAV) GlobalDistanceField.PageTableCombined
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:     62 = 320 KB (3D 20x20x80 PF_R32_UINT UAV) GlobalDistanceField.PageTableMovableLayer
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:     60 = 320 KB (3D 20x20x80 PF_R32_UINT UAV) GlobalDistanceField.PageTableStationaryLayer
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    172 = 320 KB (3D 33x29x26 PF_FloatRGBA UAV) Lumen.TranslucencyVolume.SHLightingNewHistory0
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    114 = 320 KB (3D 33x29x26 PF_FloatRGBA UAV) Lumen.TranslucencyVolume.SHLightingNewHistory0 unused(1)
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    213 = 320 KB (3D 35x30x26 PF_FloatRGBA UAV) Lumen.TranslucencyVolume.SHLightingNewHistory0
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    243 = 320 KB (3D 35x30x26 PF_FloatRGBA UAV) Lumen.TranslucencyVolume.SHLightingNewHistory0
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    167 = 256 KB (3D 72x24x24 PF_R32_UINT UAV) Lumen.RadianceCache.RadianceProbeIndirectionTexture
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    144 = 256 KB (3D 72x24x24 PF_R32_UINT UAV) Lumen.RadianceCache.RadianceProbeIndirectionTexture
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    238 = 256 KB (3D 72x24x24 PF_R32_UINT UAV) Lumen.RadianceCache.RadianceProbeIndirectionTexture
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    171 = 192 KB (3D 33x29x26 PF_FloatRGB UAV) Lumen.TranslucencyVolume.SHLightingNewHistory0
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    115 = 192 KB (3D 33x29x26 PF_FloatRGB UAV) Lumen.TranslucencyVolume.SHLightingNewHistory0 unused(1)
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    212 = 192 KB (3D 35x30x26 PF_FloatRGB UAV) Lumen.TranslucencyVolume.SHLightingNewHistory0
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    242 = 192 KB (3D 35x30x26 PF_FloatRGB UAV) Lumen.TranslucencyVolume.SHLightingNewHistory0
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    231 = 128 KB (2D 192x104 PF_FloatRGB UAV) SkyAtmosphere.RealTimeSkyCapViewLut
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    163 = 128 KB (2D 192x104 PF_FloatRGB UAV) SkyAtmosphere.RealTimeSkyCapViewLut
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    162 = 128 KB (2D 192x104 PF_FloatRGB UAV) SkyAtmosphere.RealTimeSkyCapViewLut
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    150 = 128 KB (2D 192x104 PF_FloatRGB UAV) SkyAtmosphere.SkyViewLut
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    241 = 128 KB (2D 80x88 PF_A32B32G32R32F UAV) Lumen.ScreenProbeGather.ScreenProbeTranslatedWorldPosition
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    170 = 128 KB (2D 80x88 PF_A32B32G32R32F UAV) Lumen.ScreenProbeGather.ScreenProbeTranslatedWorldPosition
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    137 = 128 KB (2D 80x88 PF_A32B32G32R32F UAV) Lumen.ScreenProbeGather.ScreenProbeTranslatedWorldPosition
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    149 = 128 KB (3D 32x32x16 PF_FloatRGBA UAV) SkyAtmosphere.CameraAPVolume0
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:     11 = 128 KB (3D 32x32x16 PF_FloatRGBA UAV) SkyAtmosphere.CameraAPVolume0
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    202 = 128 KB (3D 32x32x16 PF_FloatRGBA UAV) SkyAtmosphere.RealTimeSkyCapCamera360APLut
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    164 = 128 KB (3D 32x32x16 PF_FloatRGBA UAV) SkyAtmosphere.RealTimeSkyCapCamera360APLut
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    232 = 128 KB (3D 32x32x16 PF_FloatRGBA UAV) SkyAtmosphere.RealTimeSkyCapCamera360APLut
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:     35 = 64 KB (2D 1x1 PF_A32B32G32R32F UAV) EyeAdaptationTexture
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    156 = 64 KB (2D 1x1 PF_A32B32G32R32F UAV) EyeAdaptationTexture
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:     89 = 64 KB (2D 1x1 PF_A32B32G32R32F UAV) EyeAdaptationTexture
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:     55 = 64 KB (2D 1x1 PF_A32B32G32R32F UAV) EyeAdaptationTexture
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    246 = 64 KB (2D 1x1 PF_A32B32G32R32F UAV) EyeAdaptationTexture
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    219 = 64 KB (2D 1x1 PF_A32B32G32R32F UAV) EyeAdaptationTexture
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:     71 = 64 KB (2D 1x1 PF_A32B32G32R32F UAV) EyeAdaptationTexture
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    159 = 64 KB (2D 1x1 PF_A32B32G32R32F UAV) EyeAdaptationTexture
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    155 = 64 KB (2D 1x1 PF_FloatRGB UAV) SkyAtmosphere.DistantSkyLightLut
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    201 = 64 KB (2D 1x1 PF_FloatRGB UAV) SkyAtmosphere.DistantSkyLightLut
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    165 = 64 KB (2D 1x1 PF_R16F UAV) Dummy
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    146 = 64 KB (2D 1x1 PF_R16F UAV) Dummy
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    199 = 64 KB (2D 256x64 PF_FloatRGB UAV) SkyAtmosphere.TransmittanceLut
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    153 = 64 KB (2D 256x64 PF_FloatRGB UAV) SkyAtmosphere.TransmittanceLut
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    154 = 64 KB (2D 32x32 PF_FloatRGB UAV) SkyAtmosphere.MultiScatteredLuminanceLut
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    200 = 64 KB (2D 32x32 PF_FloatRGB UAV) SkyAtmosphere.MultiScatteredLuminanceLut
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:      6 = 64 KB (2D 66x64 PF_A16B16G16R16) SSProfiles
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    240 = 64 KB (2D 80x88 PF_R32_UINT UAV) Lumen.ScreenProbeGather.ScreenProbeSceneDepth
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    140 = 64 KB (2D 80x88 PF_R32_UINT UAV) Lumen.ScreenProbeGather.ScreenProbeSceneDepth
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    169 = 64 KB (2D 80x88 PF_R32_UINT UAV) Lumen.ScreenProbeGather.ScreenProbeSceneDepth
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:      1 = 64 KB (3D 1x1x1 PF_B8G8R8A8 RT) HairLUT0
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:      2 = 12 KB (2D 768x8 PF_R8) AsciiTexture
+[2025.07.09-23.20.03:014][878]LogConsoleResponse: 
+[2025.07.09-23.20.03:014][878]LogConsoleResponse: Pool: 5981/6046 MB (referenced/allocated)
+[2025.07.09-23.20.03:014][878]LogConsoleResponse: 
+[2025.07.09-23.20.03:014][878]LogConsoleResponse: RDGResourceName (what was rendered this frame, use <RDGResourceName>@<Version> to get intermediate versions):
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    BloomSetup                                            Lumen.RadianceCache.RadianceProbeAtlasTextureSource Lumen.ScreenProbeGather.FastUpdateMode                        MotionBlur.VelocityFlatten                 TSR.AntiAliasing.Filtered
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    BloomX                                                Lumen.RadianceCache.RadianceProbeIndirectionTexture Lumen.ScreenProbeGather.LightingProbabilityDensityFunction    MotionBlur.VelocityTile                    TSR.AntiAliasing.Noise
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    BloomY                                                Lumen.Radiosity.FilteredTraceRadianceAtlas          Lumen.ScreenProbeGather.NumHistoryFramesAccumulated           OIT.SampleColor                            TSR.AntiAliasing.Raw
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    Cloud.ColorCubeDummy                                  Lumen.Radiosity.ProbeSHBlueAtlas                    Lumen.ScreenProbeGather.RayInfosForTracing                    OIT.SampleCount                            TSR.ClosestDepthTexture
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    Composite.PrimitivesDepth                             Lumen.Radiosity.ProbeSHGreenAtlas                   Lumen.ScreenProbeGather.RoughSpecularIndirect                 OIT.SampleDepth                            TSR.DummyOutput
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    Dummy                                                 Lumen.Radiosity.ProbeSHRedAtlas                     Lumen.ScreenProbeGather.ScreenBentNormal                      OIT.SampleTrans                            TSR.History.Guide
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    EyeAdaptationTexture                                  Lumen.Radiosity.TraceRadianceAtlas                  Lumen.ScreenProbeGather.ScreenProbeFilteredRadiance           Scene(1/16)                                TSR.History.Metadata
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    Final Luminance                                       Lumen.Reflections.AccumulatedResolveVariance        Lumen.ScreenProbeGather.ScreenProbeFilteredRadianceWithBorder Scene(1/32)                                TSR.History.Moire
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    GaussianLumSetupTexture                               Lumen.Reflections.NumHistoryFramesAccumulated       Lumen.ScreenProbeGather.ScreenProbeHitDistance                Scene(1/4)                                 TSR.History.SubpixelDepth
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    GBufferA                                              Lumen.Reflections.RayTraceDistance                  Lumen.ScreenProbeGather.ScreenProbeMoving                     Scene(1/64)                                TSR.HistoryRejection
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    GBufferB                                              Lumen.Reflections.ReflectionDownsampledDepth        Lumen.ScreenProbeGather.ScreenProbeRadiance                   Scene(1/8)                                 TSR.Moire.Luma
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    GBufferC                                              Lumen.Reflections.ReflectionRayBuffer               Lumen.ScreenProbeGather.ScreenProbeRadianceSHAmbient          SceneColor                                 TSR.Output
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    GBufferD                                              Lumen.Reflections.ResolvedSpecularIndirect          Lumen.ScreenProbeGather.ScreenProbeRadianceSHDirectional      SceneDepthZ                                TSR.ParallaxFactor
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    GBufferE                                              Lumen.Reflections.ResolvedSpecularIndirectDepth     Lumen.ScreenProbeGather.ScreenProbeSceneDepth                 SceneVelocity                              TSR.ParallaxRejectionMask
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    HalfResolutionDepthCheckerboardMinMax                 Lumen.Reflections.ResolveTileUsed                   Lumen.ScreenProbeGather.ScreenProbeTraceMoving                Shadow.Virtual.MaskBits                    TSR.PrevClosestDepthTexture
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    HalfResolutionDepthMinAndMax                          Lumen.Reflections.ResolveVariance                   Lumen.ScreenProbeGather.ScreenProbeTranslatedWorldPosition    Shadow.Virtual.PhysicalPagePool            TSR.PrevScatteredSubpixelDepth
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    HeterogeneousVolumes                                  Lumen.Reflections.SpecularIndirect                  Lumen.ScreenProbeGather.ScreenProbeWorldNormal                Shadow.Virtual.ShadowMask                  TSR.PrevUseCountTexture
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    Histogram                                             Lumen.Reflections.TraceHit                          Lumen.ScreenProbeGather.ScreenProbeWorldSpeed                 ShadowMaskTexture                          TSR.ReprojectedHistoryGuide
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    Histogram.Scatter32                                   Lumen.Reflections.TraceRadiance                     Lumen.ScreenProbeGather.ScreenTileAdaptiveProbeHeader         SkyAtmosphere.CameraAPVolume0              TSR.ReprojectedHistoryMoire
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    HZBClosest                                            Lumen.ResampledCardCaptureDirectLighting            Lumen.ScreenProbeGather.ScreenTileAdaptiveProbeIndices        SkyAtmosphere.DistantSkyLightLut           TSR.SceneColorLdrLuma
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    HZBFurthest                                           Lumen.ResampledCardCaptureIndirectLighting          Lumen.ScreenProbeGather.TileClassificationModes               SkyAtmosphere.MultiScatteredLuminanceLut   TSR.Velocity.Dilated
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    LightingChannels                                      Lumen.ResampledCardCaptureNumFramesAccumulated      Lumen.ScreenProbeGather.TraceHit                              SkyAtmosphere.RealTimeSkyCapCamera360APLut TSR.Velocity.HoleFilled
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    LocalExposure                                         Lumen.SceneAlbedo                                   Lumen.ScreenProbeGather.TraceRadiance                         SkyAtmosphere.RealTimeSkyCapViewLut        TSR.velocity.HoleFillMask
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    LocalExposureGaussianX                                Lumen.SceneDepth                                    Lumen.TranslucencyVolume.FilteredVolumeTraceRadiance          SkyAtmosphere.SkyViewLut                   ViewFamilyTexture
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    LocalExposureGaussianY                                Lumen.SceneDirectLighting                           Lumen.TranslucencyVolume.SHLighting0                          SkyAtmosphere.TransmittanceLut             VolumetricRenderTarget.Reconstruct
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    Lumen.CardCaptureAlbedoAtlas                          Lumen.SceneEmissive                                 Lumen.TranslucencyVolume.SHLighting1                          SkyRenderTarget                            VolumetricRenderTarget.ReconstructDepth
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    Lumen.CardCaptureDepthStencilAtlas                    Lumen.SceneFinalLighting                            Lumen.TranslucencyVolume.SHLightingNewHistory0                Substrate.DummyWritableTexture             VolumetricRenderTarget.SecondaryTracing
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    Lumen.CardCaptureEmissiveAtlas                        Lumen.SceneIndirectLighting                         Lumen.TranslucencyVolume.VolumeTraceHitDistance               Tonemap                                    VolumetricRenderTarget.Tracing
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    Lumen.CardCaptureNormalAtlas                          Lumen.SceneNormal                                   Lumen.TranslucencyVolume.VolumeTraceRadiance                  Translucency.AfterDOF.Color                VolumetricRenderTarget.TracingDepth
+[2025.07.09-23.20.03:014][878]LogConsoleResponse:    Lumen.DepthHistory                                    Lumen.SceneNumFramesAccumulatedAtlas                MotionBlur.DummyOutput                                        TranslucentVolumeAmbient0
+[2025.07.09-23.20.03:015][878]LogConsoleResponse:    Lumen.RadianceCache.DepthProbeAtlasTexture            Lumen.SceneOpacity                                  MotionBlur.GatheredVelocityTile                               TranslucentVolumeAmbient1
+[2025.07.09-23.20.03:015][878]LogConsoleResponse:    Lumen.RadianceCache.FilteredRadianceProbeAtlasTexture Lumen.ScreenProbeGather.BackfaceDiffuseIndirect     MotionBlur.SceneColor                                         TranslucentVolumeDirectional0
+[2025.07.09-23.20.03:015][878]LogConsoleResponse:    Lumen.RadianceCache.FinalRadianceAtlas                Lumen.ScreenProbeGather.DiffuseIndirect             MotionBlur.SceneColor.HalfRes                                 TranslucentVolumeDirectional1
+[2025.07.09-23.20.03:015][878]LogConsoleResponse: 
+[2025.07.09-23.20.03:015][878]Cmd: rhi.DumpMemory
+[2025.07.09-23.20.03:018][878]RHI resource memory (not tracked by our allocator)
+[2025.07.09-23.20.03:018][878]        30.830MB  -  Bindless Resource Heap - STAT_BindlessResourceHeapMemory - STATGROUP_RHI - STATCAT_Advanced
+[2025.07.09-23.20.03:018][878]         0.377MB  -  Bindless Sampler Heap - STAT_BindlessSamplerHeapMemory - STATGROUP_RHI - STATCAT_Advanced
+[2025.07.09-23.20.03:018][878]         0.000MB  -  Misc Buffer Memory - STAT_MiscBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2025.07.09-23.20.03:018][878]         0.000MB  -  Draw Indirect Buffer Memory - STAT_DrawIndirectBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2025.07.09-23.20.03:018][878]        70.241MB  -  Byte Address Buffer Memory - STAT_ByteAddressBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2025.07.09-23.20.03:018][878]       288.204MB  -  Structured Buffer Memory - STAT_StructuredBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2025.07.09-23.20.03:018][878]         0.000MB  -  RayTracing Acceleration Structure Memory - STAT_RTAccelerationStructureMemory - STATGROUP_RHI - STATCAT_Advanced
+[2025.07.09-23.20.03:018][878]       373.722MB  -  Vertex Buffer Memory - STAT_VertexBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2025.07.09-23.20.03:018][878]         5.850MB  -  Index Buffer Memory - STAT_IndexBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2025.07.09-23.20.03:018][878]       -24.322MB  -  Uniform Buffer Memory - STAT_UniformBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2025.07.09-23.20.03:018][878]        85.586MB  -  Texture Cube Memory - STAT_TextureMemoryCube - STATGROUP_RHI - STATCAT_Advanced
+[2025.07.09-23.20.03:018][878]         0.211MB  -  Texture 3D Memory - STAT_TextureMemory3D - STATGROUP_RHI - STATCAT_Advanced
+[2025.07.09-23.20.03:018][878]       331.691MB  -  Texture 2D Memory - STAT_TextureMemory2D - STATGROUP_RHI - STATCAT_Advanced
+[2025.07.09-23.20.03:018][878]      5295.375MB  -  UAV Texture Memory - STAT_UAVTextureMemory - STATGROUP_RHI - STATCAT_Advanced
+[2025.07.09-23.20.03:018][878]         4.875MB  -  Render Target Cube Memory - STAT_RenderTargetMemoryCube - STATGROUP_RHI - STATCAT_Advanced
+[2025.07.09-23.20.03:018][878]         8.062MB  -  Render Target 3D Memory - STAT_RenderTargetMemory3D - STATGROUP_RHI - STATCAT_Advanced
+[2025.07.09-23.20.03:018][878]      2617.750MB  -  Render Target 2D Memory - STAT_RenderTargetMemory2D - STATGROUP_RHI - STATCAT_Advanced
+[2025.07.09-23.20.03:019][878]9088.453MB total
+[2025.07.09-23.20.03:019][878]LogWindows: FPlatformMisc::RequestExit(1, D3D12Util.TerminateOnOutOfMemory)
+[2025.07.09-23.20.03:019][878]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 0, D3D12Util.TerminateOnOutOfMemory)
+[2025.07.09-23.20.03:019][878]LogCore: Engine exit requested (reason: Win RequestExit)
