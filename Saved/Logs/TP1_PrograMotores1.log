@@ -8013,3 +8013,957 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.07.09-18.32.28:981][644]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.80 sec (total: 26.2 sec)
 [2025.07.09-18.32.29:003][644]AssetCheck: New page: Asset Save: MAP_SpyroLevel2
 [2025.07.09-18.32.29:003][644]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/MAP_SpyroLevel2.MAP_SpyroLevel2
+[2025.07.09-18.34.01:382][ 20]LogSlate: Window 'UW_LEVELS' being destroyed
+[2025.07.09-18.34.01:385][ 20]LogSlate: Window 'UW_LEVELS' being destroyed
+[2025.07.09-18.34.01:407][ 20]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2025.07.09-18.34.01:407][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.09-18.34.01:419][ 20]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2025.07.09-18.34.01:419][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.09-18.34.01:486][ 20]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2025.07.09-18.34.01:486][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.09-18.34.01:494][ 20]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2025.07.09-18.34.01:494][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.09-18.34.01:559][ 20]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2025.07.09-18.34.01:559][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.09-18.34.01:571][ 20]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2025.07.09-18.34.01:571][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.09-18.34.01:623][ 20]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2025.07.09-18.34.01:623][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.09-18.34.01:643][ 20]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2025.07.09-18.34.01:643][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.09-18.34.23:214][817]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.07.09-18.34.23:320][818]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.07.09-18.34.23:331][818]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_TrollEnemy_C_0, they are designed to work with AAIControllers!
+[2025.07.09-18.34.23:362][819]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.07.09-18.34.23:449][820]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.07.09-18.34.23:500][821]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.07.09-18.34.23:547][822]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.07.09-18.34.23:589][823]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.07.09-18.34.23:626][824]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.07.09-18.34.23:663][825]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.07.09-18.34.23:703][826]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.07.09-18.34.23:768][828]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.07.09-18.34.23:808][829]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.07.09-18.34.27:771][ 75]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_Coleccionable.BP_Coleccionable
+[2025.07.09-18.34.27:773][ 75]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.07.09-18.34.27:774][ 75]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.07.09-18.34.40:673][345]BlueprintLog: New page: Compile BP_Coleccionable
+[2025.07.09-18.34.40:730][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.07.09-18.34.41:207][381]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.09-18.34.41:370][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_Coleccionable" FILE="H:/Proyectos Unity/Spyrou/Content/ThirdPerson/Blueprints/BP_Coleccionable.uasset" SILENT=true
+[2025.07.09-18.34.41:379][381]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Coleccionable
+[2025.07.09-18.34.41:380][381]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/BP_ColeccionableC5941C4C4A39C4752513D9918482242E.tmp' to 'H:/Proyectos Unity/Spyrou/Content/ThirdPerson/Blueprints/BP_Coleccionable.uasset'
+[2025.07.09-18.34.41:387][381]LogFileHelpers: InternalPromptForCheckoutAndSave took 180 ms (total: 26.4 sec)
+[2025.07.09-18.34.41:390][381]AssetCheck: New page: Asset Save: BP_Coleccionable
+[2025.07.09-18.34.41:390][381]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_Coleccionable.BP_Coleccionable
+[2025.07.09-18.34.51:140][307]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8807.145508
+[2025.07.09-18.34.51:355][329]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.09-18.34.51:355][329]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8807.355469, Update Interval: 301.512512
+[2025.07.09-18.35.57:813][923]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\Augusto\Desktop\SPYRO SFXS\SPYRO COLLECIONABLE.wav)
+[2025.07.09-18.35.57:814][923]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SPYRO_COLLECIONABLE...
+[2025.07.09-18.35.57:822][923]LogAudio: Display: Chunk sizes for SoundWave /Game/SFX/Sfx/SPYRO_COLLECIONABLE.SPYRO_COLLECIONABLE: Chunk0=28 bytes, Chunk1-N=256k
+[2025.07.09-18.35.57:823][923]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SPYRO_COLLECIONABLE...
+[2025.07.09-18.35.57:835][923]LogAudio: Display: Chunk sizes for SoundWave /Game/SFX/Sfx/SPYRO_COLLECIONABLE.SPYRO_COLLECIONABLE: Chunk0=28 bytes, Chunk1-N=256k
+[2025.07.09-18.36.05:646][551]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.09-18.36.05:824][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_Coleccionable" FILE="H:/Proyectos Unity/Spyrou/Content/ThirdPerson/Blueprints/BP_Coleccionable.uasset" SILENT=true
+[2025.07.09-18.36.05:832][551]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Coleccionable
+[2025.07.09-18.36.05:833][551]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/BP_ColeccionableEB56002D4B5F5D0278E17EB50D638DA5.tmp' to 'H:/Proyectos Unity/Spyrou/Content/ThirdPerson/Blueprints/BP_Coleccionable.uasset'
+[2025.07.09-18.36.05:841][551]LogFileHelpers: InternalPromptForCheckoutAndSave took 194 ms (total: 26.6 sec)
+[2025.07.09-18.36.05:842][551]AssetCheck: New page: Asset Save: BP_Coleccionable
+[2025.07.09-18.36.05:842][551]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_Coleccionable.BP_Coleccionable
+[2025.07.09-18.36.07:053][691]BlueprintLog: New page: Compile BP_Coleccionable
+[2025.07.09-18.36.07:103][691]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.07.09-18.36.12:263][ 40]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.09-18.36.12:270][ 40]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.09-18.36.12:270][ 40]PIE: New page: PIE session: MAP_SpyroLevel2 (9 jul. 2025 12:36:12)
+[2025.07.09-18.36.12:304][ 40]LogPlayLevel: Display: Creating online subsystem for client :Context_100
+[2025.07.09-18.36.12:306][ 40]LogOnline: OSS: Created online subsystem instance for: :Context_100
+[2025.07.09-18.36.12:344][ 41]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MAP_SpyroLevel2
+[2025.07.09-18.36.12:797][ 41]LogPlayLevel: PIE: StaticDuplicateObject took: (0.452920s)
+[2025.07.09-18.36.12:797][ 41]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MAP_SpyroLevel2.MAP_SpyroLevel2 to /Game/Levels/UEDPIE_0_MAP_SpyroLevel2.MAP_SpyroLevel2 (0.452995s)
+[2025.07.09-18.36.12:815][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.07.09-18.36.12:821][ 41]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.07.09-18.36.12:821][ 41]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.07.09-18.36.12:822][ 41]LogAIModule: Creating AISystem for world MAP_SpyroLevel2
+[2025.07.09-18.36.12:825][ 41]LogPlayLevel: PIE: World Init took: (0.003529s)
+[2025.07.09-18.36.12:826][ 41]LogAudio: Display: Creating Audio Device:                 Id: 55, Scope: Unique, Realtime: True
+[2025.07.09-18.36.12:826][ 41]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.09-18.36.12:826][ 41]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.09-18.36.12:826][ 41]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.09-18.36.12:826][ 41]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.09-18.36.12:826][ 41]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.09-18.36.12:826][ 41]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.09-18.36.12:826][ 41]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.09-18.36.12:826][ 41]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.09-18.36.12:827][ 41]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.09-18.36.12:827][ 41]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.09-18.36.12:827][ 41]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.09-18.36.12:829][ 41]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.09-18.36.12:854][ 41]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.07.09-18.36.12:854][ 41]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.09-18.36.12:854][ 41]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.09-18.36.12:854][ 41]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.09-18.36.12:855][ 41]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=55
+[2025.07.09-18.36.12:855][ 41]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=55
+[2025.07.09-18.36.12:857][ 41]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=55
+[2025.07.09-18.36.12:857][ 41]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=55
+[2025.07.09-18.36.12:857][ 41]LogInit: FAudioDevice initialized with ID 55.
+[2025.07.09-18.36.12:857][ 41]LogAudio: Display: Audio Device (ID: 55) registered with world 'MAP_SpyroLevel2'.
+[2025.07.09-18.36.12:857][ 41]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 55
+[2025.07.09-18.36.12:860][ 41]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.07.09-18.36.12:888][ 41]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_TrollEnemy_C_1, they are designed to work with AAIControllers!
+[2025.07.09-18.36.12:892][ 41]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_TrollEnemy_C_3, they are designed to work with AAIControllers!
+[2025.07.09-18.36.13:005][ 41]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MAP_SpyroLevel2.MAP_SpyroLevel2 up for play (max tick rate 0) at 2025.07.09-15.36.13
+[2025.07.09-18.36.13:013][ 41]LogWorld: Bringing up level for play took: 0.152761
+[2025.07.09-18.36.13:024][ 41]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] vida%1.0
+[2025.07.09-18.36.13:024][ 41]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.07.09-18.36.13:024][ 41]PIE: Server logged in
+[2025.07.09-18.36.13:025][ 41]PIE: Play in editor total start time 0,756 seconds.
+[2025.07.09-18.36.28:496][276]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 5
+[2025.07.09-18.36.28:496][276]LogBlueprintUserMessages: [BP_Coleccionable_C_10] 1
+[2025.07.09-18.36.30:505][443]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.09-18.36.30:505][443]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MAP_SpyroLevel2
+[2025.07.09-18.36.30:510][443]LogWorld: UWorld::CleanupWorld for MAP_SpyroLevel2, bSessionEnded=true, bCleanupResources=true
+[2025.07.09-18.36.30:527][443]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.09-18.36.30:533][443]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.09-18.36.30:543][443]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.09-18.36.30:602][443]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.07.09-18.36.30:603][443]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 55
+[2025.07.09-18.36.30:603][443]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=55
+[2025.07.09-18.36.30:605][443]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=55
+[2025.07.09-18.36.30:609][443]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.09-18.36.30:634][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.07.09-18.36.30:701][444]LogPlayLevel: Display: Destroying online subsystem :Context_100
+[2025.07.09-18.36.41:674][181]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/SFX/Sfx/SPYRO_COLLECIONABLE.SPYRO_COLLECIONABLE
+[2025.07.09-18.36.45:409][417]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.09-18.36.45:522][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SFX/Sfx/SPYRO_COLLECIONABLE" FILE="H:/Proyectos Unity/Spyrou/Content/SFX/Sfx/SPYRO_COLLECIONABLE.uasset" SILENT=true
+[2025.07.09-18.36.45:525][417]LogSavePackage: Moving output files for package: /Game/SFX/Sfx/SPYRO_COLLECIONABLE
+[2025.07.09-18.36.45:525][417]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/SPYRO_COLLECIONABLEC852EF664A1AF55C958B1ABFC52CBAD0.tmp' to 'H:/Proyectos Unity/Spyrou/Content/SFX/Sfx/SPYRO_COLLECIONABLE.uasset'
+[2025.07.09-18.36.45:546][417]LogFileHelpers: InternalPromptForCheckoutAndSave took 137 ms (total: 26.7 sec)
+[2025.07.09-18.36.45:546][417]AssetCheck: New page: Asset Save: SPYRO_COLLECIONABLE
+[2025.07.09-18.36.45:546][417]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/SFX/Sfx/SPYRO_COLLECIONABLE.SPYRO_COLLECIONABLE
+[2025.07.09-18.36.59:632][459]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/SPYRO_ANIM/ANIMACIONES/Jumping__2_.Jumping__2_
+[2025.07.09-18.36.59:633][459]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.07.09-18.36.59:633][459]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.07.09-18.36.59:645][459]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_68:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.07.09-18.36.59:907][459]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.07.09-18.36.59:907][459]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.07.09-18.37.00:056][459]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.07.09-18.37.00:056][459]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.07.09-18.37.00:075][459]LogViewport: Scene viewport resized to 1141x562, mode Windowed.
+[2025.07.09-18.37.00:096][459]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2025.07.09-18.37.04:737][650]LogSlate: Window 'Jumping__2_' being destroyed
+[2025.07.09-18.37.04:744][650]LogSlate: Window 'Jumping__2_' being destroyed
+[2025.07.09-18.37.04:800][650]LogWorld: UWorld::CleanupWorld for World_70, bSessionEnded=true, bCleanupResources=true
+[2025.07.09-18.37.04:800][650]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.09-18.37.04:827][650]LogWorld: UWorld::CleanupWorld for World_68, bSessionEnded=true, bCleanupResources=true
+[2025.07.09-18.37.04:827][650]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.09-18.37.04:902][650]LogWorld: UWorld::CleanupWorld for World_69, bSessionEnded=true, bCleanupResources=true
+[2025.07.09-18.37.04:902][650]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.09-18.37.06:306][764]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.09-18.37.06:312][764]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.09-18.37.06:312][764]PIE: New page: PIE session: MAP_SpyroLevel2 (9 jul. 2025 12:37:06)
+[2025.07.09-18.37.06:346][764]LogPlayLevel: Display: Creating online subsystem for client :Context_104
+[2025.07.09-18.37.06:348][764]LogOnline: OSS: Created online subsystem instance for: :Context_104
+[2025.07.09-18.37.06:382][765]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MAP_SpyroLevel2
+[2025.07.09-18.37.06:828][765]LogPlayLevel: PIE: StaticDuplicateObject took: (0.446005s)
+[2025.07.09-18.37.06:829][765]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MAP_SpyroLevel2.MAP_SpyroLevel2 to /Game/Levels/UEDPIE_0_MAP_SpyroLevel2.MAP_SpyroLevel2 (0.446056s)
+[2025.07.09-18.37.06:850][765]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.07.09-18.37.06:858][765]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.07.09-18.37.06:859][765]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.07.09-18.37.06:859][765]LogAIModule: Creating AISystem for world MAP_SpyroLevel2
+[2025.07.09-18.37.06:862][765]LogPlayLevel: PIE: World Init took: (0.003724s)
+[2025.07.09-18.37.06:863][765]LogAudio: Display: Creating Audio Device:                 Id: 56, Scope: Unique, Realtime: True
+[2025.07.09-18.37.06:863][765]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.09-18.37.06:863][765]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.09-18.37.06:863][765]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.09-18.37.06:863][765]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.09-18.37.06:863][765]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.09-18.37.06:863][765]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.09-18.37.06:863][765]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.09-18.37.06:863][765]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.09-18.37.06:864][765]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.09-18.37.06:864][765]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.09-18.37.06:864][765]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.09-18.37.06:865][765]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.09-18.37.06:890][765]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.07.09-18.37.06:891][765]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.09-18.37.06:891][765]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.09-18.37.06:891][765]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.09-18.37.06:892][765]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=56
+[2025.07.09-18.37.06:892][765]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=56
+[2025.07.09-18.37.06:894][765]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=56
+[2025.07.09-18.37.06:894][765]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=56
+[2025.07.09-18.37.06:894][765]LogInit: FAudioDevice initialized with ID 56.
+[2025.07.09-18.37.06:894][765]LogAudio: Display: Audio Device (ID: 56) registered with world 'MAP_SpyroLevel2'.
+[2025.07.09-18.37.06:894][765]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 56
+[2025.07.09-18.37.06:897][765]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.07.09-18.37.06:924][765]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_TrollEnemy_C_1, they are designed to work with AAIControllers!
+[2025.07.09-18.37.06:927][765]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_TrollEnemy_C_3, they are designed to work with AAIControllers!
+[2025.07.09-18.37.07:017][765]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MAP_SpyroLevel2.MAP_SpyroLevel2 up for play (max tick rate 0) at 2025.07.09-15.37.07
+[2025.07.09-18.37.07:023][765]LogWorld: Bringing up level for play took: 0.125887
+[2025.07.09-18.37.07:033][765]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] vida%1.0
+[2025.07.09-18.37.07:033][765]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.07.09-18.37.07:033][765]PIE: Server logged in
+[2025.07.09-18.37.07:034][765]PIE: Play in editor total start time 0,723 seconds.
+[2025.07.09-18.37.07:369][768]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.059137 > MaxSimulationTimeStep (0.050) for 'BP_TrollEnemy_C_1', movement 'Walking'
+[2025.07.09-18.37.07:369][768]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.059137 > MaxSimulationTimeStep (0.050) for 'BP_TrollEnemy_C_3', movement 'Walking'
+[2025.07.09-18.37.08:687][879]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.09-18.37.08:687][879]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MAP_SpyroLevel2
+[2025.07.09-18.37.08:692][879]LogWorld: UWorld::CleanupWorld for MAP_SpyroLevel2, bSessionEnded=true, bCleanupResources=true
+[2025.07.09-18.37.08:708][879]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.09-18.37.08:713][879]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.09-18.37.08:723][879]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.09-18.37.08:792][879]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.07.09-18.37.08:793][879]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 56
+[2025.07.09-18.37.08:793][879]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56
+[2025.07.09-18.37.08:795][879]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56
+[2025.07.09-18.37.08:800][879]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.09-18.37.08:827][879]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.07.09-18.37.08:909][880]LogPlayLevel: Display: Destroying online subsystem :Context_104
+[2025.07.09-18.37.09:699][938]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.09-18.37.09:706][938]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.09-18.37.09:706][938]PIE: New page: PIE session: MAP_SpyroLevel2 (9 jul. 2025 12:37:09)
+[2025.07.09-18.37.09:736][938]LogPlayLevel: Display: Creating online subsystem for client :Context_105
+[2025.07.09-18.37.09:738][938]LogOnline: OSS: Created online subsystem instance for: :Context_105
+[2025.07.09-18.37.09:775][939]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MAP_SpyroLevel2
+[2025.07.09-18.37.10:217][939]LogPlayLevel: PIE: StaticDuplicateObject took: (0.442098s)
+[2025.07.09-18.37.10:217][939]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MAP_SpyroLevel2.MAP_SpyroLevel2 to /Game/Levels/UEDPIE_0_MAP_SpyroLevel2.MAP_SpyroLevel2 (0.442163s)
+[2025.07.09-18.37.10:233][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.07.09-18.37.10:240][939]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.07.09-18.37.10:240][939]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.07.09-18.37.10:240][939]LogAIModule: Creating AISystem for world MAP_SpyroLevel2
+[2025.07.09-18.37.10:243][939]LogPlayLevel: PIE: World Init took: (0.003391s)
+[2025.07.09-18.37.10:244][939]LogAudio: Display: Creating Audio Device:                 Id: 57, Scope: Unique, Realtime: True
+[2025.07.09-18.37.10:244][939]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.09-18.37.10:244][939]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.09-18.37.10:244][939]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.09-18.37.10:244][939]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.09-18.37.10:244][939]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.09-18.37.10:244][939]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.09-18.37.10:244][939]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.09-18.37.10:244][939]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.09-18.37.10:244][939]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.09-18.37.10:244][939]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.09-18.37.10:244][939]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.09-18.37.10:246][939]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.09-18.37.10:272][939]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.07.09-18.37.10:272][939]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.09-18.37.10:272][939]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.09-18.37.10:272][939]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.09-18.37.10:273][939]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=57
+[2025.07.09-18.37.10:273][939]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=57
+[2025.07.09-18.37.10:275][939]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=57
+[2025.07.09-18.37.10:275][939]LogInit: FAudioDevice initialized with ID 57.
+[2025.07.09-18.37.10:275][939]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=57
+[2025.07.09-18.37.10:275][939]LogAudio: Display: Audio Device (ID: 57) registered with world 'MAP_SpyroLevel2'.
+[2025.07.09-18.37.10:275][939]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 57
+[2025.07.09-18.37.10:278][939]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.07.09-18.37.10:305][939]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_TrollEnemy_C_1, they are designed to work with AAIControllers!
+[2025.07.09-18.37.10:308][939]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_TrollEnemy_C_3, they are designed to work with AAIControllers!
+[2025.07.09-18.37.10:395][939]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MAP_SpyroLevel2.MAP_SpyroLevel2 up for play (max tick rate 0) at 2025.07.09-15.37.10
+[2025.07.09-18.37.10:402][939]LogWorld: Bringing up level for play took: 0.123639
+[2025.07.09-18.37.10:412][939]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] vida%1.0
+[2025.07.09-18.37.10:412][939]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.07.09-18.37.10:412][939]PIE: Server logged in
+[2025.07.09-18.37.10:413][939]PIE: Play in editor total start time 0,708 seconds.
+[2025.07.09-18.37.10:744][942]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.061109 > MaxSimulationTimeStep (0.050) for 'BP_TrollEnemy_C_1', movement 'Walking'
+[2025.07.09-18.37.10:744][942]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.061109 > MaxSimulationTimeStep (0.050) for 'BP_TrollEnemy_C_3', movement 'Walking'
+[2025.07.09-18.37.11:447][  3]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.09-18.37.11:447][  3]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MAP_SpyroLevel2
+[2025.07.09-18.37.11:452][  3]LogWorld: UWorld::CleanupWorld for MAP_SpyroLevel2, bSessionEnded=true, bCleanupResources=true
+[2025.07.09-18.37.11:469][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.09-18.37.11:474][  3]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.09-18.37.11:484][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.09-18.37.11:501][  3]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.09-18.37.11:546][  3]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 57
+[2025.07.09-18.37.11:546][  3]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=57
+[2025.07.09-18.37.11:548][  3]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=57
+[2025.07.09-18.37.11:575][  3]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.07.09-18.37.11:644][  4]LogPlayLevel: Display: Destroying online subsystem :Context_105
+[2025.07.09-18.37.16:640][278]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.09-18.37.16:646][278]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.09-18.37.16:646][278]PIE: New page: PIE session: MAP_SpyroLevel2 (9 jul. 2025 12:37:16)
+[2025.07.09-18.37.16:667][278]LogPlayLevel: Display: Creating online subsystem for client :Context_106
+[2025.07.09-18.37.16:669][278]LogOnline: OSS: Created online subsystem instance for: :Context_106
+[2025.07.09-18.37.16:708][279]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MAP_SpyroLevel2
+[2025.07.09-18.37.17:158][279]LogPlayLevel: PIE: StaticDuplicateObject took: (0.449243s)
+[2025.07.09-18.37.17:158][279]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MAP_SpyroLevel2.MAP_SpyroLevel2 to /Game/Levels/UEDPIE_0_MAP_SpyroLevel2.MAP_SpyroLevel2 (0.449295s)
+[2025.07.09-18.37.17:174][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.07.09-18.37.17:183][279]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.07.09-18.37.17:183][279]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.07.09-18.37.17:183][279]LogAIModule: Creating AISystem for world MAP_SpyroLevel2
+[2025.07.09-18.37.17:186][279]LogPlayLevel: PIE: World Init took: (0.003619s)
+[2025.07.09-18.37.17:187][279]LogAudio: Display: Creating Audio Device:                 Id: 58, Scope: Unique, Realtime: True
+[2025.07.09-18.37.17:187][279]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.09-18.37.17:187][279]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.09-18.37.17:187][279]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.09-18.37.17:187][279]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.09-18.37.17:187][279]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.09-18.37.17:187][279]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.09-18.37.17:187][279]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.09-18.37.17:187][279]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.09-18.37.17:188][279]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.09-18.37.17:188][279]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.09-18.37.17:188][279]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.09-18.37.17:189][279]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.09-18.37.17:214][279]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.07.09-18.37.17:214][279]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.09-18.37.17:214][279]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.09-18.37.17:214][279]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.09-18.37.17:215][279]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=58
+[2025.07.09-18.37.17:215][279]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=58
+[2025.07.09-18.37.17:217][279]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=58
+[2025.07.09-18.37.17:217][279]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=58
+[2025.07.09-18.37.17:217][279]LogInit: FAudioDevice initialized with ID 58.
+[2025.07.09-18.37.17:217][279]LogAudio: Display: Audio Device (ID: 58) registered with world 'MAP_SpyroLevel2'.
+[2025.07.09-18.37.17:217][279]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 58
+[2025.07.09-18.37.17:220][279]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.07.09-18.37.17:247][279]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_TrollEnemy_C_1, they are designed to work with AAIControllers!
+[2025.07.09-18.37.17:250][279]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_TrollEnemy_C_3, they are designed to work with AAIControllers!
+[2025.07.09-18.37.17:339][279]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MAP_SpyroLevel2.MAP_SpyroLevel2 up for play (max tick rate 0) at 2025.07.09-15.37.17
+[2025.07.09-18.37.17:346][279]LogWorld: Bringing up level for play took: 0.125859
+[2025.07.09-18.37.17:357][279]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] vida%1.0
+[2025.07.09-18.37.17:357][279]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.07.09-18.37.17:357][279]PIE: Server logged in
+[2025.07.09-18.37.17:358][279]PIE: Play in editor total start time 0,712 seconds.
+[2025.07.09-18.37.17:433][280]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.091115 > MaxSimulationTimeStep (0.050) for 'BP_ThirdPersonCharacter_C_0', movement 'Walking'
+[2025.07.09-18.37.17:722][282]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.065243 > MaxSimulationTimeStep (0.050) for 'BP_TrollEnemy_C_1', movement 'Walking'
+[2025.07.09-18.37.17:722][282]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.065243 > MaxSimulationTimeStep (0.050) for 'BP_TrollEnemy_C_3', movement 'Walking'
+[2025.07.09-18.37.18:177][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.09-18.37.18:177][320]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MAP_SpyroLevel2
+[2025.07.09-18.37.18:182][320]LogWorld: UWorld::CleanupWorld for MAP_SpyroLevel2, bSessionEnded=true, bCleanupResources=true
+[2025.07.09-18.37.18:199][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.09-18.37.18:204][320]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.09-18.37.18:215][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.09-18.37.18:238][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.09-18.37.18:272][320]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 58
+[2025.07.09-18.37.18:272][320]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=58
+[2025.07.09-18.37.18:274][320]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=58
+[2025.07.09-18.37.18:301][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2025.07.09-18.37.18:410][321]LogPlayLevel: Display: Destroying online subsystem :Context_106
+[2025.07.09-18.37.21:261][481]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.09-18.37.21:267][481]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.09-18.37.21:267][481]PIE: New page: PIE session: MAP_SpyroLevel2 (9 jul. 2025 12:37:21)
+[2025.07.09-18.37.21:297][481]LogPlayLevel: Display: Creating online subsystem for client :Context_107
+[2025.07.09-18.37.21:299][481]LogOnline: OSS: Created online subsystem instance for: :Context_107
+[2025.07.09-18.37.21:338][482]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MAP_SpyroLevel2
+[2025.07.09-18.37.21:777][482]LogPlayLevel: PIE: StaticDuplicateObject took: (0.438804s)
+[2025.07.09-18.37.21:777][482]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MAP_SpyroLevel2.MAP_SpyroLevel2 to /Game/Levels/UEDPIE_0_MAP_SpyroLevel2.MAP_SpyroLevel2 (0.438860s)
+[2025.07.09-18.37.21:793][482]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.07.09-18.37.21:801][482]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.07.09-18.37.21:801][482]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.07.09-18.37.21:802][482]LogAIModule: Creating AISystem for world MAP_SpyroLevel2
+[2025.07.09-18.37.21:804][482]LogPlayLevel: PIE: World Init took: (0.002863s)
+[2025.07.09-18.37.21:804][482]LogAudio: Display: Creating Audio Device:                 Id: 59, Scope: Unique, Realtime: True
+[2025.07.09-18.37.21:804][482]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.09-18.37.21:804][482]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.09-18.37.21:804][482]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.09-18.37.21:805][482]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.09-18.37.21:805][482]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.09-18.37.21:805][482]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.09-18.37.21:805][482]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.09-18.37.21:805][482]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.09-18.37.21:805][482]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.09-18.37.21:805][482]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.09-18.37.21:805][482]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.09-18.37.21:807][482]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.09-18.37.21:832][482]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.07.09-18.37.21:832][482]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.09-18.37.21:832][482]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.09-18.37.21:832][482]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.09-18.37.21:833][482]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=59
+[2025.07.09-18.37.21:833][482]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=59
+[2025.07.09-18.37.21:835][482]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=59
+[2025.07.09-18.37.21:835][482]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=59
+[2025.07.09-18.37.21:835][482]LogInit: FAudioDevice initialized with ID 59.
+[2025.07.09-18.37.21:835][482]LogAudio: Display: Audio Device (ID: 59) registered with world 'MAP_SpyroLevel2'.
+[2025.07.09-18.37.21:835][482]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 59
+[2025.07.09-18.37.21:838][482]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.07.09-18.37.21:866][482]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_TrollEnemy_C_1, they are designed to work with AAIControllers!
+[2025.07.09-18.37.21:870][482]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_TrollEnemy_C_3, they are designed to work with AAIControllers!
+[2025.07.09-18.37.21:959][482]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MAP_SpyroLevel2.MAP_SpyroLevel2 up for play (max tick rate 0) at 2025.07.09-15.37.21
+[2025.07.09-18.37.21:967][482]LogWorld: Bringing up level for play took: 0.127812
+[2025.07.09-18.37.21:979][482]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] vida%1.0
+[2025.07.09-18.37.21:979][482]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.07.09-18.37.21:979][482]PIE: Server logged in
+[2025.07.09-18.37.21:980][482]PIE: Play in editor total start time 0,713 seconds.
+[2025.07.09-18.37.22:283][485]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.069649 > MaxSimulationTimeStep (0.050) for 'BP_TrollEnemy_C_1', movement 'Walking'
+[2025.07.09-18.37.22:283][485]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.069649 > MaxSimulationTimeStep (0.050) for 'BP_TrollEnemy_C_3', movement 'Walking'
+[2025.07.09-18.38.11:508][515]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 5
+[2025.07.09-18.38.11:508][515]LogBlueprintUserMessages: [BP_Coleccionable_C_10] 1
+[2025.07.09-18.38.46:331][341]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 10
+[2025.07.09-18.38.46:331][341]LogBlueprintUserMessages: [BP_Coleccionable_C_5] 2
+[2025.07.09-18.38.48:700][482]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.09-18.38.48:700][482]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MAP_SpyroLevel2
+[2025.07.09-18.38.48:705][482]LogWorld: UWorld::CleanupWorld for MAP_SpyroLevel2, bSessionEnded=true, bCleanupResources=true
+[2025.07.09-18.38.48:722][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.09-18.38.48:727][482]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.09-18.38.48:737][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.09-18.38.48:753][482]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.09-18.38.48:795][482]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 59
+[2025.07.09-18.38.48:796][482]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=59
+[2025.07.09-18.38.48:797][482]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=59
+[2025.07.09-18.38.48:826][482]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2025.07.09-18.38.48:939][483]LogPlayLevel: Display: Destroying online subsystem :Context_107
+[2025.07.09-18.38.53:890][815]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.07.09-18.40.26:060][300]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9142.057617
+[2025.07.09-18.40.27:062][303]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.09-18.40.27:062][303]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9142.725586, Update Interval: 304.603424
+[2025.07.09-18.40.51:821][501]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/SPYRO_ANIM/ANIMACIONES/Jumping__2_.Jumping__2_
+[2025.07.09-18.40.51:823][501]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.07.09-18.40.51:823][501]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.07.09-18.40.51:831][501]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_72:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.07.09-18.40.52:134][501]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.07.09-18.40.52:134][501]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.07.09-18.40.52:277][501]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.07.09-18.40.52:277][501]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.07.09-18.40.52:297][501]LogViewport: Scene viewport resized to 1141x562, mode Windowed.
+[2025.07.09-18.40.52:317][501]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2025.07.09-18.41.04:019][997]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.09-18.41.04:081][997]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SPYRO_ANIM/ANIMACIONES/Jumping__2_" FILE="H:/Proyectos Unity/Spyrou/Content/SPYRO_ANIM/ANIMACIONES/Jumping__2_.uasset" SILENT=true
+[2025.07.09-18.41.04:089][997]LogSavePackage: Moving output files for package: /Game/SPYRO_ANIM/ANIMACIONES/Jumping__2_
+[2025.07.09-18.41.04:090][997]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Jumping__2_0A81AC9948E74774B92E6796AF98C5BB.tmp' to 'H:/Proyectos Unity/Spyrou/Content/SPYRO_ANIM/ANIMACIONES/Jumping__2_.uasset'
+[2025.07.09-18.41.04:100][997]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 26.8 sec)
+[2025.07.09-18.41.04:101][997]AssetCheck: New page: Asset Save: Jumping__2_
+[2025.07.09-18.41.04:101][997]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/SPYRO_ANIM/ANIMACIONES/Jumping__2_.Jumping__2_
+[2025.07.09-18.42.44:363][428]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2025.07.09-18.43.05:830][816]LogContentBrowser: Attempting asset rename: Materiales -> MATS_FBXS
+[2025.07.09-18.43.05:918][816]LogTexture: Display: Building textures: /Game/Materiales/Torreta/Props_CabezaTorreta_MAT_Emissive.Props_CabezaTorreta_MAT_Emissive (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2025.07.09-18.43.05:988][816]LogTexture: Display: Building textures: /Game/Materiales/Torreta/Props_BaseTorreta_MAT_Emissive.Props_BaseTorreta_MAT_Emissive (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2025.07.09-18.43.06:095][816]LogTexture: Display: Building textures: /Game/Materiales/Coleccionables/Props_Recolectable_MAT_Emissive.Props_Recolectable_MAT_Emissive (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2025.07.09-18.43.07:108][816]LogMetaData: Removing '/Game/MATS_FBXS/PROPS_SPYRO_PAREDES_REDONDAS/PARED_REDONDA_1_FBX.PARED_REDONDA_1_FBX' ref from Metadata '/Game/Materiales/PROPS_SPYRO_PAREDES_REDONDAS/PARED_REDONDA_1_FBX.PackageMetaData'
+[2025.07.09-18.43.07:924][816]LogMetaData: Removing '/Game/MATS_FBXS/Torreta/BaseTorretaNEW.BaseTorretaNEW' ref from Metadata '/Game/Materiales/Torreta/BaseTorretaNEW.PackageMetaData'
+[2025.07.09-18.43.08:511][816]LogMetaData: Removing '/Game/MATS_FBXS/Torreta/CabezaTorreteNEW.CabezaTorreteNEW' ref from Metadata '/Game/Materiales/Torreta/CabezaTorreteNEW.PackageMetaData'
+[2025.07.09-18.43.09:091][816]LogMetaData: Removing '/Game/MATS_FBXS/Coleccionables/Recolectable.Recolectable' ref from Metadata '/Game/Materiales/Coleccionables/Recolectable.PackageMetaData'
+[2025.07.09-18.43.09:617][816]LogMetaData: Removing '/Game/MATS_FBXS/PROPS_SPYRO_TRAMPA_VENENO/TRAMPA_VENENO_FBX.TRAMPA_VENENO_FBX' ref from Metadata '/Game/Materiales/PROPS_SPYRO_TRAMPA_VENENO/TRAMPA_VENENO_FBX.PackageMetaData'
+[2025.07.09-18.43.10:147][816]LogMetaData: Removing '/Game/MATS_FBXS/PROPS_SPYRO_TRANSPORTE_ROCA/TRANSPORTE_ROCA_FBX.TRANSPORTE_ROCA_FBX' ref from Metadata '/Game/Materiales/PROPS_SPYRO_TRANSPORTE_ROCA/TRANSPORTE_ROCA_FBX.PackageMetaData'
+[2025.07.09-18.43.10:860][816]LogMetaData: Removing '/Game/MATS_FBXS/GRASS/Grass_pPlane1.Grass_pPlane1' ref from Metadata '/Game/Materiales/GRASS/Grass_pPlane1.PackageMetaData'
+[2025.07.09-18.43.11:008][816]LogMetaData: Removing '/Game/MATS_FBXS/GRASS/Grass_pPlane2.Grass_pPlane2' ref from Metadata '/Game/Materiales/GRASS/Grass_pPlane2.PackageMetaData'
+[2025.07.09-18.43.11:316][816]LogMetaData: Removing '/Game/MATS_FBXS/GRASS/Grass_pPlane22.Grass_pPlane22' ref from Metadata '/Game/Materiales/GRASS/Grass_pPlane22.PackageMetaData'
+[2025.07.09-18.43.11:463][816]LogMetaData: Removing '/Game/MATS_FBXS/GRASS/Grass_pPlane28.Grass_pPlane28' ref from Metadata '/Game/Materiales/GRASS/Grass_pPlane28.PackageMetaData'
+[2025.07.09-18.43.11:624][816]LogMetaData: Removing '/Game/MATS_FBXS/GRASS/Grass_pPlane5.Grass_pPlane5' ref from Metadata '/Game/Materiales/GRASS/Grass_pPlane5.PackageMetaData'
+[2025.07.09-18.43.11:773][816]LogMetaData: Removing '/Game/MATS_FBXS/GRASS/Grass_pPlane6.Grass_pPlane6' ref from Metadata '/Game/Materiales/GRASS/Grass_pPlane6.PackageMetaData'
+[2025.07.09-18.43.11:957][816]LogMetaData: Removing '/Game/MATS_FBXS/GRASS/Grass_pPlane7.Grass_pPlane7' ref from Metadata '/Game/Materiales/GRASS/Grass_pPlane7.PackageMetaData'
+[2025.07.09-18.43.12:122][816]LogMetaData: Removing '/Game/MATS_FBXS/PROPS_SPYRO_PAREDES_REDONDAS/PARED_REDONDA_2_FBX.PARED_REDONDA_2_FBX' ref from Metadata '/Game/Materiales/PROPS_SPYRO_PAREDES_REDONDAS/PARED_REDONDA_2_FBX.PackageMetaData'
+[2025.07.09-18.43.12:278][816]LogMetaData: Removing '/Game/MATS_FBXS/PROPS_SPYRO_PAREDES_REDONDAS/PARED_REDONDA_3_FBX.PARED_REDONDA_3_FBX' ref from Metadata '/Game/Materiales/PROPS_SPYRO_PAREDES_REDONDAS/PARED_REDONDA_3_FBX.PackageMetaData'
+[2025.07.09-18.43.13:136][816]LogMetaData: Removing '/Game/MATS_FBXS/PROPS_SPYRO_PILAR_PIEDRA/PILAR_PIEDRA_FBX.PILAR_PIEDRA_FBX' ref from Metadata '/Game/Materiales/PROPS_SPYRO_PILAR_PIEDRA/PILAR_PIEDRA_FBX.PackageMetaData'
+[2025.07.09-18.43.13:833][816]LogMetaData: Removing '/Game/MATS_FBXS/PROPS_SPYRO_SUELO_PIEDRA/SUELO_PIEDRA_FBX.SUELO_PIEDRA_FBX' ref from Metadata '/Game/Materiales/PROPS_SPYRO_SUELO_PIEDRA/SUELO_PIEDRA_FBX.PackageMetaData'
+[2025.07.09-18.43.14:499][816]LogMetaData: Removing '/Game/MATS_FBXS/PROPS_SPYRO_SUELOS_GRANDES_PASTO_TIERRA/SUELOS_GRANDES_PASTO_TIERRA_FBX.SUELOS_GRANDES_PASTO_TIERRA_FBX' ref from Metadata '/Game/Materiales/PROPS_SPYRO_SUELOS_GRANDES_PASTO_TIERRA/SUELOS_GRANDES_PASTO_TIERRA_FBX.PackageMetaData'
+[2025.07.09-18.43.15:119][816]LogMetaData: Removing '/Game/MATS_FBXS/TORRE/Torre_pCube7.Torre_pCube7' ref from Metadata '/Game/Materiales/TORRE/Torre_pCube7.PackageMetaData'
+[2025.07.09-18.43.15:251][816]LogMetaData: Removing '/Game/MATS_FBXS/TORRE/Torre_pCube8.Torre_pCube8' ref from Metadata '/Game/Materiales/TORRE/Torre_pCube8.PackageMetaData'
+[2025.07.09-18.43.15:797][816]LogMetaData: Removing '/Game/MATS_FBXS/GRASS/Grass_pPlane9.Grass_pPlane9' ref from Metadata '/Game/Materiales/GRASS/Grass_pPlane9.PackageMetaData'
+[2025.07.09-18.43.15:879][816]LogMetaData: Removing '/Game/MATS_FBXS/GRASS/Grass_pPlane8.Grass_pPlane8' ref from Metadata '/Game/Materiales/GRASS/Grass_pPlane8.PackageMetaData'
+[2025.07.09-18.43.15:939][816]LogMetaData: Removing '/Game/MATS_FBXS/GRASS/Grass_pPlane4.Grass_pPlane4' ref from Metadata '/Game/Materiales/GRASS/Grass_pPlane4.PackageMetaData'
+[2025.07.09-18.43.16:000][816]LogMetaData: Removing '/Game/MATS_FBXS/GRASS/Grass_pPlane3.Grass_pPlane3' ref from Metadata '/Game/Materiales/GRASS/Grass_pPlane3.PackageMetaData'
+[2025.07.09-18.43.16:081][816]LogMetaData: Removing '/Game/MATS_FBXS/GRASS/Grass_pPlane27.Grass_pPlane27' ref from Metadata '/Game/Materiales/GRASS/Grass_pPlane27.PackageMetaData'
+[2025.07.09-18.43.16:163][816]LogMetaData: Removing '/Game/MATS_FBXS/GRASS/Grass_pPlane26.Grass_pPlane26' ref from Metadata '/Game/Materiales/GRASS/Grass_pPlane26.PackageMetaData'
+[2025.07.09-18.43.16:246][816]LogMetaData: Removing '/Game/MATS_FBXS/GRASS/Grass_pPlane25.Grass_pPlane25' ref from Metadata '/Game/Materiales/GRASS/Grass_pPlane25.PackageMetaData'
+[2025.07.09-18.43.16:330][816]LogMetaData: Removing '/Game/MATS_FBXS/GRASS/Grass_pPlane24.Grass_pPlane24' ref from Metadata '/Game/Materiales/GRASS/Grass_pPlane24.PackageMetaData'
+[2025.07.09-18.43.16:411][816]LogMetaData: Removing '/Game/MATS_FBXS/GRASS/Grass_pPlane23.Grass_pPlane23' ref from Metadata '/Game/Materiales/GRASS/Grass_pPlane23.PackageMetaData'
+[2025.07.09-18.43.16:492][816]LogMetaData: Removing '/Game/MATS_FBXS/GRASS/Grass_pPlane21.Grass_pPlane21' ref from Metadata '/Game/Materiales/GRASS/Grass_pPlane21.PackageMetaData'
+[2025.07.09-18.43.16:574][816]LogMetaData: Removing '/Game/MATS_FBXS/GRASS/Grass_pPlane20.Grass_pPlane20' ref from Metadata '/Game/Materiales/GRASS/Grass_pPlane20.PackageMetaData'
+[2025.07.09-18.43.16:655][816]LogMetaData: Removing '/Game/MATS_FBXS/GRASS/Grass_pPlane19.Grass_pPlane19' ref from Metadata '/Game/Materiales/GRASS/Grass_pPlane19.PackageMetaData'
+[2025.07.09-18.43.16:738][816]LogMetaData: Removing '/Game/MATS_FBXS/GRASS/Grass_pPlane18.Grass_pPlane18' ref from Metadata '/Game/Materiales/GRASS/Grass_pPlane18.PackageMetaData'
+[2025.07.09-18.43.16:832][816]LogMetaData: Removing '/Game/MATS_FBXS/GRASS/Grass_pPlane17.Grass_pPlane17' ref from Metadata '/Game/Materiales/GRASS/Grass_pPlane17.PackageMetaData'
+[2025.07.09-18.43.16:913][816]LogMetaData: Removing '/Game/MATS_FBXS/GRASS/Grass_pPlane16.Grass_pPlane16' ref from Metadata '/Game/Materiales/GRASS/Grass_pPlane16.PackageMetaData'
+[2025.07.09-18.43.16:995][816]LogMetaData: Removing '/Game/MATS_FBXS/GRASS/Grass_pPlane15.Grass_pPlane15' ref from Metadata '/Game/Materiales/GRASS/Grass_pPlane15.PackageMetaData'
+[2025.07.09-18.43.17:076][816]LogMetaData: Removing '/Game/MATS_FBXS/GRASS/Grass_pPlane14.Grass_pPlane14' ref from Metadata '/Game/Materiales/GRASS/Grass_pPlane14.PackageMetaData'
+[2025.07.09-18.43.17:158][816]LogMetaData: Removing '/Game/MATS_FBXS/GRASS/Grass_pPlane13.Grass_pPlane13' ref from Metadata '/Game/Materiales/GRASS/Grass_pPlane13.PackageMetaData'
+[2025.07.09-18.43.17:241][816]LogMetaData: Removing '/Game/MATS_FBXS/GRASS/Grass_pPlane12.Grass_pPlane12' ref from Metadata '/Game/Materiales/GRASS/Grass_pPlane12.PackageMetaData'
+[2025.07.09-18.43.17:323][816]LogMetaData: Removing '/Game/MATS_FBXS/GRASS/Grass_pPlane11.Grass_pPlane11' ref from Metadata '/Game/Materiales/GRASS/Grass_pPlane11.PackageMetaData'
+[2025.07.09-18.43.17:404][816]LogMetaData: Removing '/Game/MATS_FBXS/GRASS/Grass_pPlane10.Grass_pPlane10' ref from Metadata '/Game/Materiales/GRASS/Grass_pPlane10.PackageMetaData'
+[2025.07.09-18.43.17:596][816]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.09-18.43.17:639][816]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.07.09-18.43.17:880][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter" FILE="H:/Proyectos Unity/Spyrou/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2025.07.09-18.43.17:920][816]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.07.09-18.43.17:921][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/BP_ThirdPersonCharacter2372A3DE42BC781239CF3DBA7CA5BF45.tmp' to 'H:/Proyectos Unity/Spyrou/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.07.09-18.43.17:930][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_Cannon" FILE="H:/Proyectos Unity/Spyrou/Content/ThirdPerson/Blueprints/BP_Cannon.uasset" SILENT=true
+[2025.07.09-18.43.17:944][816]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Cannon
+[2025.07.09-18.43.17:945][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/BP_CannonCA19CEFA4739FE2E3A163CA834262208.tmp' to 'H:/Proyectos Unity/Spyrou/Content/ThirdPerson/Blueprints/BP_Cannon.uasset'
+[2025.07.09-18.43.17:956][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_Coleccionable" FILE="H:/Proyectos Unity/Spyrou/Content/ThirdPerson/Blueprints/BP_Coleccionable.uasset" SILENT=true
+[2025.07.09-18.43.17:965][816]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Coleccionable
+[2025.07.09-18.43.17:965][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/BP_ColeccionableECBABC3747AD0E748645758217935104.tmp' to 'H:/Proyectos Unity/Spyrou/Content/ThirdPerson/Blueprints/BP_Coleccionable.uasset'
+[2025.07.09-18.43.17:974][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_LiquidDamage" FILE="H:/Proyectos Unity/Spyrou/Content/ThirdPerson/Blueprints/BP_LiquidDamage.uasset" SILENT=true
+[2025.07.09-18.43.17:981][816]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_LiquidDamage
+[2025.07.09-18.43.17:981][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/BP_LiquidDamage30C1034D4C2A62B6CBA502A22B42DCA4.tmp' to 'H:/Proyectos Unity/Spyrou/Content/ThirdPerson/Blueprints/BP_LiquidDamage.uasset'
+[2025.07.09-18.43.17:990][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_Platform_Points" FILE="H:/Proyectos Unity/Spyrou/Content/ThirdPerson/Blueprints/BP_Platform_Points.uasset" SILENT=true
+[2025.07.09-18.43.18:007][816]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Platform_Points
+[2025.07.09-18.43.18:008][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/BP_Platform_PointsB13F5CCE421D0E9BAC34A181929EBA83.tmp' to 'H:/Proyectos Unity/Spyrou/Content/ThirdPerson/Blueprints/BP_Platform_Points.uasset'
+[2025.07.09-18.43.18:028][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/PROPS_SPYRO_PAREDES_REDONDAS/PROPS_SPYRO_PAREDES_REDONDAS_BaseColor
+[2025.07.09-18.43.18:028][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/PROPS_SPYRO_PAREDES_REDONDAS_Bas7BD65DC747F00C177F2567AF3030D10E.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/PROPS_SPYRO_PAREDES_REDONDAS/PROPS_SPYRO_PAREDES_REDONDAS_BaseColor.uasset'
+[2025.07.09-18.43.18:108][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/PROPS_SPYRO_PAREDES_REDONDAS/PROPS_SPYRO_PAREDES_REDONDAS_Normal
+[2025.07.09-18.43.18:108][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/PROPS_SPYRO_PAREDES_REDONDAS_Nor342C89514DC83E60EBF4C3A7C185F9CF.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/PROPS_SPYRO_PAREDES_REDONDAS/PROPS_SPYRO_PAREDES_REDONDAS_Normal.uasset'
+[2025.07.09-18.43.18:188][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/PROPS_SPYRO_PAREDES_REDONDAS/PROPS_SPYRO_PAREDES_REDONDAS_OcclusionRoughnessMetallic
+[2025.07.09-18.43.18:188][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/PROPS_SPYRO_PAREDES_REDONDAS_Occ094095114E3A63391B5B0EAAF8778446.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/PROPS_SPYRO_PAREDES_REDONDAS/PROPS_SPYRO_PAREDES_REDONDAS_OcclusionRoughnessMetallic.uasset'
+[2025.07.09-18.43.18:229][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/PROPS_SPYRO_PAREDES_REDONDAS/PARED_REDONDA_MAT2
+[2025.07.09-18.43.18:229][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/PARED_REDONDA_MAT264F528F8458B100CB25FA49853D4FEDA.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/PROPS_SPYRO_PAREDES_REDONDAS/PARED_REDONDA_MAT2.uasset'
+[2025.07.09-18.43.18:250][816]LogSavePackage: Moving output files for package: /Game/Materiales/PROPS_SPYRO_PAREDES_REDONDAS/PARED_REDONDA_MAT2
+[2025.07.09-18.43.18:251][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/PARED_REDONDA_MAT2ECC83BFA4C5089E660DED79659D1501A.tmp' to 'H:/Proyectos Unity/Spyrou/Content/Materiales/PROPS_SPYRO_PAREDES_REDONDAS/PARED_REDONDA_MAT2.uasset'
+[2025.07.09-18.43.18:256][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/PROPS_SPYRO_PAREDES_REDONDAS/PARED_REDONDA_1_FBX
+[2025.07.09-18.43.18:256][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/PARED_REDONDA_1_FBX622F1BC84250D5699EAB51931E168D05.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/PROPS_SPYRO_PAREDES_REDONDAS/PARED_REDONDA_1_FBX.uasset'
+[2025.07.09-18.43.18:265][816]LogSavePackage: Moving output files for package: /Game/Materiales/PROPS_SPYRO_PAREDES_REDONDAS/PARED_REDONDA_1_FBX
+[2025.07.09-18.43.18:265][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/PARED_REDONDA_1_FBX585827364A9891BBDFF326B51B733DD2.tmp' to 'H:/Proyectos Unity/Spyrou/Content/Materiales/PROPS_SPYRO_PAREDES_REDONDAS/PARED_REDONDA_1_FBX.uasset'
+[2025.07.09-18.43.18:266][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/SpyroTexture/avatar_facebook" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/SpyroTexture/avatar_facebook.uasset" SILENT=true
+[2025.07.09-18.43.18:270][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/SpyroTexture/avatar_facebook
+[2025.07.09-18.43.18:270][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/avatar_facebook298A0FE74751CDEA31135384C5D69FD8.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/SpyroTexture/avatar_facebook.uasset'
+[2025.07.09-18.43.18:272][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/SpyroTexture/SpyroMAT" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/SpyroTexture/SpyroMAT.uasset" SILENT=true
+[2025.07.09-18.43.18:274][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/SpyroTexture/SpyroMAT
+[2025.07.09-18.43.18:274][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/SpyroMAT9CD98E974EA9B8669114C4B4082F9712.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/SpyroTexture/SpyroMAT.uasset'
+[2025.07.09-18.43.18:275][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/Torreta/Props_BaseTorreta_MAT_BaseColor" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/Torreta/Props_BaseTorreta_MAT_BaseColor.uasset" SILENT=true
+[2025.07.09-18.43.18:279][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/Torreta/Props_BaseTorreta_MAT_BaseColor
+[2025.07.09-18.43.18:279][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Props_BaseTorreta_MAT_BaseColorDA197FE248A23E70F3985E9CB20CD806.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/Torreta/Props_BaseTorreta_MAT_BaseColor.uasset'
+[2025.07.09-18.43.18:280][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/Torreta/Props_BaseTorreta_MAT_Normal" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/Torreta/Props_BaseTorreta_MAT_Normal.uasset" SILENT=true
+[2025.07.09-18.43.18:294][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/Torreta/Props_BaseTorreta_MAT_Normal
+[2025.07.09-18.43.18:294][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Props_BaseTorreta_MAT_Normal6F582A2C45FF2C9166F2EB8212EFAB32.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/Torreta/Props_BaseTorreta_MAT_Normal.uasset'
+[2025.07.09-18.43.18:356][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/Torreta/Props_BaseTorreta_MAT_OcclusionRoughnessMetallic
+[2025.07.09-18.43.18:356][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Props_BaseTorreta_MAT_OcclusionR2F5F8B4C46582EFEEA8B799319BDD3CF.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/Torreta/Props_BaseTorreta_MAT_OcclusionRoughnessMetallic.uasset'
+[2025.07.09-18.43.18:358][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/Torreta/BaseTorreta_MAT" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/Torreta/BaseTorreta_MAT.uasset" SILENT=true
+[2025.07.09-18.43.18:359][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/Torreta/BaseTorreta_MAT
+[2025.07.09-18.43.18:359][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/BaseTorreta_MAT63F0282346F05B2EE8D7D686C1946A12.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/Torreta/BaseTorreta_MAT.uasset'
+[2025.07.09-18.43.18:361][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/Torreta/BaseTorretaNEW" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/Torreta/BaseTorretaNEW.uasset" SILENT=true
+[2025.07.09-18.43.18:363][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/Torreta/BaseTorretaNEW
+[2025.07.09-18.43.18:363][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/BaseTorretaNEW009FA7B94557BC13CF9B9E8B1524DC1C.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/Torreta/BaseTorretaNEW.uasset'
+[2025.07.09-18.43.18:364][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/Torreta/Props_CabezaTorreta_MAT_BaseColor" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/Torreta/Props_CabezaTorreta_MAT_BaseColor.uasset" SILENT=true
+[2025.07.09-18.43.18:376][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/Torreta/Props_CabezaTorreta_MAT_BaseColor
+[2025.07.09-18.43.18:376][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Props_CabezaTorreta_MAT_BaseColo00FFDE4D43409124D3D237A65D967CA7.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/Torreta/Props_CabezaTorreta_MAT_BaseColor.uasset'
+[2025.07.09-18.43.18:378][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/Torreta/Props_CabezaTorreta_MAT_Normal" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/Torreta/Props_CabezaTorreta_MAT_Normal.uasset" SILENT=true
+[2025.07.09-18.43.18:400][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/Torreta/Props_CabezaTorreta_MAT_Normal
+[2025.07.09-18.43.18:400][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Props_CabezaTorreta_MAT_Normal968F28AE46CA59ED1058B5A2C1A164D1.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/Torreta/Props_CabezaTorreta_MAT_Normal.uasset'
+[2025.07.09-18.43.18:423][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/Torreta/Props_CabezaTorreta_MAT_OcclusionRoughnessMetallic
+[2025.07.09-18.43.18:423][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Props_CabezaTorreta_MAT_Occlusio10F488A44BA5367DB28305B59E9FFED6.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/Torreta/Props_CabezaTorreta_MAT_OcclusionRoughnessMetallic.uasset'
+[2025.07.09-18.43.18:424][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/Torreta/CabezaTorreta_MAT" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/Torreta/CabezaTorreta_MAT.uasset" SILENT=true
+[2025.07.09-18.43.18:426][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/Torreta/CabezaTorreta_MAT
+[2025.07.09-18.43.18:426][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/CabezaTorreta_MAT70D7CABC43597D9F547CC59251F8E699.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/Torreta/CabezaTorreta_MAT.uasset'
+[2025.07.09-18.43.18:427][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/Torreta/Default_Material" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/Torreta/Default_Material.uasset" SILENT=true
+[2025.07.09-18.43.18:428][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/Torreta/Default_Material
+[2025.07.09-18.43.18:428][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Default_Material57F13DA54E91C14F182A479FBE913492.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/Torreta/Default_Material.uasset'
+[2025.07.09-18.43.18:429][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/Torreta/CabezaTorreteNEW" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/Torreta/CabezaTorreteNEW.uasset" SILENT=true
+[2025.07.09-18.43.18:435][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/Torreta/CabezaTorreteNEW
+[2025.07.09-18.43.18:435][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/CabezaTorreteNEWDBC7051A4081DBD01EE8F0B6BAD834A7.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/Torreta/CabezaTorreteNEW.uasset'
+[2025.07.09-18.43.18:448][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/Coleccionables/Props_Recolectable_MAT_BaseColor
+[2025.07.09-18.43.18:448][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Props_Recolectable_MAT_BaseColorC107C54A4375FA4D608AB0A25251FEC1.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/Coleccionables/Props_Recolectable_MAT_BaseColor.uasset'
+[2025.07.09-18.43.18:476][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/Coleccionables/Props_Recolectable_MAT_Normal
+[2025.07.09-18.43.18:476][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Props_Recolectable_MAT_Normal5633DEA14B1640868C97ECAD7D5195AB.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/Coleccionables/Props_Recolectable_MAT_Normal.uasset'
+[2025.07.09-18.43.18:530][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/Coleccionables/Props_Recolectable_MAT_OcclusionRoughnessMetallic
+[2025.07.09-18.43.18:530][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Props_Recolectable_MAT_Occlusion9B9D1AE648F6DE524E332288C3CCEC09.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/Coleccionables/Props_Recolectable_MAT_OcclusionRoughnessMetallic.uasset'
+[2025.07.09-18.43.18:544][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/Coleccionables/Recolectable_MAT" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/Coleccionables/Recolectable_MAT.uasset" SILENT=true
+[2025.07.09-18.43.18:546][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/Coleccionables/Recolectable_MAT
+[2025.07.09-18.43.18:546][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Recolectable_MAT4DE717F34A1459EBCB9EB4B1BF1432CC.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/Coleccionables/Recolectable_MAT.uasset'
+[2025.07.09-18.43.18:547][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/Coleccionables/Recolectable" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/Coleccionables/Recolectable.uasset" SILENT=true
+[2025.07.09-18.43.18:550][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/Coleccionables/Recolectable
+[2025.07.09-18.43.18:550][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Recolectable59201F83490750D82CF56FAF82C0FFC6.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/Coleccionables/Recolectable.uasset'
+[2025.07.09-18.43.18:568][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/PROPS_SPYRO_TRAMPA_VENENO/PROPS_SPYRO_TRAMPA_VENENO_BaseColor
+[2025.07.09-18.43.18:568][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/PROPS_SPYRO_TRAMPA_VENENO_BaseCo0754725740DAC8505B3E84831029E8DB.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/PROPS_SPYRO_TRAMPA_VENENO/PROPS_SPYRO_TRAMPA_VENENO_BaseColor.uasset'
+[2025.07.09-18.43.18:587][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/PROPS_SPYRO_TRAMPA_VENENO/PROPS_SPYRO_TRAMPA_VENENO_Normal
+[2025.07.09-18.43.18:587][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/PROPS_SPYRO_TRAMPA_VENENO_NormalAE4F42E4452448244A8373A1C04C86E4.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/PROPS_SPYRO_TRAMPA_VENENO/PROPS_SPYRO_TRAMPA_VENENO_Normal.uasset'
+[2025.07.09-18.43.18:613][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/PROPS_SPYRO_TRAMPA_VENENO/PROPS_SPYRO_TRAMPA_VENENO_OcclusionRoughnessMetallic
+[2025.07.09-18.43.18:613][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/PROPS_SPYRO_TRAMPA_VENENO_Occlus0083A9F443332363117AB1A61818E06F.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/PROPS_SPYRO_TRAMPA_VENENO/PROPS_SPYRO_TRAMPA_VENENO_OcclusionRoughnessMetallic.uasset'
+[2025.07.09-18.43.18:617][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/PROPS_SPYRO_TRAMPA_VENENO/PROPS_SPYRO_TRAMPA_VENENO_MAT
+[2025.07.09-18.43.18:617][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/PROPS_SPYRO_TRAMPA_VENENO_MAT10FC943C461C8D3987782EA065F8E406.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/PROPS_SPYRO_TRAMPA_VENENO/PROPS_SPYRO_TRAMPA_VENENO_MAT.uasset'
+[2025.07.09-18.43.18:618][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/PROPS_SPYRO_TRAMPA_VENENO/TRAMPA_VENENO_FBX" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/PROPS_SPYRO_TRAMPA_VENENO/TRAMPA_VENENO_FBX.uasset" SILENT=true
+[2025.07.09-18.43.18:621][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/PROPS_SPYRO_TRAMPA_VENENO/TRAMPA_VENENO_FBX
+[2025.07.09-18.43.18:621][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/TRAMPA_VENENO_FBX6B59C51149B9063F5D057890AB6AC95F.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/PROPS_SPYRO_TRAMPA_VENENO/TRAMPA_VENENO_FBX.uasset'
+[2025.07.09-18.43.18:642][816]LogSavePackage: Moving output files for package: /Game/Materiales/PROPS_SPYRO_TRAMPA_VENENO/TRAMPA_VENENO_FBX
+[2025.07.09-18.43.18:643][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/TRAMPA_VENENO_FBXF05190FC4C66B2422836089744788E13.tmp' to 'H:/Proyectos Unity/Spyrou/Content/Materiales/PROPS_SPYRO_TRAMPA_VENENO/TRAMPA_VENENO_FBX.uasset'
+[2025.07.09-18.43.18:676][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/PROPS_SPYRO_TRANSPORTE_ROCA/PROPS_SPYRO_TRANSPORTE_ROCA_BaseColor
+[2025.07.09-18.43.18:676][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/PROPS_SPYRO_TRANSPORTE_ROCA_Base1355433B4B98643A3D1F579C3FC7085C.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/PROPS_SPYRO_TRANSPORTE_ROCA/PROPS_SPYRO_TRANSPORTE_ROCA_BaseColor.uasset'
+[2025.07.09-18.43.18:706][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/PROPS_SPYRO_TRANSPORTE_ROCA/PROPS_SPYRO_TRANSPORTE_ROCA_Normal
+[2025.07.09-18.43.18:706][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/PROPS_SPYRO_TRANSPORTE_ROCA_Norm6138B95B4CE5A551D34912A694DB668F.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/PROPS_SPYRO_TRANSPORTE_ROCA/PROPS_SPYRO_TRANSPORTE_ROCA_Normal.uasset'
+[2025.07.09-18.43.18:726][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/PROPS_SPYRO_TRANSPORTE_ROCA/PROPS_SPYRO_TRANSPORTE_ROCA_OcclusionRoughnessMetallic
+[2025.07.09-18.43.18:726][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/PROPS_SPYRO_TRANSPORTE_ROCA_OcclBBB4B38A494E439192D340B7EC03A79D.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/PROPS_SPYRO_TRANSPORTE_ROCA/PROPS_SPYRO_TRANSPORTE_ROCA_OcclusionRoughnessMetallic.uasset'
+[2025.07.09-18.43.18:731][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/PROPS_SPYRO_TRANSPORTE_ROCA/PROPS_SPYRO_TRANSPORTE_ROCA_MAT
+[2025.07.09-18.43.18:731][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/PROPS_SPYRO_TRANSPORTE_ROCA_MATD9FC46E94D3B00109766C1AD3D06EC58.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/PROPS_SPYRO_TRANSPORTE_ROCA/PROPS_SPYRO_TRANSPORTE_ROCA_MAT.uasset'
+[2025.07.09-18.43.18:734][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/PROPS_SPYRO_TRANSPORTE_ROCA/TRANSPORTE_ROCA_FBX
+[2025.07.09-18.43.18:734][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/TRANSPORTE_ROCA_FBX1736D8284349D3C06346FC880A9BC0EC.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/PROPS_SPYRO_TRANSPORTE_ROCA/TRANSPORTE_ROCA_FBX.uasset'
+[2025.07.09-18.43.18:751][816]LogSavePackage: Moving output files for package: /Game/Materiales/PROPS_SPYRO_TRANSPORTE_ROCA/TRANSPORTE_ROCA_FBX
+[2025.07.09-18.43.18:751][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/TRANSPORTE_ROCA_FBX9FEBDD094CF794502D5FB687BE870FDD.tmp' to 'H:/Proyectos Unity/Spyrou/Content/Materiales/PROPS_SPYRO_TRANSPORTE_ROCA/TRANSPORTE_ROCA_FBX.uasset'
+[2025.07.09-18.43.18:752][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/ARBUSTO/9" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/ARBUSTO/9.uasset" SILENT=true
+[2025.07.09-18.43.18:765][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/ARBUSTO/9
+[2025.07.09-18.43.18:765][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/96FD9582B400C2D07B015F8B6EB442FDB.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/ARBUSTO/9.uasset'
+[2025.07.09-18.43.18:768][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/ARBUSTO/9_alpha" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/ARBUSTO/9_alpha.uasset" SILENT=true
+[2025.07.09-18.43.18:772][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/ARBUSTO/9_alpha
+[2025.07.09-18.43.18:772][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/9_alpha68617357414D862BE65934803F2613A7.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/ARBUSTO/9_alpha.uasset'
+[2025.07.09-18.43.18:773][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/ARBUSTO/ARBUSTO_MAT" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/ARBUSTO/ARBUSTO_MAT.uasset" SILENT=true
+[2025.07.09-18.43.18:775][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/ARBUSTO/ARBUSTO_MAT
+[2025.07.09-18.43.18:775][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/ARBUSTO_MAT5E2BDCE34AB6D9BD3D9436A894EFEE68.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/ARBUSTO/ARBUSTO_MAT.uasset'
+[2025.07.09-18.43.18:776][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/ARBUSTO/ARBUSTO" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/ARBUSTO/ARBUSTO.uasset" SILENT=true
+[2025.07.09-18.43.18:781][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/ARBUSTO/ARBUSTO
+[2025.07.09-18.43.18:781][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/ARBUSTO290D3D414DAEBAABC9D62A97EB455F73.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/ARBUSTO/ARBUSTO.uasset'
+[2025.07.09-18.43.18:790][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materiales/ARBUSTO/ARBUSTO" FILE="H:/Proyectos Unity/Spyrou/Content/Materiales/ARBUSTO/ARBUSTO.uasset" SILENT=true
+[2025.07.09-18.43.18:791][816]LogSavePackage: Moving output files for package: /Game/Materiales/ARBUSTO/ARBUSTO
+[2025.07.09-18.43.18:791][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/ARBUSTO82EC0F8A4A91191456962F9F75E20EC7.tmp' to 'H:/Proyectos Unity/Spyrou/Content/Materiales/ARBUSTO/ARBUSTO.uasset'
+[2025.07.09-18.43.18:811][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/GRASS/Grassblade_Texture" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/Grassblade_Texture.uasset" SILENT=true
+[2025.07.09-18.43.18:820][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/GRASS/Grassblade_Texture
+[2025.07.09-18.43.18:820][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Grassblade_Texture0BA0D33D4F14E3AAFDCDBF8BA8C15458.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/Grassblade_Texture.uasset'
+[2025.07.09-18.43.18:821][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/GRASS/lambert6" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/lambert6.uasset" SILENT=true
+[2025.07.09-18.43.18:823][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/GRASS/lambert6
+[2025.07.09-18.43.18:823][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/lambert676A7BB4B4EBC1D140C3CDABC5C362BEC.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/lambert6.uasset'
+[2025.07.09-18.43.18:824][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/GRASS/Grass_pPlane1" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/Grass_pPlane1.uasset" SILENT=true
+[2025.07.09-18.43.18:827][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/GRASS/Grass_pPlane1
+[2025.07.09-18.43.18:827][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Grass_pPlane18DC4E02D4F4B5BF5F808818084FDE97E.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/Grass_pPlane1.uasset'
+[2025.07.09-18.43.18:844][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materiales/GRASS/Grass_pPlane1" FILE="H:/Proyectos Unity/Spyrou/Content/Materiales/GRASS/Grass_pPlane1.uasset" SILENT=true
+[2025.07.09-18.43.18:846][816]LogSavePackage: Moving output files for package: /Game/Materiales/GRASS/Grass_pPlane1
+[2025.07.09-18.43.18:846][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Grass_pPlane191DD11BE4A08D3C5F98A8EBCA4CFCEE9.tmp' to 'H:/Proyectos Unity/Spyrou/Content/Materiales/GRASS/Grass_pPlane1.uasset'
+[2025.07.09-18.43.18:847][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/GRASS/Grass_pPlane2" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/Grass_pPlane2.uasset" SILENT=true
+[2025.07.09-18.43.18:849][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/GRASS/Grass_pPlane2
+[2025.07.09-18.43.18:850][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Grass_pPlane2DABC1DD846A5CE71AA35E9AF9CB64B9A.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/Grass_pPlane2.uasset'
+[2025.07.09-18.43.18:860][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materiales/GRASS/Grass_pPlane2" FILE="H:/Proyectos Unity/Spyrou/Content/Materiales/GRASS/Grass_pPlane2.uasset" SILENT=true
+[2025.07.09-18.43.18:861][816]LogSavePackage: Moving output files for package: /Game/Materiales/GRASS/Grass_pPlane2
+[2025.07.09-18.43.18:862][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Grass_pPlane2B4E574C54479DF9F1A3E8EB0876FD906.tmp' to 'H:/Proyectos Unity/Spyrou/Content/Materiales/GRASS/Grass_pPlane2.uasset'
+[2025.07.09-18.43.18:863][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/GRASS/Grassblade_Texture_02" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/Grassblade_Texture_02.uasset" SILENT=true
+[2025.07.09-18.43.18:874][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/GRASS/Grassblade_Texture_02
+[2025.07.09-18.43.18:874][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Grassblade_Texture_02D027C4C7435CF2B6A2A6269B30D19938.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/Grassblade_Texture_02.uasset'
+[2025.07.09-18.43.18:875][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/GRASS/lambert7" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/lambert7.uasset" SILENT=true
+[2025.07.09-18.43.18:877][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/GRASS/lambert7
+[2025.07.09-18.43.18:877][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/lambert7B398E5FA46115D853730798A2DF0BFC1.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/lambert7.uasset'
+[2025.07.09-18.43.18:878][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/GRASS/Grass_pPlane22" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/Grass_pPlane22.uasset" SILENT=true
+[2025.07.09-18.43.18:880][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/GRASS/Grass_pPlane22
+[2025.07.09-18.43.18:880][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Grass_pPlane2254F4C6D949CC4DFCF545BAA8056E3566.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/Grass_pPlane22.uasset'
+[2025.07.09-18.43.18:891][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materiales/GRASS/Grass_pPlane22" FILE="H:/Proyectos Unity/Spyrou/Content/Materiales/GRASS/Grass_pPlane22.uasset" SILENT=true
+[2025.07.09-18.43.18:892][816]LogSavePackage: Moving output files for package: /Game/Materiales/GRASS/Grass_pPlane22
+[2025.07.09-18.43.18:892][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Grass_pPlane228F90D8C34E45F39D6E899D9A5535772D.tmp' to 'H:/Proyectos Unity/Spyrou/Content/Materiales/GRASS/Grass_pPlane22.uasset'
+[2025.07.09-18.43.18:893][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/GRASS/Grass_pPlane28" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/Grass_pPlane28.uasset" SILENT=true
+[2025.07.09-18.43.18:895][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/GRASS/Grass_pPlane28
+[2025.07.09-18.43.18:895][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Grass_pPlane2891736A234D140951D7C3998E6A30D21C.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/Grass_pPlane28.uasset'
+[2025.07.09-18.43.18:906][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materiales/GRASS/Grass_pPlane28" FILE="H:/Proyectos Unity/Spyrou/Content/Materiales/GRASS/Grass_pPlane28.uasset" SILENT=true
+[2025.07.09-18.43.18:916][816]LogSavePackage: Moving output files for package: /Game/Materiales/GRASS/Grass_pPlane28
+[2025.07.09-18.43.18:917][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Grass_pPlane28F2146FEA4F19B272D6F7B9B5F0A526D5.tmp' to 'H:/Proyectos Unity/Spyrou/Content/Materiales/GRASS/Grass_pPlane28.uasset'
+[2025.07.09-18.43.18:919][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/GRASS/Grass_pPlane5" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/Grass_pPlane5.uasset" SILENT=true
+[2025.07.09-18.43.18:921][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/GRASS/Grass_pPlane5
+[2025.07.09-18.43.18:921][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Grass_pPlane5399760894640EBF967769E97082A1DD7.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/Grass_pPlane5.uasset'
+[2025.07.09-18.43.18:929][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materiales/GRASS/Grass_pPlane5" FILE="H:/Proyectos Unity/Spyrou/Content/Materiales/GRASS/Grass_pPlane5.uasset" SILENT=true
+[2025.07.09-18.43.18:929][816]LogSavePackage: Moving output files for package: /Game/Materiales/GRASS/Grass_pPlane5
+[2025.07.09-18.43.18:930][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Grass_pPlane5A4CCE1BA42377E8A91EDBC8DFB08C0C0.tmp' to 'H:/Proyectos Unity/Spyrou/Content/Materiales/GRASS/Grass_pPlane5.uasset'
+[2025.07.09-18.43.18:932][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/GRASS/Grass_pPlane6" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/Grass_pPlane6.uasset" SILENT=true
+[2025.07.09-18.43.18:956][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/GRASS/Grass_pPlane6
+[2025.07.09-18.43.18:956][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Grass_pPlane6C013CF7A4EF1B9B75379D28C1952431E.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/Grass_pPlane6.uasset'
+[2025.07.09-18.43.18:978][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materiales/GRASS/Grass_pPlane6" FILE="H:/Proyectos Unity/Spyrou/Content/Materiales/GRASS/Grass_pPlane6.uasset" SILENT=true
+[2025.07.09-18.43.18:979][816]LogSavePackage: Moving output files for package: /Game/Materiales/GRASS/Grass_pPlane6
+[2025.07.09-18.43.18:980][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Grass_pPlane6FC53825E4A5088AF163CD0BDBF04AD5B.tmp' to 'H:/Proyectos Unity/Spyrou/Content/Materiales/GRASS/Grass_pPlane6.uasset'
+[2025.07.09-18.43.18:981][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/GRASS/Grass_pPlane7" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/Grass_pPlane7.uasset" SILENT=true
+[2025.07.09-18.43.18:983][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/GRASS/Grass_pPlane7
+[2025.07.09-18.43.18:983][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Grass_pPlane732985C0E40438387C9B729BA529E7B63.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/Grass_pPlane7.uasset'
+[2025.07.09-18.43.18:998][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materiales/GRASS/Grass_pPlane7" FILE="H:/Proyectos Unity/Spyrou/Content/Materiales/GRASS/Grass_pPlane7.uasset" SILENT=true
+[2025.07.09-18.43.18:999][816]LogSavePackage: Moving output files for package: /Game/Materiales/GRASS/Grass_pPlane7
+[2025.07.09-18.43.19:000][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Grass_pPlane78A3B6F484F0B0BEAB780DC9E69BF2EDF.tmp' to 'H:/Proyectos Unity/Spyrou/Content/Materiales/GRASS/Grass_pPlane7.uasset'
+[2025.07.09-18.43.19:005][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/PROPS_SPYRO_PAREDES_REDONDAS/PARED_REDONDA_2_FBX
+[2025.07.09-18.43.19:005][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/PARED_REDONDA_2_FBXEC6BAB334F2D168DD3460C9CF06A08DE.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/PROPS_SPYRO_PAREDES_REDONDAS/PARED_REDONDA_2_FBX.uasset'
+[2025.07.09-18.43.19:016][816]LogSavePackage: Moving output files for package: /Game/Materiales/PROPS_SPYRO_PAREDES_REDONDAS/PARED_REDONDA_2_FBX
+[2025.07.09-18.43.19:016][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/PARED_REDONDA_2_FBXA285EF624098D901C047578F8A67FF1D.tmp' to 'H:/Proyectos Unity/Spyrou/Content/Materiales/PROPS_SPYRO_PAREDES_REDONDAS/PARED_REDONDA_2_FBX.uasset'
+[2025.07.09-18.43.19:025][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/PROPS_SPYRO_PAREDES_REDONDAS/PARED_REDONDA_3_FBX
+[2025.07.09-18.43.19:025][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/PARED_REDONDA_3_FBX1CF663C54C8AF4850B9289A578E3F95C.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/PROPS_SPYRO_PAREDES_REDONDAS/PARED_REDONDA_3_FBX.uasset'
+[2025.07.09-18.43.19:038][816]LogSavePackage: Moving output files for package: /Game/Materiales/PROPS_SPYRO_PAREDES_REDONDAS/PARED_REDONDA_3_FBX
+[2025.07.09-18.43.19:039][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/PARED_REDONDA_3_FBXB3ED27474F00FB36FBECABB3D11FFE3C.tmp' to 'H:/Proyectos Unity/Spyrou/Content/Materiales/PROPS_SPYRO_PAREDES_REDONDAS/PARED_REDONDA_3_FBX.uasset'
+[2025.07.09-18.43.19:069][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/PROPS_SPYRO_PILAR_PIEDRA/PROPS_SPYRO_PILAR_PIEDRA_BaseColor
+[2025.07.09-18.43.19:069][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/PROPS_SPYRO_PILAR_PIEDRA_BaseCol7B48FE6340947747295D7E8696E7056C.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/PROPS_SPYRO_PILAR_PIEDRA/PROPS_SPYRO_PILAR_PIEDRA_BaseColor.uasset'
+[2025.07.09-18.43.19:386][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/PROPS_SPYRO_PILAR_PIEDRA/PROPS_SPYRO_PILAR_PIEDRA_Normal
+[2025.07.09-18.43.19:386][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/PROPS_SPYRO_PILAR_PIEDRA_Normal9E72253D47CA14A6BBAA788AFC5E56D0.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/PROPS_SPYRO_PILAR_PIEDRA/PROPS_SPYRO_PILAR_PIEDRA_Normal.uasset'
+[2025.07.09-18.43.19:486][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/PROPS_SPYRO_PILAR_PIEDRA/PROPS_SPYRO_PILAR_PIEDRA_OcclusionRoughnessMetallic
+[2025.07.09-18.43.19:486][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/PROPS_SPYRO_PILAR_PIEDRA_OcclusiB387302645B159403F4F9DA014D42088.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/PROPS_SPYRO_PILAR_PIEDRA/PROPS_SPYRO_PILAR_PIEDRA_OcclusionRoughnessMetallic.uasset'
+[2025.07.09-18.43.19:487][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/PROPS_SPYRO_PILAR_PIEDRA/PILAR_PIEDRA_MAT" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/PROPS_SPYRO_PILAR_PIEDRA/PILAR_PIEDRA_MAT.uasset" SILENT=true
+[2025.07.09-18.43.19:489][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/PROPS_SPYRO_PILAR_PIEDRA/PILAR_PIEDRA_MAT
+[2025.07.09-18.43.19:489][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/PILAR_PIEDRA_MATAA6BBBEF41DD6789FB34B2A590DDDAFA.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/PROPS_SPYRO_PILAR_PIEDRA/PILAR_PIEDRA_MAT.uasset'
+[2025.07.09-18.43.19:489][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/PROPS_SPYRO_PILAR_PIEDRA/PILAR_PIEDRA_FBX" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/PROPS_SPYRO_PILAR_PIEDRA/PILAR_PIEDRA_FBX.uasset" SILENT=true
+[2025.07.09-18.43.19:492][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/PROPS_SPYRO_PILAR_PIEDRA/PILAR_PIEDRA_FBX
+[2025.07.09-18.43.19:492][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/PILAR_PIEDRA_FBXE8C59A0E494C933C1B59849C0BC82D42.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/PROPS_SPYRO_PILAR_PIEDRA/PILAR_PIEDRA_FBX.uasset'
+[2025.07.09-18.43.19:509][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materiales/PROPS_SPYRO_PILAR_PIEDRA/PILAR_PIEDRA_FBX" FILE="H:/Proyectos Unity/Spyrou/Content/Materiales/PROPS_SPYRO_PILAR_PIEDRA/PILAR_PIEDRA_FBX.uasset" SILENT=true
+[2025.07.09-18.43.19:510][816]LogSavePackage: Moving output files for package: /Game/Materiales/PROPS_SPYRO_PILAR_PIEDRA/PILAR_PIEDRA_FBX
+[2025.07.09-18.43.19:511][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/PILAR_PIEDRA_FBX9941C3A34558CA215B3AD1A1EC4B9C57.tmp' to 'H:/Proyectos Unity/Spyrou/Content/Materiales/PROPS_SPYRO_PILAR_PIEDRA/PILAR_PIEDRA_FBX.uasset'
+[2025.07.09-18.43.19:550][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/PROPS_SPYRO_SUELO_PIEDRA/PROPS_SPYRO_SUELO_PIEDRA_BaseColor
+[2025.07.09-18.43.19:550][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/PROPS_SPYRO_SUELO_PIEDRA_BaseCol69DF1E024ACB1DEA33D998AAE039F235.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/PROPS_SPYRO_SUELO_PIEDRA/PROPS_SPYRO_SUELO_PIEDRA_BaseColor.uasset'
+[2025.07.09-18.43.19:577][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/PROPS_SPYRO_SUELO_PIEDRA/PROPS_SPYRO_SUELO_PIEDRA_Normal
+[2025.07.09-18.43.19:577][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/PROPS_SPYRO_SUELO_PIEDRA_Normal814B63BF4CA715863115ED99A2F3EB0E.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/PROPS_SPYRO_SUELO_PIEDRA/PROPS_SPYRO_SUELO_PIEDRA_Normal.uasset'
+[2025.07.09-18.43.19:608][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/PROPS_SPYRO_SUELO_PIEDRA/PROPS_SPYRO_SUELO_PIEDRA_OcclusionRoughnessMetallic
+[2025.07.09-18.43.19:608][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/PROPS_SPYRO_SUELO_PIEDRA_OcclusiF25261224E37EE5715C1F4BCAD6D049F.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/PROPS_SPYRO_SUELO_PIEDRA/PROPS_SPYRO_SUELO_PIEDRA_OcclusionRoughnessMetallic.uasset'
+[2025.07.09-18.43.19:609][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/PROPS_SPYRO_SUELO_PIEDRA/SUELO_PIEDRA_MAT" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/PROPS_SPYRO_SUELO_PIEDRA/SUELO_PIEDRA_MAT.uasset" SILENT=true
+[2025.07.09-18.43.19:612][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/PROPS_SPYRO_SUELO_PIEDRA/SUELO_PIEDRA_MAT
+[2025.07.09-18.43.19:612][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/SUELO_PIEDRA_MAT8852DDC94AE56E04E405BF869F00870F.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/PROPS_SPYRO_SUELO_PIEDRA/SUELO_PIEDRA_MAT.uasset'
+[2025.07.09-18.43.19:613][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/PROPS_SPYRO_SUELO_PIEDRA/SUELO_PIEDRA_FBX" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/PROPS_SPYRO_SUELO_PIEDRA/SUELO_PIEDRA_FBX.uasset" SILENT=true
+[2025.07.09-18.43.19:615][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/PROPS_SPYRO_SUELO_PIEDRA/SUELO_PIEDRA_FBX
+[2025.07.09-18.43.19:615][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/SUELO_PIEDRA_FBXA19A0F494BB8A61E0DD89C9114F1D1C5.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/PROPS_SPYRO_SUELO_PIEDRA/SUELO_PIEDRA_FBX.uasset'
+[2025.07.09-18.43.19:638][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materiales/PROPS_SPYRO_SUELO_PIEDRA/SUELO_PIEDRA_FBX" FILE="H:/Proyectos Unity/Spyrou/Content/Materiales/PROPS_SPYRO_SUELO_PIEDRA/SUELO_PIEDRA_FBX.uasset" SILENT=true
+[2025.07.09-18.43.19:639][816]LogSavePackage: Moving output files for package: /Game/Materiales/PROPS_SPYRO_SUELO_PIEDRA/SUELO_PIEDRA_FBX
+[2025.07.09-18.43.19:639][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/SUELO_PIEDRA_FBX6EC1381C434205826F7DD9BDB5F5CFAA.tmp' to 'H:/Proyectos Unity/Spyrou/Content/Materiales/PROPS_SPYRO_SUELO_PIEDRA/SUELO_PIEDRA_FBX.uasset'
+[2025.07.09-18.43.19:685][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/PROPS_SPYRO_SUELOS_GRANDES_PASTO_TIERRA/PROPS_SPYRO_SUELOS_GRANDES_PASTO_TIERRA_BaseColor
+[2025.07.09-18.43.19:685][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/PROPS_SPYRO_SUELOS_GRANDES_PASTO8D3CDA384B9581F46C460380F840D843.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/PROPS_SPYRO_SUELOS_GRANDES_PASTO_TIERRA/PROPS_SPYRO_SUELOS_GRANDES_PASTO_TIERRA_BaseColor.uasset'
+[2025.07.09-18.43.19:713][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/PROPS_SPYRO_SUELOS_GRANDES_PASTO_TIERRA/PROPS_SPYRO_SUELOS_GRANDES_PASTO_TIERRA_Normal
+[2025.07.09-18.43.19:713][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/PROPS_SPYRO_SUELOS_GRANDES_PASTO812F195949029484962B539A18A842C8.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/PROPS_SPYRO_SUELOS_GRANDES_PASTO_TIERRA/PROPS_SPYRO_SUELOS_GRANDES_PASTO_TIERRA_Normal.uasset'
+[2025.07.09-18.43.19:740][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/PROPS_SPYRO_SUELOS_GRANDES_PASTO_TIERRA/PROPS_SPYRO_SUELOS_GRANDES_PASTO_TIERRA_OcclusionRoughnessMetallic
+[2025.07.09-18.43.19:740][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/PROPS_SPYRO_SUELOS_GRANDES_PASTO9FE81E6F4A19C551E0E58DBABA3E52CD.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/PROPS_SPYRO_SUELOS_GRANDES_PASTO_TIERRA/PROPS_SPYRO_SUELOS_GRANDES_PASTO_TIERRA_OcclusionRoughnessMetallic.uasset'
+[2025.07.09-18.43.19:743][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/PROPS_SPYRO_SUELOS_GRANDES_PASTO_TIERRA/PROPS_SPYRO_SUELOS_GRANDES_PASTO_TIERRA_MAT
+[2025.07.09-18.43.19:743][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/PROPS_SPYRO_SUELOS_GRANDES_PASTO65C17CAC4747BBBDDB1294AA34722F80.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/PROPS_SPYRO_SUELOS_GRANDES_PASTO_TIERRA/PROPS_SPYRO_SUELOS_GRANDES_PASTO_TIERRA_MAT.uasset'
+[2025.07.09-18.43.19:746][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/PROPS_SPYRO_SUELOS_GRANDES_PASTO_TIERRA/SUELOS_GRANDES_PASTO_TIERRA_FBX
+[2025.07.09-18.43.19:746][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/SUELOS_GRANDES_PASTO_TIERRA_FBXE4273637400307EF3858CC8DC2C97680.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/PROPS_SPYRO_SUELOS_GRANDES_PASTO_TIERRA/SUELOS_GRANDES_PASTO_TIERRA_FBX.uasset'
+[2025.07.09-18.43.19:769][816]LogSavePackage: Moving output files for package: /Game/Materiales/PROPS_SPYRO_SUELOS_GRANDES_PASTO_TIERRA/SUELOS_GRANDES_PASTO_TIERRA_FBX
+[2025.07.09-18.43.19:770][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/SUELOS_GRANDES_PASTO_TIERRA_FBXAD5D468F47FFF8E7F4D8C6BC739A2A88.tmp' to 'H:/Proyectos Unity/Spyrou/Content/Materiales/PROPS_SPYRO_SUELOS_GRANDES_PASTO_TIERRA/SUELOS_GRANDES_PASTO_TIERRA_FBX.uasset'
+[2025.07.09-18.43.19:771][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/TORRE/Props_Torre_MAT_BaseColor" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/TORRE/Props_Torre_MAT_BaseColor.uasset" SILENT=true
+[2025.07.09-18.43.19:784][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/TORRE/Props_Torre_MAT_BaseColor
+[2025.07.09-18.43.19:784][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Props_Torre_MAT_BaseColorDDF390FE4E10C133DFEB5AB4904EF92A.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/TORRE/Props_Torre_MAT_BaseColor.uasset'
+[2025.07.09-18.43.19:786][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/TORRE/Props_Torre_MAT_Emissive" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/TORRE/Props_Torre_MAT_Emissive.uasset" SILENT=true
+[2025.07.09-18.43.19:798][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/TORRE/Props_Torre_MAT_Emissive
+[2025.07.09-18.43.19:798][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Props_Torre_MAT_Emissive77A964144E90EFAFAE1EB69DCAEC61C6.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/TORRE/Props_Torre_MAT_Emissive.uasset'
+[2025.07.09-18.43.19:799][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/TORRE/Props_Torre_MAT_Normal" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/TORRE/Props_Torre_MAT_Normal.uasset" SILENT=true
+[2025.07.09-18.43.19:821][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/TORRE/Props_Torre_MAT_Normal
+[2025.07.09-18.43.19:821][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Props_Torre_MAT_Normal2457264E4963D9EA38E26EAC4163E696.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/TORRE/Props_Torre_MAT_Normal.uasset'
+[2025.07.09-18.43.19:848][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/TORRE/Props_Torre_MAT_OcclusionRoughnessMetallic
+[2025.07.09-18.43.19:848][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Props_Torre_MAT_OcclusionRoughne4B0B64E34DC0D0905C73F9BD002F9AE5.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/TORRE/Props_Torre_MAT_OcclusionRoughnessMetallic.uasset'
+[2025.07.09-18.43.19:850][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/TORRE/TORRE_MAT" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/TORRE/TORRE_MAT.uasset" SILENT=true
+[2025.07.09-18.43.19:851][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/TORRE/TORRE_MAT
+[2025.07.09-18.43.19:851][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/TORRE_MAT50578B504BB743F9F86282ADD2724F2C.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/TORRE/TORRE_MAT.uasset'
+[2025.07.09-18.43.19:852][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/TORRE/Torre_pCube7" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/TORRE/Torre_pCube7.uasset" SILENT=true
+[2025.07.09-18.43.19:855][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/TORRE/Torre_pCube7
+[2025.07.09-18.43.19:855][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Torre_pCube7767F758C41358C537726D3B823FC3D1A.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/TORRE/Torre_pCube7.uasset'
+[2025.07.09-18.43.19:869][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materiales/TORRE/Torre_pCube7" FILE="H:/Proyectos Unity/Spyrou/Content/Materiales/TORRE/Torre_pCube7.uasset" SILENT=true
+[2025.07.09-18.43.19:877][816]LogSavePackage: Moving output files for package: /Game/Materiales/TORRE/Torre_pCube7
+[2025.07.09-18.43.19:878][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Torre_pCube7A89C8DDE44EC6E6FA7DD6686B4D2FF1F.tmp' to 'H:/Proyectos Unity/Spyrou/Content/Materiales/TORRE/Torre_pCube7.uasset'
+[2025.07.09-18.43.19:879][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/TORRE/Torre_pCube8" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/TORRE/Torre_pCube8.uasset" SILENT=true
+[2025.07.09-18.43.19:882][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/TORRE/Torre_pCube8
+[2025.07.09-18.43.19:882][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Torre_pCube83A9E90D44773A45460654AB19A625549.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/TORRE/Torre_pCube8.uasset'
+[2025.07.09-18.43.19:895][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materiales/TORRE/Torre_pCube8" FILE="H:/Proyectos Unity/Spyrou/Content/Materiales/TORRE/Torre_pCube8.uasset" SILENT=true
+[2025.07.09-18.43.19:897][816]LogSavePackage: Moving output files for package: /Game/Materiales/TORRE/Torre_pCube8
+[2025.07.09-18.43.19:897][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Torre_pCube80D6BE38840BA9D05A22B6F98E99DA389.tmp' to 'H:/Proyectos Unity/Spyrou/Content/Materiales/TORRE/Torre_pCube8.uasset'
+[2025.07.09-18.43.19:902][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/PROPS_SPYRO_PAREDES_REDONDAS/PROPS_SPYRO_PAREDES_REDONDAS_Emissive
+[2025.07.09-18.43.19:902][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/PROPS_SPYRO_PAREDES_REDONDAS_Emi8C61DC8C4537D38F7FB166A4722061A6.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/PROPS_SPYRO_PAREDES_REDONDAS/PROPS_SPYRO_PAREDES_REDONDAS_Emissive.uasset'
+[2025.07.09-18.43.19:903][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/Torreta/Props_CabezaTorreta_MAT_Emissive" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/Torreta/Props_CabezaTorreta_MAT_Emissive.uasset" SILENT=true
+[2025.07.09-18.43.19:907][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/Torreta/Props_CabezaTorreta_MAT_Emissive
+[2025.07.09-18.43.19:907][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Props_CabezaTorreta_MAT_Emissive8E85D714414554D3A41B8386FC3B5B6B.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/Torreta/Props_CabezaTorreta_MAT_Emissive.uasset'
+[2025.07.09-18.43.19:908][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/Torreta/Props_BaseTorreta_MAT_Emissive" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/Torreta/Props_BaseTorreta_MAT_Emissive.uasset" SILENT=true
+[2025.07.09-18.43.19:912][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/Torreta/Props_BaseTorreta_MAT_Emissive
+[2025.07.09-18.43.19:912][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Props_BaseTorreta_MAT_Emissive9A94AB8747F24423BA1DF399FD6846B0.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/Torreta/Props_BaseTorreta_MAT_Emissive.uasset'
+[2025.07.09-18.43.19:924][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/Coleccionables/Props_Recolectable_MAT_Emissive
+[2025.07.09-18.43.19:924][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Props_Recolectable_MAT_EmissiveFCA73FFB41B4E37878FCBEACDFA044B7.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/Coleccionables/Props_Recolectable_MAT_Emissive.uasset'
+[2025.07.09-18.43.19:925][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/ARBUSTO/stylized_bush" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/ARBUSTO/stylized_bush.uasset" SILENT=true
+[2025.07.09-18.43.19:927][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/ARBUSTO/stylized_bush
+[2025.07.09-18.43.19:927][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/stylized_bush7CA711C243B50E023012459CA002609B.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/ARBUSTO/stylized_bush.uasset'
+[2025.07.09-18.43.19:939][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/GRASS/Grass_pPlane9" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/Grass_pPlane9.uasset" SILENT=true
+[2025.07.09-18.43.19:943][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/GRASS/Grass_pPlane9
+[2025.07.09-18.43.19:943][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Grass_pPlane9A54458794886DEA1FE5EF3BD403A53C6.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/Grass_pPlane9.uasset'
+[2025.07.09-18.43.19:951][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/GRASS/Grass_pPlane8" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/Grass_pPlane8.uasset" SILENT=true
+[2025.07.09-18.43.19:954][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/GRASS/Grass_pPlane8
+[2025.07.09-18.43.19:954][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Grass_pPlane8C6A354ED45514D38062F3AA5313C5367.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/Grass_pPlane8.uasset'
+[2025.07.09-18.43.19:965][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/GRASS/Grass_pPlane4" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/Grass_pPlane4.uasset" SILENT=true
+[2025.07.09-18.43.19:968][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/GRASS/Grass_pPlane4
+[2025.07.09-18.43.19:968][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Grass_pPlane4B321AF364FBC6FA839BBBA8C3C977CB7.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/Grass_pPlane4.uasset'
+[2025.07.09-18.43.19:977][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/GRASS/Grass_pPlane3" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/Grass_pPlane3.uasset" SILENT=true
+[2025.07.09-18.43.19:981][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/GRASS/Grass_pPlane3
+[2025.07.09-18.43.19:981][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Grass_pPlane3AFCC72BE47B2851CC372F38949062E14.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/Grass_pPlane3.uasset'
+[2025.07.09-18.43.19:990][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/GRASS/Grass_pPlane27" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/Grass_pPlane27.uasset" SILENT=true
+[2025.07.09-18.43.19:993][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/GRASS/Grass_pPlane27
+[2025.07.09-18.43.19:993][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Grass_pPlane273593C624412CFC826B92DBA0A642E529.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/Grass_pPlane27.uasset'
+[2025.07.09-18.43.20:002][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/GRASS/Grass_pPlane26" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/Grass_pPlane26.uasset" SILENT=true
+[2025.07.09-18.43.20:041][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/GRASS/Grass_pPlane26
+[2025.07.09-18.43.20:041][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Grass_pPlane26F545182942A586EE67E7DC87F5D0C566.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/Grass_pPlane26.uasset'
+[2025.07.09-18.43.20:050][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/GRASS/Grass_pPlane25" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/Grass_pPlane25.uasset" SILENT=true
+[2025.07.09-18.43.20:053][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/GRASS/Grass_pPlane25
+[2025.07.09-18.43.20:053][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Grass_pPlane251353E90E4F18DF4F90D097A560C33F39.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/Grass_pPlane25.uasset'
+[2025.07.09-18.43.20:062][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/GRASS/Grass_pPlane24" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/Grass_pPlane24.uasset" SILENT=true
+[2025.07.09-18.43.20:064][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/GRASS/Grass_pPlane24
+[2025.07.09-18.43.20:065][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Grass_pPlane24D6B3A59C4345A85817EF0E96B86ACF78.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/Grass_pPlane24.uasset'
+[2025.07.09-18.43.20:075][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/GRASS/Grass_pPlane23" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/Grass_pPlane23.uasset" SILENT=true
+[2025.07.09-18.43.20:078][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/GRASS/Grass_pPlane23
+[2025.07.09-18.43.20:078][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Grass_pPlane2307ADA3E245A5317B64835C891D66C0BA.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/Grass_pPlane23.uasset'
+[2025.07.09-18.43.20:086][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/GRASS/Grass_pPlane21" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/Grass_pPlane21.uasset" SILENT=true
+[2025.07.09-18.43.20:096][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/GRASS/Grass_pPlane21
+[2025.07.09-18.43.20:096][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Grass_pPlane2189D0DE6A4E82C7C1E6E025A87D57183A.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/Grass_pPlane21.uasset'
+[2025.07.09-18.43.20:105][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/GRASS/Grass_pPlane20" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/Grass_pPlane20.uasset" SILENT=true
+[2025.07.09-18.43.20:108][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/GRASS/Grass_pPlane20
+[2025.07.09-18.43.20:108][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Grass_pPlane20DC8271234D1579614573FEB45E8DA333.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/Grass_pPlane20.uasset'
+[2025.07.09-18.43.20:117][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/GRASS/Grass_pPlane19" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/Grass_pPlane19.uasset" SILENT=true
+[2025.07.09-18.43.20:120][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/GRASS/Grass_pPlane19
+[2025.07.09-18.43.20:120][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Grass_pPlane197A4AEB9144211D458B2797A7D92E1B52.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/Grass_pPlane19.uasset'
+[2025.07.09-18.43.20:129][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/GRASS/Grass_pPlane18" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/Grass_pPlane18.uasset" SILENT=true
+[2025.07.09-18.43.20:131][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/GRASS/Grass_pPlane18
+[2025.07.09-18.43.20:132][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Grass_pPlane18383F5C3447E9C35345C01FAF0E885DDB.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/Grass_pPlane18.uasset'
+[2025.07.09-18.43.20:141][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/GRASS/Grass_pPlane17" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/Grass_pPlane17.uasset" SILENT=true
+[2025.07.09-18.43.20:143][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/GRASS/Grass_pPlane17
+[2025.07.09-18.43.20:143][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Grass_pPlane172E79F9EE4D87428B6C6FFF9C666F7378.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/Grass_pPlane17.uasset'
+[2025.07.09-18.43.20:154][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/GRASS/Grass_pPlane16" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/Grass_pPlane16.uasset" SILENT=true
+[2025.07.09-18.43.20:157][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/GRASS/Grass_pPlane16
+[2025.07.09-18.43.20:157][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Grass_pPlane16B85B2AE8447B7703F329B2B0CD130A86.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/Grass_pPlane16.uasset'
+[2025.07.09-18.43.20:168][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/GRASS/Grass_pPlane15" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/Grass_pPlane15.uasset" SILENT=true
+[2025.07.09-18.43.20:172][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/GRASS/Grass_pPlane15
+[2025.07.09-18.43.20:172][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Grass_pPlane15194D61B64AC7720C746822B9C015738E.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/Grass_pPlane15.uasset'
+[2025.07.09-18.43.20:182][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/GRASS/Grass_pPlane14" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/Grass_pPlane14.uasset" SILENT=true
+[2025.07.09-18.43.20:185][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/GRASS/Grass_pPlane14
+[2025.07.09-18.43.20:185][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Grass_pPlane14ED4D50B84E541493CBE2BEA01B43AB29.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/Grass_pPlane14.uasset'
+[2025.07.09-18.43.20:197][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/GRASS/Grass_pPlane13" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/Grass_pPlane13.uasset" SILENT=true
+[2025.07.09-18.43.20:200][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/GRASS/Grass_pPlane13
+[2025.07.09-18.43.20:200][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Grass_pPlane137AEC943144D2EEE1F9947A9D322C73E8.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/Grass_pPlane13.uasset'
+[2025.07.09-18.43.20:210][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/GRASS/Grass_pPlane12" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/Grass_pPlane12.uasset" SILENT=true
+[2025.07.09-18.43.20:212][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/GRASS/Grass_pPlane12
+[2025.07.09-18.43.20:212][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Grass_pPlane129CBE89934D25CBB3276B0E8BE155B03B.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/Grass_pPlane12.uasset'
+[2025.07.09-18.43.20:221][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/GRASS/Grass_pPlane11" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/Grass_pPlane11.uasset" SILENT=true
+[2025.07.09-18.43.20:225][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/GRASS/Grass_pPlane11
+[2025.07.09-18.43.20:225][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Grass_pPlane118E22FA7741A5D5097C3623A6F284B33C.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/Grass_pPlane11.uasset'
+[2025.07.09-18.43.20:234][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MATS_FBXS/GRASS/Grass_pPlane10" FILE="H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/Grass_pPlane10.uasset" SILENT=true
+[2025.07.09-18.43.20:236][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/GRASS/Grass_pPlane10
+[2025.07.09-18.43.20:236][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/Grass_pPlane105639AD19425F536232A3BA80FF0A27DD.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/GRASS/Grass_pPlane10.uasset'
+[2025.07.09-18.43.20:243][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/PROPS_SPYRO_PILAR_PIEDRA/PROPS_SPYRO_PILAR_PIEDRA_Emissive
+[2025.07.09-18.43.20:243][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/PROPS_SPYRO_PILAR_PIEDRA_Emissiv1052F4C0461F8D36C85C5291F815CA11.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/PROPS_SPYRO_PILAR_PIEDRA/PROPS_SPYRO_PILAR_PIEDRA_Emissive.uasset'
+[2025.07.09-18.43.20:248][816]LogSavePackage: Moving output files for package: /Game/MATS_FBXS/PROPS_SPYRO_SUELO_PIEDRA/PROPS_SPYRO_SUELO_PIEDRA_Emissive
+[2025.07.09-18.43.20:248][816]LogSavePackage: Moving 'H:/Proyectos Unity/Spyrou/Saved/PROPS_SPYRO_SUELO_PIEDRA_Emissiv2CCEB8A7436D7C35F71945BD5616EED5.tmp' to 'H:/Proyectos Unity/Spyrou/Content/MATS_FBXS/PROPS_SPYRO_SUELO_PIEDRA/PROPS_SPYRO_SUELO_PIEDRA_Emissive.uasset'
+[2025.07.09-18.43.20:261][816]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.66 sec (total: 29.4 sec)
+[2025.07.09-18.43.20:797][816]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.07.09-18.43.20:823][816]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.07.09-18.43.20:838][816]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.07.09-18.43.21:041][816]AssetCheck: New page: Asset Save: multiple assets
+[2025.07.09-18.43.21:041][816]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2025.07.09-18.43.21:041][816]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_Cannon.BP_Cannon
+[2025.07.09-18.43.21:041][816]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_Coleccionable.BP_Coleccionable
+[2025.07.09-18.43.21:041][816]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_LiquidDamage.BP_LiquidDamage
+[2025.07.09-18.43.21:041][816]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_Platform_Points.BP_Platform_Points
+[2025.07.09-18.43.21:041][816]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MATS_FBXS/PROPS_SPYRO_PAREDES_REDONDAS/PROPS_SPYRO_PAREDES_REDONDAS_BaseColor.PROPS_SPYRO_PAREDES_REDONDAS_BaseColor
+[2025.07.09-18.43.21:041][816]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MATS_FBXS/PROPS_SPYRO_PAREDES_REDONDAS/PROPS_SPYRO_PAREDES_REDONDAS_Normal.PROPS_SPYRO_PAREDES_REDONDAS_Normal
+[2025.07.09-18.43.21:041][816]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MATS_FBXS/PROPS_SPYRO_PAREDES_REDONDAS/PROPS_SPYRO_PAREDES_REDONDAS_OcclusionRoughnessMetallic.PROPS_SPYRO_PAREDES_REDONDAS_OcclusionRoughnessMetallic
+[2025.07.09-18.43.21:041][816]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MATS_FBXS/PROPS_SPYRO_PAREDES_REDONDAS/PARED_REDONDA_MAT2.PARED_REDONDA_MAT2
+[2025.07.09-18.43.21:041][816]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Materiales/PROPS_SPYRO_PAREDES_REDONDAS/PARED_REDONDA_MAT2.PARED_REDONDA_MAT2
+[2025.07.09-18.43.21:041][816]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/MATS_FBXS/PROPS_SPYRO_PAREDES_REDONDAS/PARED_REDONDA_1_FBX.PARED_REDONDA_1_FBX
+[2025.07.09-18.43.21:041][816]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Materiales/PROPS_SPYRO_PAREDES_REDONDAS/PARED_REDONDA_1_FBX.PARED_REDONDA_1_FBX
+[2025.07.09-18.43.21:041][816]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MATS_FBXS/SpyroTexture/avatar_facebook.avatar_facebook
+[2025.07.09-18.43.21:041][816]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MATS_FBXS/SpyroTexture/SpyroMAT.SpyroMAT
+[2025.07.09-18.43.21:041][816]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MATS_FBXS/Torreta/Props_BaseTorreta_MAT_BaseColor.Props_BaseTorreta_MAT_BaseColor
+[2025.07.09-18.43.21:041][816]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MATS_FBXS/Torreta/Props_BaseTorreta_MAT_Normal.Props_BaseTorreta_MAT_Normal
+[2025.07.09-18.43.21:041][816]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MATS_FBXS/Torreta/Props_BaseTorreta_MAT_OcclusionRoughnessMetallic.Props_BaseTorreta_MAT_OcclusionRoughnessMetallic
+[2025.07.09-18.43.21:041][816]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MATS_FBXS/Torreta/BaseTorreta_MAT.BaseTorreta_MAT
+[2025.07.09-18.43.21:041][816]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/MATS_FBXS/Torreta/BaseTorretaNEW.BaseTorretaNEW
+[2025.07.09-18.43.21:041][816]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MATS_FBXS/Torreta/Props_CabezaTorreta_MAT_BaseColor.Props_CabezaTorreta_MAT_BaseColor
+[2025.07.09-18.43.21:041][816]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MATS_FBXS/Torreta/Props_CabezaTorreta_MAT_Normal.Props_CabezaTorreta_MAT_Normal
+[2025.07.09-18.43.21:041][816]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MATS_FBXS/Torreta/Props_CabezaTorreta_MAT_OcclusionRoughnessMetallic.Props_CabezaTorreta_MAT_OcclusionRoughnessMetallic
+[2025.07.09-18.43.21:041][816]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MATS_FBXS/Torreta/CabezaTorreta_MAT.CabezaTorreta_MAT
+[2025.07.09-18.43.21:041][816]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MATS_FBXS/Torreta/Default_Material.Default_Material
+[2025.07.09-18.43.21:041][816]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/MATS_FBXS/Torreta/CabezaTorreteNEW.CabezaTorreteNEW
+[2025.07.09-18.43.21:041][816]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MATS_FBXS/Coleccionables/Props_Recolectable_MAT_BaseColor.Props_Recolectable_MAT_BaseColor
+[2025.07.09-18.43.21:041][816]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MATS_FBXS/Coleccionables/Props_Recolectable_MAT_Normal.Props_Recolectable_MAT_Normal
+[2025.07.09-18.43.21:041][816]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MATS_FBXS/Coleccionables/Props_Recolectable_MAT_OcclusionRoughnessMetallic.Props_Recolectable_MAT_OcclusionRoughnessMetallic
+[2025.07.09-18.43.21:041][816]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MATS_FBXS/Coleccionables/Recolectable_MAT.Recolectable_MAT
+[2025.07.09-18.43.21:041][816]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/MATS_FBXS/Coleccionables/Recolectable.Recolectable
+[2025.07.09-18.43.21:041][816]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MATS_FBXS/PROPS_SPYRO_TRAMPA_VENENO/PROPS_SPYRO_TRAMPA_VENENO_BaseColor.PROPS_SPYRO_TRAMPA_VENENO_BaseColor
+[2025.07.09-18.43.21:041][816]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MATS_FBXS/PROPS_SPYRO_TRAMPA_VENENO/PROPS_SPYRO_TRAMPA_VENENO_Normal.PROPS_SPYRO_TRAMPA_VENENO_Normal
+[2025.07.09-18.43.21:041][816]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MATS_FBXS/PROPS_SPYRO_TRAMPA_VENENO/PROPS_SPYRO_TRAMPA_VENENO_OcclusionRoughnessMetallic.PROPS_SPYRO_TRAMPA_VENENO_OcclusionRoughnessMetallic
+[2025.07.09-18.43.21:041][816]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MATS_FBXS/PROPS_SPYRO_TRAMPA_VENENO/PROPS_SPYRO_TRAMPA_VENENO_MAT.PROPS_SPYRO_TRAMPA_VENENO_MAT
+[2025.07.09-18.43.21:041][816]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/MATS_FBXS/PROPS_SPYRO_TRAMPA_VENENO/TRAMPA_VENENO_FBX.TRAMPA_VENENO_FBX
+[2025.07.09-18.43.21:041][816]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Materiales/PROPS_SPYRO_TRAMPA_VENENO/TRAMPA_VENENO_FBX.TRAMPA_VENENO_FBX
+[2025.07.09-18.43.21:041][816]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MATS_FBXS/PROPS_SPYRO_TRANSPORTE_ROCA/PROPS_SPYRO_TRANSPORTE_ROCA_BaseColor.PROPS_SPYRO_TRANSPORTE_ROCA_BaseColor
+[2025.07.09-18.43.21:041][816]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MATS_FBXS/PROPS_SPYRO_TRANSPORTE_ROCA/PROPS_SPYRO_TRANSPORTE_ROCA_Normal.PROPS_SPYRO_TRANSPORTE_ROCA_Normal
+[2025.07.09-18.43.21:041][816]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MATS_FBXS/PROPS_SPYRO_TRANSPORTE_ROCA/PROPS_SPYRO_TRANSPORTE_ROCA_OcclusionRoughnessMetallic.PROPS_SPYRO_TRANSPORTE_ROCA_OcclusionRoughnessMetallic
+[2025.07.09-18.43.21:041][816]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MATS_FBXS/PROPS_SPYRO_TRANSPORTE_ROCA/PROPS_SPYRO_TRANSPORTE_ROCA_MAT.PROPS_SPYRO_TRANSPORTE_ROCA_MAT
+[2025.07.09-18.43.21:041][816]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/MATS_FBXS/PROPS_SPYRO_TRANSPORTE_ROCA/TRANSPORTE_ROCA_FBX.TRANSPORTE_ROCA_FBX
+[2025.07.09-18.43.21:041][816]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Materiales/PROPS_SPYRO_TRANSPORTE_ROCA/TRANSPORTE_ROCA_FBX.TRANSPORTE_ROCA_FBX
+[2025.07.09-18.43.21:041][816]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MATS_FBXS/ARBUSTO/9.9
+[2025.07.09-18.43.21:041][816]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MATS_FBXS/ARBUSTO/9_alpha.9_alpha
+[2025.07.09-18.43.21:041][816]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MATS_FBXS/ARBUSTO/ARBUSTO_MAT.ARBUSTO_MAT
+[2025.07.09-18.43.21:041][816]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/MATS_FBXS/ARBUSTO/ARBUSTO.ARBUSTO
+[2025.07.09-18.43.21:041][816]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Materiales/ARBUSTO/ARBUSTO.ARBUSTO
+[2025.07.09-18.43.21:041][816]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MATS_FBXS/GRASS/Grassblade_Texture.Grassblade_Texture
+[2025.07.09-18.43.21:041][816]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MATS_FBXS/GRASS/lambert6.lambert6
+[2025.07.09-18.43.21:041][816]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/MATS_FBXS/GRASS/Grass_pPlane1.Grass_pPlane1
+[2025.07.09-18.43.21:041][816]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Materiales/GRASS/Grass_pPlane1.Grass_pPlane1
+[2025.07.09-18.43.21:041][816]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/MATS_FBXS/GRASS/Grass_pPlane2.Grass_pPlane2
+[2025.07.09-18.43.21:041][816]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Materiales/GRASS/Grass_pPlane2.Grass_pPlane2
+[2025.07.09-18.43.21:041][816]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MATS_FBXS/GRASS/Grassblade_Texture_02.Grassblade_Texture_02
+[2025.07.09-18.43.21:041][816]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MATS_FBXS/GRASS/lambert7.lambert7
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/MATS_FBXS/GRASS/Grass_pPlane22.Grass_pPlane22
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Materiales/GRASS/Grass_pPlane22.Grass_pPlane22
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/MATS_FBXS/GRASS/Grass_pPlane28.Grass_pPlane28
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Materiales/GRASS/Grass_pPlane28.Grass_pPlane28
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/MATS_FBXS/GRASS/Grass_pPlane5.Grass_pPlane5
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Materiales/GRASS/Grass_pPlane5.Grass_pPlane5
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/MATS_FBXS/GRASS/Grass_pPlane6.Grass_pPlane6
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Materiales/GRASS/Grass_pPlane6.Grass_pPlane6
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/MATS_FBXS/GRASS/Grass_pPlane7.Grass_pPlane7
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Materiales/GRASS/Grass_pPlane7.Grass_pPlane7
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/MATS_FBXS/PROPS_SPYRO_PAREDES_REDONDAS/PARED_REDONDA_2_FBX.PARED_REDONDA_2_FBX
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Materiales/PROPS_SPYRO_PAREDES_REDONDAS/PARED_REDONDA_2_FBX.PARED_REDONDA_2_FBX
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/MATS_FBXS/PROPS_SPYRO_PAREDES_REDONDAS/PARED_REDONDA_3_FBX.PARED_REDONDA_3_FBX
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Materiales/PROPS_SPYRO_PAREDES_REDONDAS/PARED_REDONDA_3_FBX.PARED_REDONDA_3_FBX
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MATS_FBXS/PROPS_SPYRO_PILAR_PIEDRA/PROPS_SPYRO_PILAR_PIEDRA_BaseColor.PROPS_SPYRO_PILAR_PIEDRA_BaseColor
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MATS_FBXS/PROPS_SPYRO_PILAR_PIEDRA/PROPS_SPYRO_PILAR_PIEDRA_Normal.PROPS_SPYRO_PILAR_PIEDRA_Normal
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MATS_FBXS/PROPS_SPYRO_PILAR_PIEDRA/PROPS_SPYRO_PILAR_PIEDRA_OcclusionRoughnessMetallic.PROPS_SPYRO_PILAR_PIEDRA_OcclusionRoughnessMetallic
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MATS_FBXS/PROPS_SPYRO_PILAR_PIEDRA/PILAR_PIEDRA_MAT.PILAR_PIEDRA_MAT
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/MATS_FBXS/PROPS_SPYRO_PILAR_PIEDRA/PILAR_PIEDRA_FBX.PILAR_PIEDRA_FBX
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Materiales/PROPS_SPYRO_PILAR_PIEDRA/PILAR_PIEDRA_FBX.PILAR_PIEDRA_FBX
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MATS_FBXS/PROPS_SPYRO_SUELO_PIEDRA/PROPS_SPYRO_SUELO_PIEDRA_BaseColor.PROPS_SPYRO_SUELO_PIEDRA_BaseColor
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MATS_FBXS/PROPS_SPYRO_SUELO_PIEDRA/PROPS_SPYRO_SUELO_PIEDRA_Normal.PROPS_SPYRO_SUELO_PIEDRA_Normal
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MATS_FBXS/PROPS_SPYRO_SUELO_PIEDRA/PROPS_SPYRO_SUELO_PIEDRA_OcclusionRoughnessMetallic.PROPS_SPYRO_SUELO_PIEDRA_OcclusionRoughnessMetallic
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MATS_FBXS/PROPS_SPYRO_SUELO_PIEDRA/SUELO_PIEDRA_MAT.SUELO_PIEDRA_MAT
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/MATS_FBXS/PROPS_SPYRO_SUELO_PIEDRA/SUELO_PIEDRA_FBX.SUELO_PIEDRA_FBX
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Materiales/PROPS_SPYRO_SUELO_PIEDRA/SUELO_PIEDRA_FBX.SUELO_PIEDRA_FBX
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MATS_FBXS/PROPS_SPYRO_SUELOS_GRANDES_PASTO_TIERRA/PROPS_SPYRO_SUELOS_GRANDES_PASTO_TIERRA_BaseColor.PROPS_SPYRO_SUELOS_GRANDES_PASTO_TIERRA_BaseColor
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MATS_FBXS/PROPS_SPYRO_SUELOS_GRANDES_PASTO_TIERRA/PROPS_SPYRO_SUELOS_GRANDES_PASTO_TIERRA_Normal.PROPS_SPYRO_SUELOS_GRANDES_PASTO_TIERRA_Normal
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MATS_FBXS/PROPS_SPYRO_SUELOS_GRANDES_PASTO_TIERRA/PROPS_SPYRO_SUELOS_GRANDES_PASTO_TIERRA_OcclusionRoughnessMetallic.PROPS_SPYRO_SUELOS_GRANDES_PASTO_TIERRA_OcclusionRoughnessMetallic
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MATS_FBXS/PROPS_SPYRO_SUELOS_GRANDES_PASTO_TIERRA/PROPS_SPYRO_SUELOS_GRANDES_PASTO_TIERRA_MAT.PROPS_SPYRO_SUELOS_GRANDES_PASTO_TIERRA_MAT
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/MATS_FBXS/PROPS_SPYRO_SUELOS_GRANDES_PASTO_TIERRA/SUELOS_GRANDES_PASTO_TIERRA_FBX.SUELOS_GRANDES_PASTO_TIERRA_FBX
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Materiales/PROPS_SPYRO_SUELOS_GRANDES_PASTO_TIERRA/SUELOS_GRANDES_PASTO_TIERRA_FBX.SUELOS_GRANDES_PASTO_TIERRA_FBX
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MATS_FBXS/TORRE/Props_Torre_MAT_BaseColor.Props_Torre_MAT_BaseColor
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MATS_FBXS/TORRE/Props_Torre_MAT_Emissive.Props_Torre_MAT_Emissive
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MATS_FBXS/TORRE/Props_Torre_MAT_Normal.Props_Torre_MAT_Normal
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MATS_FBXS/TORRE/Props_Torre_MAT_OcclusionRoughnessMetallic.Props_Torre_MAT_OcclusionRoughnessMetallic
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MATS_FBXS/TORRE/TORRE_MAT.TORRE_MAT
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/MATS_FBXS/TORRE/Torre_pCube7.Torre_pCube7
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Materiales/TORRE/Torre_pCube7.Torre_pCube7
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/MATS_FBXS/TORRE/Torre_pCube8.Torre_pCube8
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Materiales/TORRE/Torre_pCube8.Torre_pCube8
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MATS_FBXS/PROPS_SPYRO_PAREDES_REDONDAS/PROPS_SPYRO_PAREDES_REDONDAS_Emissive.PROPS_SPYRO_PAREDES_REDONDAS_Emissive
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MATS_FBXS/Torreta/Props_CabezaTorreta_MAT_Emissive.Props_CabezaTorreta_MAT_Emissive
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MATS_FBXS/Torreta/Props_BaseTorreta_MAT_Emissive.Props_BaseTorreta_MAT_Emissive
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MATS_FBXS/Coleccionables/Props_Recolectable_MAT_Emissive.Props_Recolectable_MAT_Emissive
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/MATS_FBXS/ARBUSTO/stylized_bush.stylized_bush
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/MATS_FBXS/GRASS/Grass_pPlane9.Grass_pPlane9
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/MATS_FBXS/GRASS/Grass_pPlane8.Grass_pPlane8
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/MATS_FBXS/GRASS/Grass_pPlane4.Grass_pPlane4
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/MATS_FBXS/GRASS/Grass_pPlane3.Grass_pPlane3
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/MATS_FBXS/GRASS/Grass_pPlane27.Grass_pPlane27
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/MATS_FBXS/GRASS/Grass_pPlane26.Grass_pPlane26
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/MATS_FBXS/GRASS/Grass_pPlane25.Grass_pPlane25
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/MATS_FBXS/GRASS/Grass_pPlane24.Grass_pPlane24
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/MATS_FBXS/GRASS/Grass_pPlane23.Grass_pPlane23
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/MATS_FBXS/GRASS/Grass_pPlane21.Grass_pPlane21
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/MATS_FBXS/GRASS/Grass_pPlane20.Grass_pPlane20
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/MATS_FBXS/GRASS/Grass_pPlane19.Grass_pPlane19
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/MATS_FBXS/GRASS/Grass_pPlane18.Grass_pPlane18
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/MATS_FBXS/GRASS/Grass_pPlane17.Grass_pPlane17
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/MATS_FBXS/GRASS/Grass_pPlane16.Grass_pPlane16
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/MATS_FBXS/GRASS/Grass_pPlane15.Grass_pPlane15
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/MATS_FBXS/GRASS/Grass_pPlane14.Grass_pPlane14
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/MATS_FBXS/GRASS/Grass_pPlane13.Grass_pPlane13
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/MATS_FBXS/GRASS/Grass_pPlane12.Grass_pPlane12
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/MATS_FBXS/GRASS/Grass_pPlane11.Grass_pPlane11
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/MATS_FBXS/GRASS/Grass_pPlane10.Grass_pPlane10
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MATS_FBXS/PROPS_SPYRO_PILAR_PIEDRA/PROPS_SPYRO_PILAR_PIEDRA_Emissive.PROPS_SPYRO_PILAR_PIEDRA_Emissive
+[2025.07.09-18.43.21:042][816]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MATS_FBXS/PROPS_SPYRO_SUELO_PIEDRA/PROPS_SPYRO_SUELO_PIEDRA_Emissive.PROPS_SPYRO_SUELO_PIEDRA_Emissive
+[2025.07.09-18.43.29:330][321]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.07.09-18.43.29:346][321]LogContentBrowser: Creating deferred item: NewFolder
+[2025.07.09-18.43.29:365][322]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.07.09-18.43.31:050][433]LogContentBrowser: Attempting asset rename: NewFolder -> BANANA
+[2025.07.09-18.43.31:051][433]LogContentBrowser: End creating deferred item NewFolder
+[2025.07.09-18.43.34:486][515]LogFactory: Error: Can't find file 'source\Banana Peel.fbx' for import
+[2025.07.09-18.43.39:346][515]LogSlate: Window 'Message' being destroyed
+[2025.07.09-18.43.39:353][515]Message dialog closed, result: Ok, title: Message, text: Failed to import 'source\Banana Peel.fbx'. Failed to create asset '/Game/MATS_FBXS/BANANA/Banana_Peel'.
+Please see Output Log for details.
+[2025.07.09-18.43.39:353][515]LogAssetTools: Warning: Failed to import 'source\Banana Peel.fbx'. Failed to create asset '/Game/MATS_FBXS/BANANA/Banana_Peel'.
+Please see Output Log for details.
+[2025.07.09-18.43.43:389][670]LogFactory: Error: Can't find file 'source\Banana Peel.fbx' for import
+[2025.07.09-18.43.46:223][670]LogSlate: Window 'Message' being destroyed
+[2025.07.09-18.43.46:229][670]Message dialog closed, result: Ok, title: Message, text: Failed to import 'source\Banana Peel.fbx'. Failed to create asset '/Game/MATS_FBXS/BANANA/Banana_Peel'.
+Please see Output Log for details.
+[2025.07.09-18.43.46:229][670]LogAssetTools: Warning: Failed to import 'source\Banana Peel.fbx'. Failed to create asset '/Game/MATS_FBXS/BANANA/Banana_Peel'.
+Please see Output Log for details.
+[2025.07.09-18.43.52:264][738]LogFactory: Error: Can't find file 'source\BananaPeel.fbx' for import
+[2025.07.09-18.43.53:732][738]LogSlate: Window 'Message' being destroyed
+[2025.07.09-18.43.53:738][738]Message dialog closed, result: Cancel, title: Message, text: Failed to import 'source\BananaPeel.fbx'. Failed to create asset '/Game/MATS_FBXS/BANANA/BananaPeel'.
+Please see Output Log for details.
+[2025.07.09-18.43.53:739][738]LogAssetTools: Warning: Failed to import 'source\BananaPeel.fbx'. Failed to create asset '/Game/MATS_FBXS/BANANA/BananaPeel'.
+Please see Output Log for details.
+[2025.07.09-18.45.03:584][993]LogFactory: Error: Can't find file 'source\banana peel.fbx' for import
+[2025.07.09-18.45.11:450][993]LogSlate: Window 'Message' being destroyed
+[2025.07.09-18.45.11:457][993]Message dialog closed, result: Ok, title: Message, text: Failed to import 'source\banana peel.fbx'. Failed to create asset '/Game/MATS_FBXS/BANANA/banana_peel'.
+Please see Output Log for details.
+[2025.07.09-18.45.11:457][993]LogAssetTools: Warning: Failed to import 'source\banana peel.fbx'. Failed to create asset '/Game/MATS_FBXS/BANANA/banana_peel'.
+Please see Output Log for details.
+[2025.07.09-18.45.17:701][278]LogFactory: Error: Can't find file 'source\banana peel.fbx' for import
+[2025.07.09-18.45.20:421][278]LogSlate: Window 'Message' being destroyed
+[2025.07.09-18.45.20:427][278]Message dialog closed, result: Ok, title: Message, text: Failed to import 'source\banana peel.fbx'. Failed to create asset '/Game/MATS_FBXS/banana_peel'.
+Please see Output Log for details.
+[2025.07.09-18.45.20:427][278]LogAssetTools: Warning: Failed to import 'source\banana peel.fbx'. Failed to create asset '/Game/MATS_FBXS/banana_peel'.
+Please see Output Log for details.
