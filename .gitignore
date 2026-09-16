@@ -1,0 +1,37 @@
+# ---------------------------------------------------
+# Unreal Engine .gitignore (TP1_PrograMotores1)
+# ---------------------------------------------------
+
+# Engine-generated folders (rebuilt automatically on open)
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+Windows/
+
+# Compiled source files
+*.obj
+*.pdb
+*.exe
+*.dll
+*.lib
+*.exp
+
+# Visual Studio / Rider files
+.vs/
+.vsconfig
+*.sln
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.opendb
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Crash reports / logs (per-machine, not useful to share)
+*.log
